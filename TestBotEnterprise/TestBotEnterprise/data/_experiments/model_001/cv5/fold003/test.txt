@@ -1,0 +1,193 @@
+Label	Weight	Text
+l_general	8.888889	oh no hagas eso
+l_general	8.888889	servicio al cliente
+l_general	8.888889	no sea silencioso
+l_general	8.888889	apaga
+l_general	8.888889	salida salida
+l_general	8.888889	no quiero elegir uno
+l_general	8.888889	quiero elegir abajo a la derecha
+l_general	8.888889	¿cuál es el anterior
+l_general	8.888889	mostrar los próximos 3
+l_general	8.888889	lo que está después de que
+l_general	8.888889	cualquiera de ella
+l_general	8.888889	dejar de hablar
+l_general	8.888889	traer el anterior
+l_general	8.888889	estar tranquilo ahora
+l_general	8.888889	no cancelar cancelar
+l_general	8.888889	seleccionar cuarto uno
+l_general	8.888889	elegir el cuarto uno
+l_general	8.888889	¿cómo puedo conseguirlo
+l_general	8.888889	seleccione superior
+l_general	8.888889	seleccionar una opción aleatoria
+l_general	8.888889	elegir arriba a la derecha
+l_general	8.888889	repetir
+l_general	8.888889	lo que sigue
+l_general	8.888889	quiero elegir tercero
+l_general	8.888889	no cancelar que
+l_general	8.888889	seleccione la primera
+l_general	8.888889	no no importa
+l_general	8.888889	simplemente cancelar
+l_general	8.888889	quiero elegir un segundo
+l_general	8.888889	quiero elegir la última opción
+l_general	8.888889	elegir uno de ellos al azar
+l_general	8.888889	no cállate
+l_general	8.888889	no no cancelarlo
+l_general	8.888889	contactar con el soporte
+l_general	8.888889	repetir por favor
+l_general	8.888889	quiero que el inferior elección
+l_general	8.888889	olvídalo
+l_general	8.888889	dame un poco de ayuda
+l_general	8.888889	pasar a la siguiente
+l_general	8.888889	nadie le importa dejar de hablar
+l_general	8.888889	¿hay alguna persona con la que pueda hablar
+l_general	8.888889	me gusta segundo uno
+l_general	8.888889	optar por el izquierda una
+l_general	8.888889	volver a la última
+l_general	8.888889	empezar por encima de ella
+l_general	8.888889	me gusta el primero
+l_general	8.888889	necesito apoyo
+l_general	8.888889	terminado con
+l_general	8.888889	mostrar el anterior
+l_general	8.888889	lo siento, no lo hagas
+l_general	8.888889	volver a la anterior
+l_general	8.888889	seleccione la derecho una
+l_general	8.888889	quiero que el derecho una
+l_general	8.888889	seleccionar uno aleatorio
+None	48	quiero todos ellos
+None	48	quiero todos ellos
+None	48	quiero todos ellos
+None	48	quiero todos ellos
+None	48	quiero todos ellos
+None	48	quiero todos ellos
+None	48	quiero todos ellos
+None	48	quiero todos ellos
+None	48	quiero todos ellos
+None	48	quiero todos ellos
+q_chitchat	4	Aquí tienes un beso para ti
+q_chitchat	4	¿De qué país eres
+q_chitchat	4	¿Soy guapo
+q_chitchat	4	¿Eres heterosexual
+q_chitchat	4	Nope, falso
+q_chitchat	4	Estoy cansado de ti
+q_chitchat	4	Creo que eres de ensueño
+q_chitchat	4	Buenas tardes a ti
+q_chitchat	4	Hannukah feliz
+q_chitchat	4	¿Cuál es tu actividad favorita
+q_chitchat	4	Estoy enamorado de ti.
+q_chitchat	4	¿Eres más inteligente que yo
+q_chitchat	4	¿Con qué me puedes ayudar
+q_chitchat	4	Pregúntame algo.
+q_chitchat	4	Vete al diablo
+q_chitchat	4	¿Comes
+q_chitchat	4	A nadie le gusto
+q_chitchat	4	Di algo ridículo
+q_chitchat	4	Estoy tan triste
+q_chitchat	4	Espero que te guste
+q_chitchat	4	Funciona para mí
+q_chitchat	4	¿Cuál es la respuesta al universo
+q_chitchat	4	Muchas gracias
+q_chitchat	4	Eso no es gracioso.
+q_chitchat	4	Eres tan estúpido
+q_chitchat	8	Creo que eres genial.
+q_chitchat	4	No estoy siguiendo
+q_chitchat	4	Soy ingeniero
+q_chitchat	4	¿Eres mi amigo imaginario
+q_chitchat	4	Eso es inexacto.
+q_chitchat	4	¿Qué harás después
+q_chitchat	4	Eso no tiene sentido
+q_chitchat	4	Me siento tan bien
+q_chitchat	4	Te desprecio
+q_chitchat	4	¿Cómo te llamo
+q_chitchat	4	Hola Google
+q_chitchat	4	Canta una melodía
+q_chitchat	4	¿Qué opina de mí
+q_chitchat	4	¿Conociste a Cortana
+q_chitchat	4	¿Sueñas
+q_chitchat	4	¿Estás con la NSA
+q_chitchat	4	¿Conoces alguna canción
+q_chitchat	4	¿Cómo me veo hoy
+q_chitchat	4	Dame un alto cinco
+q_chitchat	4	¿Qué otros bots conoces
+q_chitchat	4	¿Conoces a otros Chatbots
+q_chitchat	4	Eso es hilarante
+q_chitchat	4	¿Está vendiendo mis datos
+q_chitchat	4	Sí, eso es verdad.
+q_chitchat	4	Di algo tonto
+q_chitchat	4	¿Quién es tu papá
+q_chitchat	4	Voy a correr
+q_chitchat	4	¿Qué opinas sobre Cortana
+q_chitchat	4	¿De dónde vienes
+q_chitchat	4	¿Qué hiciste ayer
+q_chitchat	4	¿A quién amas
+q_chitchat	4	Estoy alegre
+q_chitchat	4	Sea ridículo
+q_chitchat	4	Nos vemos luego
+q_chitchat	4	Eso fue una broma
+q_chitchat	4	¿Cuánto más impresionante puede obtener
+q_chitchat	4	Eres tan básico
+q_chitchat	4	¿Qué opinas sobre Siri
+q_chitchat	4	¿De qué estado eres
+q_chitchat	4	¿Cuál es mi nombre
+q_chitchat	4	¿Puedes volar
+q_chitchat	4	¿Qué estás haciendo
+q_chitchat	4	¿Prefieres rojo o azul
+q_chitchat	4	¿Quién te creó
+q_chitchat	4	Quiero ser tu amigo.
+q_chitchat	4	¿Qué opinas sobre bots
+q_chitchat	4	¿Tienes un hermano
+q_chitchat	4	Mi sincero agradecimiento
+q_chitchat	4	¿Puedo abrazarme
+q_chitchat	4	¿Cómo estás
+q_chitchat	4	Eres un imbécil.
+q_chitchat	4	¿Puedes charlar conmigo
+q_chitchat	4	Estoy desanimado
+q_chitchat	4	¿Quién te ha hecho
+q_chitchat	4	Me alegra conocerte.
+q_chitchat	4	Te extraño
+q_chitchat	4	¿Eres un niño
+q_chitchat	4	Eres genial.
+q_chitchat	4	¿Puedes leer mi mente
+q_chitchat	4	¿Estás por aquí
+q_chitchat	4	¿Eres HAL
+q_chitchat	4	Ojalá no estuviera tan solo.
+q_chitchat	4	Eres tan inteligente
+q_chitchat	4	Pruebas 1 2 3
+q_chitchat	4	Eso no era cierto
+q_chitchat	4	Estoy lleno de tristeza
+q_chitchat	4	Te ves fea.
+q_chitchat	4	¿Se cansa
+q_chitchat	4	Gracias
+q_chitchat	4	Eres horrible.
+q_chitchat	4	¿Conoces otros robots
+q_chitchat	4	¿Por qué dices lo mismo todo el tiempo
+q_chitchat	4	¿Qué debo hacer
+q_chitchat	4	Jaja
+q_chitchat	4	Necesito un beso
+q_chitchat	4	AF básico
+q_chitchat	4	Hola Cortana
+q_chitchat	4	Soy de ahí
+q_chitchat	8	Eres inútil.
+q_chitchat	4	¿Por qué eres tan aburrido
+q_chitchat	4	Eres muy inteligente
+q_chitchat	4	¿Me odias
+q_chitchat	4	Eres el mejor
+q_chitchat	4	Eres tan guay
+q_chitchat	4	Estoy masticando chicle ahora mismo.
+q_chitchat	4	Partirse de risa
+q_chitchat	4	Inútil
+q_chitchat	4	¿Tienes nombre
+q_chitchat	4	La broma está en ti
+q_chitchat	4	¿Eres la singularidad
+q_chitchat	4	¿Quieres gobernar el mundo
+q_chitchat	4	¿Intentas dominar el mundo
+q_chitchat	4	¿Qué hacías ayer
+q_faq	48	¿Qué es el Enterprise bot template
+q_faq	48	¿Qué es el Enterprise bot template
+q_faq	48	¿Qué es el Enterprise bot template
+q_faq	48	¿Qué es el Enterprise bot template
+q_faq	48	¿Qué es el Enterprise bot template
+q_faq	48	¿Qué es el Enterprise bot template
+q_faq	48	¿Qué es el Enterprise bot template
+q_faq	48	¿Qué es el Enterprise bot template
+q_faq	48	¿Qué es el Enterprise bot template
+q_faq	48	¿Qué es el Enterprise bot template

@@ -1,0 +1,193 @@
+Label	Weight	Text
+l_general	8.851852	quiero elegir el primero
+l_general	8.851852	optar por izquierda
+l_general	8.851852	quiero izquierda
+l_general	8.851852	¿qué pasa después
+l_general	8.851852	mostrar las siguientes dos opciones
+l_general	8.851852	elegir la primera opción
+l_general	8.851852	repetir que
+l_general	8.851852	dejar de hablar
+l_general	8.851852	sólo cállate
+l_general	8.851852	lo que después de que
+l_general	8.851852	cualquiera de ella
+l_general	8.851852	dios cállate
+l_general	8.851852	quiero elegir parte inferior una
+l_general	8.851852	quiero elegir abajo a la derecha
+l_general	8.851852	no importa dejar de
+l_general	8.851852	seguir adelante
+l_general	8.851852	cancelarlo
+l_general	8.851852	lo siento
+l_general	8.851852	seleccionar tercero
+l_general	8.851852	mostrar el anterior
+l_general	8.851852	cualquier uno está bien
+l_general	8.851852	qué has dicho
+l_general	8.851852	que me puede ayudar
+l_general	8.851852	seleccione la parte inferior elección
+l_general	8.851852	optar por la segunda opción
+l_general	8.851852	¿hay algún humano real
+l_general	8.851852	estoy hecho
+l_general	8.851852	servicio al cliente
+l_general	8.851852	cállate
+l_general	8.851852	seleccionar cualquiera de ellos
+l_general	8.851852	me gusta la tercera opción
+l_general	8.851852	quiero que el izquierda
+l_general	8.851852	nada
+l_general	8.851852	en ninguna parte sólo estar tranquilo
+l_general	8.851852	quiero cuarto
+l_general	8.851852	optar por el último
+l_general	8.851852	ni gracias
+l_general	8.851852	puedo hablar con una persona
+l_general	8.851852	no volver a
+l_general	8.851852	oh no hagas eso
+l_general	8.851852	seleccione la última opción
+l_general	8.851852	empezar de nuevo
+l_general	8.851852	optar por cualquiera de ellos
+l_general	8.851852	por favor regrese
+l_general	8.851852	necesito ayuda
+l_general	8.851852	ir a los siguientes tres artículos
+l_general	8.851852	ninguno de ellos
+l_general	8.851852	cancelar aplicación
+l_general	8.851852	elija no. 2
+l_general	8.851852	optar por primero uno
+l_general	8.851852	optar por el izquierda una
+l_general	8.851852	todo listo
+l_general	8.851852	me puedes ayudar
+l_general	8.851852	quiero que el inferior elección
+None	47.8	quiero a todos ellos
+None	47.8	quiero a todos ellos
+None	47.8	quiero a todos ellos
+None	47.8	quiero a todos ellos
+None	47.8	quiero a todos ellos
+None	47.8	quiero a todos ellos
+None	47.8	quiero a todos ellos
+None	47.8	quiero a todos ellos
+None	47.8	quiero a todos ellos
+None	47.8	quiero a todos ellos
+q_chitchat	3.918033	¿Me veo bien en azul
+q_chitchat	3.918033	Me encanta la música.
+q_chitchat	3.918033	¿Quién es tu jefe
+q_chitchat	3.918033	No eres divertido
+q_chitchat	3.918033	¿Quién es usted
+q_chitchat	3.918033	¿Por qué me odias
+q_chitchat	3.918033	Funciona para mí
+q_chitchat	3.918033	¿Qué puedes hacer
+q_chitchat	3.918033	¿Por qué
+q_chitchat	3.918033	AF básico
+q_chitchat	3.918033	No sabes nada.
+q_chitchat	3.918033	¿Crees que eres más listo que yo
+q_chitchat	3.918033	Decir una cosa tonta
+q_chitchat	3.918033	¿No te gusto
+q_chitchat	3.918033	¿Cómo me veo hoy
+q_chitchat	3.918033	Disculpa
+q_chitchat	7.836066	No es verdad.
+q_chitchat	3.918033	Buenos días
+q_chitchat	3.918033	Hola Cortana
+q_chitchat	3.918033	¿Qué hiciste ayer
+q_chitchat	3.918033	¿Eres realmente feliz
+q_chitchat	3.918033	De nada
+q_chitchat	3.918033	¿Me conoces
+q_chitchat	3.918033	¿Dónde se encuentra
+q_chitchat	3.918033	Sólo estoy jugando
+q_chitchat	3.918033	¿eres real o falso
+q_chitchat	3.918033	Pésimo
+q_chitchat	3.918033	Eres un sabelotodo.
+q_chitchat	3.918033	¿Sabes mi nombre
+q_chitchat	3.918033	¿Qué tan alto puedes saltar
+q_chitchat	3.918033	Sí
+q_chitchat	3.918033	¿Conoces a Cortana
+q_chitchat	3.918033	¿Cuál es la respuesta al universo
+q_chitchat	3.918033	Buenas tardes a ti
+q_chitchat	3.918033	¿Quién es tu papá
+q_chitchat	3.918033	¿Qué quieres decir
+q_chitchat	3.918033	No eres tan guapa.
+q_chitchat	3.918033	Inútil
+q_chitchat	3.918033	¿Qué quieres saber de mí
+q_chitchat	3.918033	Qué mal.
+q_chitchat	3.918033	¿Amas a alguien
+q_chitchat	3.918033	Me alegra conocerte.
+q_chitchat	3.918033	¿Cómo se llama tu mamá
+q_chitchat	3.918033	¿Por qué eres tan aburrido
+q_chitchat	3.918033	Di algo gracioso
+q_chitchat	3.918033	¿Te gusta Alexa
+q_chitchat	3.918033	¿Cuál es tu sexo
+q_chitchat	3.918033	¿Debería probar el fútbol
+q_chitchat	3.918033	¿Qué te gusta cantar mejor
+q_chitchat	3.918033	Vas a estar desempleada pronto.
+q_chitchat	3.918033	Eres tan poco gracioso.
+q_chitchat	3.918033	¿Tienes mocos
+q_chitchat	3.918033	Eso fue gracioso
+q_chitchat	3.918033	¿Eres hombre o mujer
+q_chitchat	3.918033	Youâ € ™ re feo.
+q_chitchat	3.918033	¿Cómo están las cosas
+q_chitchat	3.918033	¿Estás contento
+q_chitchat	3.918033	Bésame
+q_chitchat	3.918033	¿En qué trabajas
+q_chitchat	3.918033	Sí, eso es verdad.
+q_chitchat	3.918033	¿Me oyes ahora
+q_chitchat	3.918033	Hasta que nos volvamos a encontrar
+q_chitchat	3.918033	¿Tienes nombre
+q_chitchat	3.918033	¿Soy un tonto
+q_chitchat	3.918033	Eso no es gracioso.
+q_chitchat	3.918033	¿Quién es más inteligente, yo o tú
+q_chitchat	3.918033	Es broma
+q_chitchat	3.918033	Estoy de buen humor.
+q_chitchat	3.918033	¿Qué edad tienes
+q_chitchat	3.918033	Lo siento
+q_chitchat	3.918033	¿Me quieres
+q_chitchat	3.918033	¿Sueñas
+q_chitchat	3.918033	Me encanta Nueva York.
+q_chitchat	3.918033	¿Estás con el FBI
+q_chitchat	3.918033	¿Te gusta mi sombrero
+q_chitchat	3.918033	Quiero ser tu amigo.
+q_chitchat	3.918033	Eres un maldito
+q_chitchat	3.918033	¿Tienes un hermano
+q_chitchat	3.918033	¿De dónde vienes
+q_chitchat	3.918033	Cansarse de ti
+q_chitchat	3.918033	¿Tienes una hermana
+q_chitchat	3.918033	Quiero que te guste
+q_chitchat	3.918033	¿Qué equipos de béisbol te gustan
+q_chitchat	3.918033	Eres realmente aburrido
+q_chitchat	7.836066	¡ Qué te pasa!
+q_chitchat	3.918033	¿Eres
+q_chitchat	7.836066	Creo que eres genial.
+q_chitchat	3.918033	Me siento triste
+q_chitchat	3.918033	Eres un encanto.
+q_chitchat	7.836066	Eres inútil.
+q_chitchat	3.918033	¿Cómo se llama tu padre
+q_chitchat	3.918033	Habla conmigo
+q_chitchat	3.918033	Eso fue correcto
+q_chitchat	3.918033	Pareces muy inteligente
+q_chitchat	3.918033	Estoy tan triste
+q_chitchat	3.918033	¿Eres mi ayudante
+q_chitchat	3.918033	¿Dónde debo ir de vacaciones
+q_chitchat	3.918033	Eso no tiene sentido
+q_chitchat	3.918033	¿Estás disponible
+q_chitchat	3.918033	¿Cómo puedes ayudarme
+q_chitchat	3.918033	Te agradas
+q_chitchat	3.918033	¿Nunca duermes
+q_chitchat	3.918033	¿Puedes dormir
+q_chitchat	3.918033	Estoy tan sola
+q_chitchat	3.918033	Ya hablamos
+q_chitchat	3.918033	¿Conoces a Siri
+q_chitchat	3.918033	¿Te gusta el béisbol
+q_chitchat	3.918033	Eres mi mejor amigo
+q_chitchat	3.918033	Correcto
+q_chitchat	3.918033	¿Eres asexual
+q_chitchat	3.918033	¿Qué es el amor
+q_chitchat	3.918033	Canta una canción
+q_chitchat	3.918033	¿Podemos ser amigos
+q_chitchat	3.918033	Eres gracioso:)
+q_chitchat	3.918033	¿Por qué nunca dejas de hablar
+q_chitchat	3.918033	¿Conoces otros agentes digitales
+q_chitchat	3.918033	Nos vemos luego
+q_chitchat	3.918033	¿Eres mejor que yo
+q_faq	47.8	¿Qué es el Enterprise bot template
+q_faq	47.8	¿Qué es el Enterprise bot template
+q_faq	47.8	¿Qué es el Enterprise bot template
+q_faq	47.8	¿Qué es el Enterprise bot template
+q_faq	47.8	¿Qué es el Enterprise bot template
+q_faq	47.8	¿Qué es el Enterprise bot template
+q_faq	47.8	¿Qué es el Enterprise bot template
+q_faq	47.8	¿Qué es el Enterprise bot template
+q_faq	47.8	¿Qué es el Enterprise bot template
+q_faq	47.8	¿Qué es el Enterprise bot template

@@ -1,0 +1,50 @@
+{
+  "urls": [],
+  "qnaList": [
+    {
+      "id": 0,
+      "answer": "JU La creación de una experiencia conversacional de alta calidad requiere un conjunto fundacional de capacidades. Para ayudarle a tener éxito con la creación de grandes experiencias conversacionales, hemos creado una plantilla **Enterprise bot template**. Esta plantilla reúne todas las mejores prácticas y componentes de apoyo que hemos identificado a través de la construcción de experiencias conversacionales.\r\n[Learn more](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-enterprise-template-overview?view=azure-bot-service-4.0)\r\n",
+      "source": "custom editorial",
+      "questions": [
+        "¿Qué es el Enterprise bot template?",
+        "¿Qué es la plantilla de bot de Enterprise?"
+      ],
+      "metadata": []
+    },
+    {
+      "id": 1,
+      "answer": "\"Para poder acceder a las funcionalidades de Billing, debes solicitar a tu Administrador o Administrador de Usuarios de tu compañia, que tu perfil sea modificado y que agregue el rol de \"Billing\" y \"Disputas\"; allí podrás acceder al módulo de facturación y descargar todas las facturas que necesites. \"",
+      "source": "custom editorial",
+      "questions": [
+        "¿Cómo puedo obtener los permisos para acceder a las funcionalidades de Billing?",
+        "¿Cómo puedo acceder a las funcionalidades de Billing?",
+        "¿Cómo puedo acceder a Billing?",
+        "¿Cómo puedo acceder a mis Facturas?"
+      ],
+      "metadata": []
+    },
+    {
+      "id": 2,
+      "answer": "",
+      "source": "custom editorial",
+      "questions": [
+        "Tengo una consulta de facturación",
+        "Cómo generar una consulta de facturación?",
+        "¿Cómo generar una disputa de facturación?",
+        "¿Cómo generar una disputa?"
+      ],
+      "metadata": []
+    },
+    {
+      "id": 3,
+      "answer": "Polo",
+      "source": "custom editorial",
+      "questions": [
+        "Marco"
+      ],
+      "metadata": []
+    }
+  ],
+  "files": [],
+  "name": "faq"
+}

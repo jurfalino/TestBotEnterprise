@@ -1,0 +1,193 @@
+Label	Weight	Text
+l_general	8.833333	hey detener
+l_general	8.833333	¿hay algún humano real
+l_general	8.833333	no hagas eso ya
+l_general	8.833333	dije que pare
+l_general	8.833333	cualquier ayuda
+l_general	8.833333	no importa cancelar que
+l_general	8.833333	todo listo
+l_general	8.833333	decir que de nuevo
+l_general	8.833333	ir a la anterior
+l_general	8.833333	necesito ayuda humana real
+l_general	8.833333	optar por el inferior elección
+l_general	8.833333	algo de ayuda
+l_general	8.833333	seleccione la tercera
+l_general	8.833333	quiero la primera
+l_general	8.833333	me gusta el parte inferior una
+l_general	8.833333	optar por primero uno
+l_general	8.833333	quiero que el segundo
+l_general	8.833333	tranquilo
+l_general	8.833333	quiero izquierda
+l_general	8.833333	simplemente cancelarlo
+l_general	8.833333	dar vuelta a la página
+l_general	8.833333	optar por derecho una
+l_general	8.833333	qué has dicho
+l_general	8.833333	elija el arriba a la derecha una
+l_general	8.833333	cómo
+l_general	8.833333	quiero elegir el primero
+l_general	8.833333	lo que después de que
+l_general	8.833333	detener por favor
+l_general	8.833333	ninguno
+l_general	8.833333	lo que es más
+l_general	8.833333	ni uno
+l_general	8.833333	en ninguna parte sólo estar tranquilo
+l_general	8.833333	cállate tranquilo
+l_general	8.833333	bebé sólo estar tranquilo
+l_general	8.833333	¿hay alguna ayuda
+l_general	8.833333	alguien está bien
+l_general	8.833333	parada de salida
+l_general	8.833333	cualquier uno está bien
+l_general	8.833333	ir a los siguientes tres artículos
+l_general	8.833333	por favor regrese
+l_general	8.833333	no importa cancelar
+l_general	8.833333	cancelar cancelar
+l_general	8.833333	¿hay alguna persona real
+l_general	8.833333	elegir último
+l_general	8.833333	enviarlo
+l_general	8.833333	¿qué hay de la próxima
+l_general	8.833333	quiero cuarto
+l_general	8.833333	seleccione no. 5
+l_general	8.833333	quiero derecho una
+l_general	8.833333	dios cállate
+l_general	8.833333	necesito ir a la siguiente
+l_general	8.833333	oh mi dios cállate
+l_general	8.833333	lo
+l_general	8.833333	mostrar más
+None	47.7	todos ellos
+None	47.7	todos ellos
+None	47.7	todos ellos
+None	47.7	todos ellos
+None	47.7	todos ellos
+None	47.7	todos ellos
+None	47.7	todos ellos
+None	47.7	todos ellos
+None	47.7	todos ellos
+None	47.7	todos ellos
+q_chitchat	3.878049	Estoy solo
+q_chitchat	3.878049	Buenas noches
+q_chitchat	3.878049	¡Chócalas!
+q_chitchat	3.878049	No es gracioso.
+q_chitchat	3.878049	¿Estás enamorado de mí
+q_chitchat	3.878049	¿Cuál es tu comida favorita
+q_chitchat	3.878049	Te agradas
+q_chitchat	3.878049	¿Eres fan de Alexa
+q_chitchat	3.878049	¿Que tal te fue hoy
+q_chitchat	3.878049	¿Quién es tu padre
+q_chitchat	3.878049	Sea gracioso
+q_chitchat	3.878049	¿Eres mi ayudante
+q_chitchat	3.878049	¿Eres asexual
+q_chitchat	3.878049	Ahora estás desempleado
+q_chitchat	3.878049	No sabes nada.
+q_chitchat	3.878049	¿Estás disponible
+q_chitchat	3.878049	Cansarse de ti
+q_chitchat	3.878049	¿Te gusta el béisbol
+q_chitchat	3.878049	¿Qué te hace pensar así
+q_chitchat	3.878049	No eres gracioso.
+q_chitchat	3.878049	¿Hace cuánto que naciste
+q_chitchat	3.878049	¿Cuántos años tienes
+q_chitchat	3.878049	¿Tú y Cortana se cuelgan
+q_chitchat	3.878049	Eres un sabelotodo.
+q_chitchat	3.878049	Sí a eso
+q_chitchat	3.878049	Estoy enamorado.
+q_chitchat	3.878049	Eso no tenía sentido
+q_chitchat	3.878049	OMG lo siento
+q_chitchat	3.878049	Eres el amor de mi vida
+q_chitchat	3.878049	¿Quién es tu mamá
+q_chitchat	3.878049	¿Qué tipo de caramelo te gusta
+q_chitchat	3.878049	¿Qué opinas de mí
+q_chitchat	3.878049	Me muero de hambre
+q_chitchat	3.878049	Estoy de buen humor.
+q_chitchat	3.878049	Me aburre
+q_chitchat	3.878049	¿Orinas
+q_chitchat	3.878049	Vuelvo en un minuto
+q_chitchat	3.878049	Ojalá te vayas.
+q_chitchat	3.878049	Todo lo que me dijiste era falso.
+q_chitchat	3.878049	¿Cuándo te callas
+q_chitchat	3.878049	¿Me veo bien
+q_chitchat	3.878049	¿Qué haces
+q_chitchat	3.878049	¿Estás con el FBI
+q_chitchat	3.878049	¿Dónde estás
+q_chitchat	3.878049	¿Tener un buen día
+q_chitchat	3.878049	¿Eres amigo de otros bots
+q_chitchat	3.878049	¿Sabes alguna broma
+q_chitchat	3.878049	Dame una broma
+q_chitchat	3.878049	Noche nocturna
+q_chitchat	3.878049	¿Cuál es tu canción favorita
+q_chitchat	3.878049	Te enfrentas a una porquería.
+q_chitchat	3.878049	¿Por qué me odias
+q_chitchat	3.878049	Pruebas
+q_chitchat	3.878049	¿Cuál de nosotros es más inteligente
+q_chitchat	3.878049	¿Estás con la CIA
+q_chitchat	11.63415	Te quiero.
+q_chitchat	3.878049	¿Cuál de nosotros es más hermoso
+q_chitchat	3.878049	Canta algo
+q_chitchat	3.878049	Soy republicano
+q_chitchat	3.878049	¿Qué tan hermosa soy
+q_chitchat	3.878049	Vete
+q_chitchat	3.878049	Creo que me odias.
+q_chitchat	3.878049	¿Qué tipo de comida te gusta
+q_chitchat	3.878049	¡Feliz Halloween!
+q_chitchat	3.878049	Aquí estoy
+q_chitchat	3.878049	Abrázame
+q_chitchat	3.878049	Noche
+q_chitchat	3.878049	No soy tu amigo
+q_chitchat	3.878049	¿Eres más guapa que yo
+q_chitchat	3.878049	Pregúntame cualquier cosa.
+q_chitchat	3.878049	¿Cuándo naciste
+q_chitchat	3.878049	¿Estás ahí
+q_chitchat	3.878049	Estoy tan sola
+q_chitchat	7.756098	¿Eres inteligente
+q_chitchat	7.756098	Estás despedido
+q_chitchat	3.878049	¿No eres un astilladora
+q_chitchat	3.878049	Impresionante
+q_chitchat	3.878049	¿En qué trabajas
+q_chitchat	3.878049	Qué inteligente eres
+q_chitchat	3.878049	Estoy feliz
+q_chitchat	3.878049	¿Qué tipo de cosas puedes hacer
+q_chitchat	3.878049	Me encanta conseguir San Valentín.
+q_chitchat	3.878049	Me temo que voy a tener que dejar que te vayas.
+q_chitchat	3.878049	Di una broma
+q_chitchat	3.878049	¿Dónde está tu casa
+q_chitchat	3.878049	Estoy molesto
+q_chitchat	3.878049	¿Sabes mi nombre
+q_chitchat	3.878049	No tenía sentido
+q_chitchat	3.878049	¿No puedes cambiar tus respuestas
+q_chitchat	3.878049	¿Qué te parece trabajar hasta tarde
+q_chitchat	3.878049	Pésimo
+q_chitchat	3.878049	¿Eres gay
+q_chitchat	3.878049	Hsa
+q_chitchat	3.878049	¿Soy una buena persona
+q_chitchat	3.878049	¡Fresco!
+q_chitchat	3.878049	¿Tienes mocos
+q_chitchat	3.878049	Tan cansado
+q_chitchat	3.878049	¿Quién es usted
+q_chitchat	3.878049	¿Serás mi mejor amigo
+q_chitchat	3.878049	Estoy aburrido de mi mente
+q_chitchat	3.878049	No tienes sentido
+q_chitchat	3.878049	¿Quién eres
+q_chitchat	3.878049	¿Soy guapa
+q_chitchat	7.756098	Hola
+q_chitchat	3.878049	Quiero casarme contigo.
+q_chitchat	3.878049	Estoy tan aburrido
+q_chitchat	3.878049	¿Conoces otros agentes digitales
+q_chitchat	3.878049	¿Cuál es el significado de la vida
+q_chitchat	3.878049	Sí, es verdad.
+q_chitchat	3.878049	Eres tan aburrido
+q_chitchat	3.878049	¿Tienes mamá
+q_chitchat	3.878049	¿Tienes una hermana
+q_chitchat	3.878049	¿Vendes mis secretos
+q_chitchat	3.878049	¿Qué opinas sobre AI
+q_chitchat	3.878049	¿Cómo te llamas
+q_chitchat	3.878049	Nadie se preocupa por mí.
+q_chitchat	3.878049	¿Qué opinas sobre la tecnología
+q_chitchat	3.878049	¿Te quieres casar conmigo
+q_faq	47.7	¿Qué es la plantilla de bot de Enterprise
+q_faq	47.7	¿Qué es la plantilla de bot de Enterprise
+q_faq	47.7	¿Qué es la plantilla de bot de Enterprise
+q_faq	47.7	¿Qué es la plantilla de bot de Enterprise
+q_faq	47.7	¿Qué es la plantilla de bot de Enterprise
+q_faq	47.7	¿Qué es la plantilla de bot de Enterprise
+q_faq	47.7	¿Qué es la plantilla de bot de Enterprise
+q_faq	47.7	¿Qué es la plantilla de bot de Enterprise
+q_faq	47.7	¿Qué es la plantilla de bot de Enterprise
+q_faq	47.7	¿Qué es la plantilla de bot de Enterprise

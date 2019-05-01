@@ -1,0 +1,51 @@
+{
+  "authoringRegion": "westus",
+  "hierarchical": true,
+  "useAllTrainingData": false,
+  "dontReviseUtterance": false,
+  "services": [
+    {
+      "intentName": "l_general",
+      "appId": "45269cc8-5135-49db-861b-764726d044c4",
+      "authoringKey": "f5a195e4e56646c3b1d05b9aad81e39e",
+      "subscriptionKey": "f5a195e4e56646c3b1d05b9aad81e39e",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "ctl-testbotenterprisev1_General",
+      "id": "general"
+    },
+    {
+      "intentName": "q_faq",
+      "kbId": "a243d5a9-6e77-4a2a-a388-6393af13b069",
+      "subscriptionKey": "6fc613c5a81741ce920048c4b9c84ce6",
+      "hostname": "https://ctl-testbotenterprisev1-qnahost.azurewebsites.net/qnamaker",
+      "endpointKey": "cb63f2f0-f638-4d97-881b-8f0d052633a9",
+      "type": "qna",
+      "name": "FAQ",
+      "id": "faq"
+    },
+    {
+      "intentName": "q_chitchat",
+      "kbId": "1604a25a-9bda-4ca5-8f99-9929f7e8a311",
+      "subscriptionKey": "6fc613c5a81741ce920048c4b9c84ce6",
+      "hostname": "https://ctl-testbotenterprisev1-qnahost.azurewebsites.net/qnamaker",
+      "endpointKey": "cb63f2f0-f638-4d97-881b-8f0d052633a9",
+      "type": "qna",
+      "name": "ChitChat",
+      "id": "chitchat"
+    }
+  ],
+  "serviceIds": [
+    "general",
+    "faq",
+    "chitchat"
+  ],
+  "appId": "cc880eba-d550-423d-862c-102c486f56e7",
+  "authoringKey": "f5a195e4e56646c3b1d05b9aad81e39e",
+  "subscriptionKey": "f5a195e4e56646c3b1d05b9aad81e39e",
+  "version": "0.1",
+  "region": "westus",
+  "type": "dispatch",
+  "name": "ctl-testbotenterprisev1_Dispatch"
+}

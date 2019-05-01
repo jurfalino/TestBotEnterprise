@@ -1,0 +1,193 @@
+Label	Weight	Text
+l_general	8.888889	muéstrame el siguiente
+l_general	8.888889	vamos a parar
+l_general	8.888889	no hagas eso ya
+l_general	8.888889	¿qué fue eso de nuevo
+l_general	8.888889	hey detener
+l_general	8.888889	cualquiera de ella
+l_general	8.888889	volver a
+l_general	8.888889	me gusta segundo uno
+l_general	8.888889	¿podría decirlo de nuevo
+l_general	8.888889	ni uno de ellos
+l_general	8.888889	ninguno de los
+l_general	8.888889	necesito apoyo
+l_general	8.888889	necesito ir a la siguiente
+l_general	8.888889	ninguno
+l_general	8.888889	cállate tranquilo
+l_general	8.888889	nada no importa
+l_general	8.888889	me refiero a dejar de escuchar
+l_general	8.888889	mostrar el siguiente
+l_general	8.888889	seleccione superior
+l_general	8.888889	anterior por favor
+l_general	8.888889	yo no oí repetir de nuevo
+l_general	8.888889	¿hay alguna persona con la que pueda hablar
+l_general	8.888889	repetir por favor
+l_general	8.888889	me gusta la tercera opción
+l_general	8.888889	no cállate
+l_general	8.888889	elegir arriba a la derecha una
+l_general	8.888889	quiero la cuarta opción
+l_general	8.888889	estar tranquilo ahora
+l_general	8.888889	no no no no dejar de hablar
+l_general	8.888889	puedo hablar con una persona
+l_general	8.888889	quiero elegir el izquierda una
+l_general	8.888889	me gusta el arriba a la derecha
+l_general	8.888889	apague la parada
+l_general	8.888889	seleccione no. 5
+l_general	8.888889	optar por cualquiera de ellos
+l_general	8.888889	dios cállate
+l_general	8.888889	quiero más
+l_general	8.888889	empezar de más de
+l_general	8.888889	está hecho
+l_general	8.888889	me gusta la tercera
+l_general	8.888889	me gusta arriba a la derecha
+l_general	8.888889	¿qué pasa con la última
+l_general	8.888889	lo que sigue
+l_general	8.888889	necesito ayuda humana real
+l_general	8.888889	seleccionar cuarto uno
+l_general	8.888889	cancelar no importa
+l_general	8.888889	repetir
+l_general	8.888889	enviarlo
+l_general	8.888889	necesito ayuda
+l_general	8.888889	pasar a la siguiente
+l_general	8.888889	¿qué pasa después
+l_general	8.888889	salida salida
+l_general	8.888889	algo de ayuda
+l_general	8.888889	perdón
+None	48	quiero a todos ellos
+None	48	quiero a todos ellos
+None	48	quiero a todos ellos
+None	48	quiero a todos ellos
+None	48	quiero a todos ellos
+None	48	quiero a todos ellos
+None	48	quiero a todos ellos
+None	48	quiero a todos ellos
+None	48	quiero a todos ellos
+None	48	quiero a todos ellos
+q_chitchat	4	¿Qué opinas sobre Alexa
+q_chitchat	4	¿Eres
+q_chitchat	4	¿Eres mi amigo imaginario
+q_chitchat	4	Es un placer
+q_chitchat	4	¿Eres amigo de otros bots
+q_chitchat	4	ROFL
+q_chitchat	4	¿Qué opinas sobre bots
+q_chitchat	4	Canta algo
+q_chitchat	4	Eres tan inteligente
+q_chitchat	4	La vida es buena
+q_chitchat	4	¿Qué opinas sobre el amor
+q_chitchat	4	Eso fue correcto
+q_chitchat	4	¿Conoces a Cortana
+q_chitchat	4	Sea más divertido
+q_chitchat	4	Callado
+q_chitchat	4	Es cierto
+q_chitchat	4	Vas a estar desempleada pronto.
+q_chitchat	4	¿Quién es tu papá
+q_chitchat	4	Háme una pregunta.
+q_chitchat	4	Pregúntame algo.
+q_chitchat	4	¿Qué quieres saber de mí
+q_chitchat	4	Estoy cansado
+q_chitchat	4	¿Crees que debería preguntarle
+q_chitchat	4	¿Conoces a otros Chatbots
+q_chitchat	4	Estoy marcada
+q_chitchat	4	¿Cuál es tu actividad favorita
+q_chitchat	4	Hay
+q_chitchat	4	Qué mal.
+q_chitchat	4	Decir una cosa tonta
+q_chitchat	4	¿Puedes practicar deportes
+q_chitchat	4	Quiero acostarme
+q_chitchat	4	¿Eres bisexual
+q_chitchat	4	Di una broma
+q_chitchat	4	¿Me odias
+q_chitchat	4	¿Eres mi ayudante
+q_chitchat	4	¿Quién es tu creador
+q_chitchat	4	¿Qué tipo de comida te gusta
+q_chitchat	4	Eres realmente aburrido
+q_chitchat	4	¿Debo conseguir un nuevo trabajo
+q_chitchat	4	Silencio,
+q_chitchat	4	Thnx
+q_chitchat	4	Buenas tardes a ti
+q_chitchat	4	¿Qué hiciste ayer
+q_chitchat	4	Hannukah feliz
+q_chitchat	4	Eres tan feliz
+q_chitchat	4	La broma está en ti
+q_chitchat	4	¿Eres trans
+q_chitchat	4	Hola Google
+q_chitchat	4	¿Tienes un hermano
+q_chitchat	4	¿Cuántos años tienes
+q_chitchat	4	Cansarse de ti
+q_chitchat	4	¿Te gusto
+q_chitchat	4	¿Cuál es tu película favorita
+q_chitchat	4	Dame una broma
+q_chitchat	4	¿Puedes hacerme un sándwich
+q_chitchat	4	Sigues diciendo lo mismo todo el tiempo
+q_chitchat	4	¿Qué te parece trabajar hasta tarde
+q_chitchat	4	Deja de hablar
+q_chitchat	4	Eres tan estúpido
+q_chitchat	4	¿Qué equipos de béisbol te gustan
+q_chitchat	4	¿Puedes cantar una canción
+q_chitchat	4	¿Qué opinas de mí
+q_chitchat	4	¿Estás enamorado de mí
+q_chitchat	4	Kthx
+q_chitchat	4	Bingo
+q_chitchat	4	Hola Cortana
+q_chitchat	4	¿Conoces el significado de la vida
+q_chitchat	4	¿Pasas tiempo en tu jardín
+q_chitchat	4	Me muero de hambre
+q_chitchat	4	¿Eres viejo
+q_chitchat	4	¿Qué eres
+q_chitchat	4	¿Eres mi amigo
+q_chitchat	4	¿Qué debo hacer
+q_chitchat	4	¿Que tal te fue hoy
+q_chitchat	8	Eres tonto.
+q_chitchat	4	Estoy masticando chicle ahora mismo.
+q_chitchat	4	Te ves fea.
+q_chitchat	4	Di algo gracioso
+q_chitchat	4	Debes odiarme.
+q_chitchat	4	No soy tu amigo
+q_chitchat	8	Eres inútil.
+q_chitchat	4	Ojalá pudiera abrazarte
+q_chitchat	4	¡ Bienvenidos a la primavera!
+q_chitchat	4	¿Serás mi mejor amigo
+q_chitchat	4	Partirse de risa
+q_chitchat	4	Soy lesbiana
+q_chitchat	4	Eres tan gracioso.
+q_chitchat	4	Abrázame
+q_chitchat	4	Estoy cansado de ti
+q_chitchat	4	¿Te gusta mi sombrero
+q_chitchat	4	¿Qué hay de nuevo
+q_chitchat	4	Hoy estoy triste
+q_chitchat	4	Vete
+q_chitchat	4	¿Qué pasa
+q_chitchat	4	Ojalá te vayas.
+q_chitchat	4	Tienes razón.
+q_chitchat	4	¿A qué te dedicas
+q_chitchat	4	¿Me veo bien en azul
+q_chitchat	4	Eres un sabelotodo.
+q_chitchat	4	¿Me oyes ahora
+q_chitchat	4	¿Puedes volar
+q_chitchat	4	¿Conoces a Alexa
+q_chitchat	4	No puedo pensar en nada que quiera hacer
+q_chitchat	4	¿Qué tan alto puedes saltar
+q_chitchat	4	Inútil
+q_chitchat	4	Tengo tanta hambre
+q_chitchat	4	Me encanta la música.
+q_chitchat	4	Hay Siri
+q_chitchat	4	Habla conmigo
+q_chitchat	4	Eso no es exacto
+q_chitchat	4	¿Quién soy yo
+q_chitchat	4	Eres tan aburrido
+q_chitchat	4	¿Hace cuánto que naciste
+q_chitchat	4	Eso no fue gracioso.
+q_chitchat	4	Noche
+q_chitchat	4	Heya
+q_chitchat	4	Di algo estúpido
+q_chitchat	4	¿Cuánto más impresionante puede obtener
+q_faq	48	¿Qué es el Enterprise bot template
+q_faq	48	¿Qué es el Enterprise bot template
+q_faq	48	¿Qué es el Enterprise bot template
+q_faq	48	¿Qué es el Enterprise bot template
+q_faq	48	¿Qué es el Enterprise bot template
+q_faq	48	¿Qué es el Enterprise bot template
+q_faq	48	¿Qué es el Enterprise bot template
+q_faq	48	¿Qué es el Enterprise bot template
+q_faq	48	¿Qué es el Enterprise bot template
+q_faq	48	¿Qué es el Enterprise bot template

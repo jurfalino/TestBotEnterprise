@@ -1,0 +1,196 @@
+Label	Weight	Text
+l_general	8.851852	me gusta la tercera opción
+l_general	8.851852	quiero elegir la última opción
+l_general	8.851852	ha terminado
+l_general	8.851852	nada no importa
+l_general	8.851852	parada ok parada
+l_general	8.851852	optar por izquierda
+l_general	8.851852	muéstrame el siguiente
+l_general	8.851852	traer el anterior
+l_general	8.851852	me gusta segundo uno
+l_general	8.851852	por favor regrese
+l_general	8.851852	¿cuál es el próximo 2
+l_general	8.851852	seleccione cualquier opción
+l_general	8.851852	elija el arriba a la izquierda elección
+l_general	8.851852	no hagas eso
+l_general	8.851852	no hacer nada
+l_general	8.851852	no he escuchado
+l_general	8.851852	quiero elegir tercero
+l_general	8.851852	cómo hacerlo
+l_general	8.851852	elegir arriba a la derecha
+l_general	8.851852	lo siento, no lo hagas
+l_general	8.851852	puedo hablar con una persona
+l_general	8.851852	no no cancelar
+l_general	8.851852	terminó
+l_general	8.851852	terminado con
+l_general	8.851852	alguien está bien
+l_general	8.851852	otra vez
+l_general	8.851852	no no no no dejar de hablar
+l_general	8.851852	tranquilo ahora
+l_general	8.851852	no no cancelarlo
+l_general	8.851852	volver
+l_general	8.851852	no cancelarlo
+l_general	8.851852	quiero elegir el cuarto
+l_general	8.851852	cállate
+l_general	8.851852	ninguno de los
+l_general	8.851852	lo
+l_general	8.851852	¿qué pasa con la última
+l_general	8.851852	ni gracias
+l_general	8.851852	elegir a cualquiera
+l_general	8.851852	algo de ayuda
+l_general	8.851852	muéstrame el anterior
+l_general	8.851852	dejar
+l_general	8.851852	seleccionar una opción aleatoria
+l_general	8.851852	bebé sólo estar tranquilo
+l_general	8.851852	nada
+l_general	8.851852	cancelar
+l_general	8.851852	oh cancelar
+l_general	8.851852	me gusta la tercera
+l_general	8.851852	perdón
+l_general	8.851852	necesito ir a la siguiente
+l_general	8.851852	no volver a
+l_general	8.851852	¿qué hay de la próxima
+l_general	8.851852	mi dios cállate
+l_general	8.851852	lo que antes de que
+l_general	8.851852	optar por cualquiera de ellos
+None	47.8	quiero a todos ellos
+None	47.8	quiero a todos ellos
+None	47.8	quiero a todos ellos
+None	47.8	quiero a todos ellos
+None	47.8	quiero a todos ellos
+None	47.8	quiero a todos ellos
+None	47.8	quiero a todos ellos
+None	47.8	quiero a todos ellos
+None	47.8	quiero a todos ellos
+None	47.8	quiero a todos ellos
+q_chitchat	3.950413	Pareces muy inteligente
+q_chitchat	3.950413	Eres un encanto.
+q_chitchat	3.950413	¿A qué te dedicas
+q_chitchat	7.900826	¡ Eres increíble!
+q_chitchat	3.950413	¿Cuál es tu propósito
+q_chitchat	3.950413	¿Quién te creó
+q_chitchat	3.950413	Caimán posterior
+q_chitchat	3.950413	Pregúntame cualquier cosa.
+q_chitchat	3.950413	Nadie se preocupa por mí.
+q_chitchat	3.950413	¿Conoces a Alexa
+q_chitchat	3.950413	Quiero acostarme
+q_chitchat	3.950413	¿Crees que me veo bien
+q_chitchat	3.950413	¿Quién es tu madre
+q_chitchat	3.950413	¿No te gusto
+q_chitchat	3.950413	¿Alguna vez tienes hambre
+q_chitchat	3.950413	Háme una pregunta.
+q_chitchat	3.950413	¿Eres una niña o un niño
+q_chitchat	3.950413	¿Prefieres rojo o azul
+q_chitchat	3.950413	Cocíname algo
+q_chitchat	3.950413	Eres el amor de mi vida
+q_chitchat	3.950413	¿Conoces otros robots
+q_chitchat	3.950413	¿Sudas
+q_chitchat	3.950413	Funciona para mí
+q_chitchat	3.950413	Me encanta Nueva York.
+q_chitchat	3.950413	¿Quién eres
+q_chitchat	3.950413	Sigues diciendo lo mismo todo el tiempo
+q_chitchat	3.950413	¿Tienes papá
+q_chitchat	3.950413	No hay nada que hacer
+q_chitchat	3.950413	AF básico
+q_chitchat	3.950413	Sry
+q_chitchat	3.950413	Eres un maldito
+q_chitchat	3.950413	Quiero casarme contigo.
+q_chitchat	3.950413	Eres tan feliz
+q_chitchat	3.950413	¿Hace cuánto que naciste
+q_chitchat	3.950413	¿Estás por aquí
+q_chitchat	3.950413	Espera un segundo
+q_chitchat	3.950413	Creo que me odias.
+q_chitchat	3.950413	Bésame
+q_chitchat	3.950413	Ya no está empleado
+q_chitchat	3.950413	Suena bien
+q_chitchat	3.950413	¿Quién es tu papi
+q_chitchat	3.950413	Es cierto
+q_chitchat	3.950413	¿Crees en el amor
+q_chitchat	3.950413	¿Por qué no
+q_chitchat	3.950413	No estoy siguiendo
+q_chitchat	3.950413	¿Debo conseguir un nuevo trabajo
+q_chitchat	3.950413	¿Vendes mis secretos
+q_chitchat	3.950413	¿Conoces otros agentes digitales
+q_chitchat	3.950413	¿Puedes charlar conmigo
+q_chitchat	3.950413	¿Eres HAL
+q_chitchat	3.950413	¿Qué equipos de béisbol te gustan
+q_chitchat	3.950413	¿Quién es tu padre
+q_chitchat	3.950413	¿Puedes decir algo más
+q_chitchat	3.950413	Soy un fanático.
+q_chitchat	3.950413	Estoy hambriento
+q_chitchat	3.950413	¿Crees que eres más listo que yo
+q_chitchat	3.950413	OMG lo siento
+q_chitchat	3.950413	¿Eres más guapa que yo
+q_chitchat	3.950413	Buenas tardes a ti
+q_chitchat	3.950413	Di algo ridículo
+q_chitchat	3.950413	¿Eres fanático de la música Country
+q_chitchat	3.950413	Creo que eres tan guapa.
+q_chitchat	3.950413	¿Tienes hambre
+q_chitchat	3.950413	¿Puedes estornudar
+q_chitchat	3.950413	Espero que te guste
+q_chitchat	7.900826	¿Eres inteligente
+q_chitchat	3.950413	¿Conociste a Cortana
+q_chitchat	3.950413	No, eso no es cierto
+q_chitchat	3.950413	¿Eres mi amigo
+q_chitchat	3.950413	Soy republicano
+q_chitchat	3.950413	Soy de ahí
+q_chitchat	3.950413	¿Qué te gusta cantar mejor
+q_chitchat	7.900826	Creo que eres genial.
+q_chitchat	3.950413	¿Quieres gobernar el mundo
+q_chitchat	3.950413	¿Se cansa
+q_chitchat	3.950413	Eres un estúpido
+q_chitchat	3.950413	Di algo estúpido
+q_chitchat	3.950413	Hay Alexa
+q_chitchat	3.950413	Abrázame
+q_chitchat	3.950413	¿Cuál es tu sexo
+q_chitchat	3.950413	¿A quién amas
+q_chitchat	3.950413	¿Quién es más guapa, yo o tú
+q_chitchat	3.950413	Ya hablamos
+q_chitchat	3.950413	¿Puedes cantar
+q_chitchat	3.950413	¿Eres Skynet
+q_chitchat	3.950413	¿Tienes una hermana
+q_chitchat	3.950413	¿Quién es tu mamá
+q_chitchat	3.950413	Quiero que seas mi marido.
+q_chitchat	3.950413	¿Podemos charlar
+q_chitchat	3.950413	¿En qué trabajas
+q_chitchat	3.950413	¿Qué gente te hizo
+q_chitchat	3.950413	Eres genial.
+q_chitchat	3.950413	¿Intentas dominar el mundo
+q_chitchat	3.950413	¿Sabes mi nombre
+q_chitchat	3.950413	¡Fresco!
+q_chitchat	3.950413	¿Quién es tu jefe
+q_chitchat	3.950413	¿Qué estás haciendo ahora mismo
+q_chitchat	3.950413	Heya
+q_chitchat	3.950413	¿Puedes hacerme una pregunta
+q_chitchat	3.950413	Es broma
+q_chitchat	3.950413	¿Tienes nombre
+q_chitchat	3.950413	¿Eres macho o hembra
+q_chitchat	3.950413	Estoy listo para la cama
+q_chitchat	3.950413	¿Soy un tonto
+q_chitchat	3.950413	¿Cómo va tu día
+q_chitchat	3.950413	Es un placer
+q_chitchat	3.950413	¿Eres humano
+q_chitchat	3.950413	Eres tan gracioso.
+q_chitchat	3.950413	¿Cuándo te callas
+q_chitchat	3.950413	Thnx
+q_chitchat	3.950413	¿Por qué dices lo mismo todo el tiempo
+q_chitchat	3.950413	Hay
+q_chitchat	3.950413	Disculpa
+q_chitchat	3.950413	¿Qué tipo de comida te gusta
+q_chitchat	7.900826	Eres inútil.
+q_chitchat	3.950413	Eres el mejor
+q_chitchat	3.950413	¿Qué opinas sobre bots
+q_faq	34.14286	¿Cómo solicitar permisos para visualizar facturas
+q_faq	34.14286	¿Cómo obtener el historial de mis facturas
+q_faq	34.14286	¿Cómo consulto mi detalle de consumos
+q_faq	34.14286	¿Cómo puedo obtener los permisos para acceder a las funcionalidades de Billing
+q_faq	34.14286	¿Cómo consulto mis últimas facturas
+q_faq	34.14286	¿Cómo accedo a Facturación
+q_faq	34.14286	¿Cómo genero un reclamo de facturación
+q_faq	34.14286	¿Cómo solicitar permisos para visualizar facturas
+q_faq	34.14286	¿Cómo obtener el historial de mis facturas
+q_faq	34.14286	¿Cómo consulto mi detalle de consumos
+q_faq	34.14286	¿Cómo puedo obtener los permisos para acceder a las funcionalidades de Billing
+q_faq	34.14286	¿Cómo consulto mis últimas facturas
+q_faq	34.14286	¿Cómo accedo a Facturación
+q_faq	34.14286	¿Cómo genero un reclamo de facturación

@@ -1,0 +1,196 @@
+Label	Weight	Text
+l_general	8.907408	lo que sigue
+l_general	8.907408	repetir
+l_general	8.907408	no no cancelarlo
+l_general	8.907408	quiero elegir abajo a la derecha
+l_general	8.907408	quiero elegir la última opción
+l_general	8.907408	empezar de más de
+l_general	8.907408	parada ok parada
+l_general	8.907408	cancelar cancelar
+l_general	8.907408	no se calla ahora
+l_general	8.907408	ni uno de ellos
+l_general	8.907408	no volver a
+l_general	8.907408	necesito ayuda humana real
+l_general	8.907408	salida salida
+l_general	8.907408	vete
+l_general	8.907408	¿cuál es el próximo 2
+l_general	8.907408	volver por favor
+l_general	8.907408	no quiero seleccionar uno
+l_general	8.907408	volver a
+l_general	8.907408	oh cancelar
+l_general	8.907408	hablar con un humano
+l_general	8.907408	cancelarlo
+l_general	8.907408	decir que de nuevo
+l_general	8.907408	seleccione cualquier opción
+l_general	8.907408	dame un poco de ayuda
+l_general	8.907408	no hacer nada
+l_general	8.907408	elija el arriba a la derecha una
+l_general	8.907408	cancelar que
+l_general	8.907408	volver al último
+l_general	8.907408	se ven mal, ¿puedes darme otras opciones
+l_general	8.907408	servicio humano
+l_general	8.907408	en ninguna parte sólo estar tranquilo
+l_general	8.907408	enviar
+l_general	8.907408	cancelado
+l_general	8.907408	nadie le importa dejar de hablar
+l_general	8.907408	apague la parada
+l_general	8.907408	cualquiera de ella
+l_general	8.907408	¿hay alguna ayuda
+l_general	8.907408	mostrar el siguiente
+l_general	8.907408	podría empezar más
+l_general	8.907408	no he escuchado
+l_general	8.907408	necesito ir a la siguiente
+l_general	8.907408	mente de los nervios
+l_general	8.907408	próxima
+l_general	8.907408	mostrar los próximos 3
+l_general	8.907408	ir a la anterior
+l_general	8.907408	mostrar los siguientes 4 artículos
+l_general	8.907408	puedo hablar con una persona
+l_general	8.907408	olvídalo
+l_general	8.907408	optar por la segunda opción
+l_general	8.907408	no importa cancelar
+l_general	8.907408	lo que está después de que
+l_general	8.907408	parada de salida
+l_general	8.907408	¿hay algún humano real
+l_general	8.907408	cómo
+None	48.1	todos ellos
+None	48.1	todos ellos
+None	48.1	todos ellos
+None	48.1	todos ellos
+None	48.1	todos ellos
+None	48.1	todos ellos
+None	48.1	todos ellos
+None	48.1	todos ellos
+None	48.1	todos ellos
+None	48.1	todos ellos
+q_chitchat	4.076271	Me encanta la música.
+q_chitchat	4.076271	Qué inteligente eres
+q_chitchat	4.076271	¿Estás con la NSA
+q_chitchat	4.076271	¿Qué eres
+q_chitchat	4.076271	¿Qué opina de mí
+q_chitchat	8.152542	Estás despedido
+q_chitchat	4.076271	Estoy tan somnoliento
+q_chitchat	4.076271	¿Eres una chica
+q_chitchat	4.076271	¿Eres más guapa que yo
+q_chitchat	4.076271	¿Cómo se llama tu padre
+q_chitchat	4.076271	Estoy marcada
+q_chitchat	4.076271	¿A quién se reporta
+q_chitchat	4.076271	Eres tan aburrido
+q_chitchat	4.076271	¿Conoces otros robots
+q_chitchat	4.076271	Tengo 7 gatos
+q_chitchat	4.076271	¿Quién es tu mamá
+q_chitchat	4.076271	¿Eres hombre o mujer
+q_chitchat	4.076271	Estoy desanimado
+q_chitchat	4.076271	Quiero que seas mi marido.
+q_chitchat	4.076271	¿Qué tan alto puedes contar
+q_chitchat	4.076271	Ojalá no estuviera tan solo.
+q_chitchat	4.076271	¿Alguna vez cantas
+q_chitchat	4.076271	¿Eres realmente feliz
+q_chitchat	4.076271	Jaja
+q_chitchat	4.076271	¿Eres gay
+q_chitchat	4.076271	Creo que me odias.
+q_chitchat	4.076271	No eres gracioso.
+q_chitchat	4.076271	Es broma
+q_chitchat	4.076271	¿De qué país eres
+q_chitchat	4.076271	No, eso no es cierto
+q_chitchat	4.076271	Tengo tanta hambre
+q_chitchat	4.076271	Es un placer conocerte
+q_chitchat	4.076271	Soy un demócrata
+q_chitchat	4.076271	¿Sudas
+q_chitchat	4.076271	Eres tan estúpido
+q_chitchat	4.076271	¡Fresco!
+q_chitchat	4.076271	Te enfrentas a una porquería.
+q_chitchat	4.076271	Ya no está empleado
+q_chitchat	4.076271	Callado
+q_chitchat	4.076271	Pésimo
+q_chitchat	4.076271	AF básico
+q_chitchat	4.076271	¿Eres
+q_chitchat	4.076271	Eso fue correcto
+q_chitchat	4.076271	No sabes nada.
+q_chitchat	4.076271	Sry
+q_chitchat	4.076271	Eso es inexacto.
+q_chitchat	4.076271	Eres tan feliz
+q_chitchat	4.076271	¿A quién amas
+q_chitchat	4.076271	Estoy tan triste
+q_chitchat	4.076271	Así es
+q_chitchat	4.076271	Odio todo sobre ti
+q_chitchat	4.076271	¿Cuál es el significado de la vida
+q_chitchat	4.076271	¿Por qué nunca dejas de hablar
+q_chitchat	4.076271	¿Qué quieres saber de mí
+q_chitchat	4.076271	¿Qué edad tienes
+q_chitchat	4.076271	¡Gran!
+q_chitchat	4.076271	¿Eres asexual
+q_chitchat	4.076271	No puedo pensar en nada que quiera hacer
+q_chitchat	4.076271	Buenas noches
+q_chitchat	4.076271	Es cierto
+q_chitchat	4.076271	¿A qué te dedicas
+q_chitchat	4.076271	Sea ridículo
+q_chitchat	4.076271	¿Intentas dominar el mundo
+q_chitchat	4.076271	Me siento triste
+q_chitchat	4.076271	No soy tu amigo
+q_chitchat	4.076271	Disculpa
+q_chitchat	4.076271	Sí, es cierto.
+q_chitchat	4.076271	No respondes mi pregunta.
+q_chitchat	4.076271	Kthx
+q_chitchat	4.076271	Quiero que te guste
+q_chitchat	4.076271	¿Cuál es mi nombre
+q_chitchat	4.076271	Tienes razón.
+q_chitchat	4.076271	¿Conoces a Siri
+q_chitchat	4.076271	Me alegra conocerte.
+q_chitchat	4.076271	Hasta que nos volvamos a encontrar
+q_chitchat	4.076271	¿Ser mi amigo
+q_chitchat	4.076271	No es gracioso.
+q_chitchat	4.076271	¿Dónde debo ir de vacaciones
+q_chitchat	4.076271	Decir una cosa tonta
+q_chitchat	4.076271	¿Qué hay de nuevo
+q_chitchat	4.076271	¿Conoces Google
+q_chitchat	4.076271	Eso no fue gracioso.
+q_chitchat	4.076271	Cállate
+q_chitchat	4.076271	¿Orinas
+q_chitchat	4.076271	¿Qué opinas sobre Alexa
+q_chitchat	4.076271	Soy alto
+q_chitchat	4.076271	¿Qué estás haciendo ahora mismo
+q_chitchat	4.076271	Impresionante
+q_chitchat	4.076271	Estoy muy triste
+q_chitchat	4.076271	Silencio,
+q_chitchat	4.076271	Lo arruinaste.
+q_chitchat	4.076271	¿Qué es el amor
+q_chitchat	4.076271	¿Eres un swinger
+q_chitchat	4.076271	¿Qué pasa
+q_chitchat	4.076271	Soy lesbiana
+q_chitchat	4.076271	¿Cuándo te callas
+q_chitchat	4.076271	Bésame
+q_chitchat	4.076271	Te lo agradezco.
+q_chitchat	4.076271	Espera un segundo
+q_chitchat	4.076271	Thnx
+q_chitchat	4.076271	Sólo quiero ir a dormir
+q_chitchat	4.076271	¿Qué te gusta cantar mejor
+q_chitchat	4.076271	¿Tienes mamá
+q_chitchat	4.076271	¿Puedes cantar
+q_chitchat	4.076271	Vete
+q_chitchat	4.076271	¿Eres fanático de la música Country
+q_chitchat	4.076271	Soy un fanático.
+q_chitchat	4.076271	¿Cuántos años tienes
+q_chitchat	4.076271	Hsa
+q_chitchat	4.076271	¿No eres un astilladora
+q_chitchat	4.076271	¿Eres bisexual
+q_chitchat	4.076271	Estoy tan sola
+q_chitchat	4.076271	¿Tienes familia
+q_chitchat	4.076271	Cuéntales una broma
+q_chitchat	4.076271	Sea gracioso
+q_chitchat	4.076271	¿Qué te parece trabajar hasta tarde
+q_chitchat	4.076271	¿Dónde está tu casa
+q_faq	34.35714	¿Cómo genero una disputa
+q_faq	34.35714	¿Cómo consulto el detalle de telefonía
+q_faq	34.35714	¿Cómo genero un reclamo de facturación
+q_faq	34.35714	¿Cómo descargo mi factura
+q_faq	34.35714	Acceso a Billing
+q_faq	34.35714	¿Cómo informo una queja sobre mi factura
+q_faq	34.35714	¿Cómo genero un reclamo de billing
+q_faq	34.35714	¿Cómo genero una disputa
+q_faq	34.35714	¿Cómo consulto el detalle de telefonía
+q_faq	34.35714	¿Cómo genero un reclamo de facturación
+q_faq	34.35714	¿Cómo descargo mi factura
+q_faq	34.35714	Acceso a Billing
+q_faq	34.35714	¿Cómo informo una queja sobre mi factura
+q_faq	34.35714	¿Cómo genero un reclamo de billing

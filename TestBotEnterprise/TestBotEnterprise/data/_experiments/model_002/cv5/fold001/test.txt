@@ -1,0 +1,193 @@
+Label	Weight	Text
+l_general	8.833333	ninguno de ellos gracias
+l_general	8.833333	quiero elegir el cuarto
+l_general	8.833333	optar por la segunda opción
+l_general	8.833333	cualquier uno está bien
+l_general	8.833333	seleccione la última opción
+l_general	8.833333	repetir
+l_general	8.833333	estoy acabado
+l_general	8.833333	optar por el izquierda una
+l_general	8.833333	quiero que el izquierda
+l_general	8.833333	terminar
+l_general	8.833333	algo de ayuda
+l_general	8.833333	elegir el cuarto uno
+l_general	8.833333	yo no oí repetir de nuevo
+l_general	8.833333	oh mi dios cállate
+l_general	8.833333	elegir último uno
+l_general	8.833333	muéstrame el siguiente
+l_general	8.833333	seleccione inferior una
+l_general	8.833333	lo siento
+l_general	8.833333	no no cancelar
+l_general	8.833333	seleccione la inferior una
+l_general	8.833333	no volver a
+l_general	8.833333	quiero elegir la última opción
+l_general	8.833333	¿qué pasa con el tercero
+l_general	8.833333	vuelve
+l_general	8.833333	todo terminado
+l_general	8.833333	quiero elegir el izquierda una
+l_general	8.833333	sólo ser
+l_general	8.833333	terminó
+l_general	8.833333	uno anterior
+l_general	8.833333	no no volver a
+l_general	8.833333	no importa cancelar que
+l_general	8.833333	cualquier ayuda
+l_general	8.833333	no no importa
+l_general	8.833333	me refiero a dejar de escuchar
+l_general	8.833333	nadie le importa dejar de hablar
+l_general	8.833333	optar por derecho una
+l_general	8.833333	no quiero elegir uno
+l_general	8.833333	¿qué fue eso de nuevo
+l_general	8.833333	no importa cancelar
+l_general	8.833333	no hagas eso
+l_general	8.833333	me gusta el parte inferior una
+l_general	8.833333	ninguno de ellos
+l_general	8.833333	seleccione la parte inferior elección
+l_general	8.833333	elegir arriba a la derecha una
+l_general	8.833333	se ven mal, ¿puedes darme otras opciones
+l_general	8.833333	ni uno
+l_general	8.833333	¿cómo puedo conseguirlo
+l_general	8.833333	nada por favor
+l_general	8.833333	no quiero seleccionar uno
+l_general	8.833333	seleccione la derecho una
+l_general	8.833333	ir a los siguientes tres artículos
+l_general	8.833333	contactar con el soporte
+l_general	8.833333	no cancelar cancelar
+l_general	8.833333	¿hay alguna ayuda
+None	47.7	quiero a todos ellos
+None	47.7	quiero a todos ellos
+None	47.7	quiero a todos ellos
+None	47.7	quiero a todos ellos
+None	47.7	quiero a todos ellos
+None	47.7	quiero a todos ellos
+None	47.7	quiero a todos ellos
+None	47.7	quiero a todos ellos
+None	47.7	quiero a todos ellos
+None	47.7	quiero a todos ellos
+q_chitchat	3.878049	Ya hablamos
+q_chitchat	3.878049	Estoy enojado
+q_chitchat	3.878049	ROFL
+q_chitchat	3.878049	Vete al diablo
+q_chitchat	3.878049	¿Eres un tipo
+q_chitchat	3.878049	¿Eres un swinger
+q_chitchat	3.878049	¿Cuál es el nombre de tu jefe
+q_chitchat	3.878049	Quiero que seas mi marido.
+q_chitchat	7.756098	¿Eres inteligente
+q_chitchat	3.878049	¿Eres la singularidad
+q_chitchat	3.878049	¿Cuál es la respuesta al universo
+q_chitchat	3.878049	Noche
+q_chitchat	3.878049	¿Por qué me odias
+q_chitchat	3.878049	¿Esta cosa está puesta
+q_chitchat	3.878049	Gracias
+q_chitchat	3.878049	¿Me estás espiando
+q_chitchat	3.878049	Tu cara es como un panqueque.
+q_chitchat	3.878049	¿Me puedes escuchar
+q_chitchat	3.878049	Todo lo que me dijiste era falso.
+q_chitchat	3.878049	Estoy aburrido
+q_chitchat	3.878049	¿Qué opinas sobre Cortana
+q_chitchat	3.878049	La broma está en ti
+q_chitchat	3.878049	Abrázame
+q_chitchat	3.878049	Eso fue correcto
+q_chitchat	3.878049	¿Qué tan feliz estás
+q_chitchat	3.878049	Sí
+q_chitchat	3.878049	Decir una cosa tonta
+q_chitchat	3.878049	Hasta que nos volvamos a encontrar
+q_chitchat	3.878049	¿Puedes dormir
+q_chitchat	3.878049	¿Eres Skynet
+q_chitchat	3.878049	¿Hueles
+q_chitchat	3.878049	Voy a correr
+q_chitchat	3.878049	¿Qué quieres decir
+q_chitchat	3.878049	No eres gracioso.
+q_chitchat	3.878049	¿Conoces a Alexa
+q_chitchat	3.878049	¿Por qué crees eso
+q_chitchat	3.878049	Así es
+q_chitchat	3.878049	No podrías ser más aburrido
+q_chitchat	3.878049	Me encanta Nueva York.
+q_chitchat	3.878049	Pareces feliz
+q_chitchat	3.878049	Soy un fanático.
+q_chitchat	3.878049	¿Quién es tu amo
+q_chitchat	3.878049	Vuelvo ahora
+q_chitchat	3.878049	¿De qué estado eres
+q_chitchat	3.878049	¿Cómo me veo hoy
+q_chitchat	3.878049	Estoy listo para la cama
+q_chitchat	3.878049	Chatea conmigo
+q_chitchat	3.878049	¿Qué estás haciendo ahora mismo
+q_chitchat	3.878049	¿Eres realmente feliz
+q_chitchat	3.878049	¿Por qué
+q_chitchat	3.878049	Debes odiarme.
+q_chitchat	3.878049	¿Quién es tu cantante favorito
+q_chitchat	3.878049	¿No te gusto
+q_chitchat	3.878049	¿Me conoces
+q_chitchat	3.878049	Dame un golpe de puño
+q_chitchat	3.878049	¿Que tal te fue hoy
+q_chitchat	3.878049	¿Te gusta Siri
+q_chitchat	3.878049	Eso es asombroso.
+q_chitchat	3.878049	Eres mi favorito
+q_chitchat	3.878049	¿Cuál es el significado de la vida
+q_chitchat	7.756098	¡ Eres increíble!
+q_chitchat	3.878049	¿Eres trans
+q_chitchat	3.878049	¡Fresco!
+q_chitchat	3.878049	¿Quién es tu mamá
+q_chitchat	3.878049	¿Qué tipo de comida te gusta
+q_chitchat	3.878049	Hum una melodía
+q_chitchat	3.878049	¿Qué hacías ayer
+q_chitchat	3.878049	¿Cómo se llama tu padre
+q_chitchat	3.878049	Espera un segundo
+q_chitchat	3.878049	No puedo pensar en nada que quiera hacer
+q_chitchat	3.878049	Vete a la mierda
+q_chitchat	3.878049	Espero que te guste
+q_chitchat	3.878049	¿Serás mi esposa
+q_chitchat	3.878049	¿Qué te parece trabajar hasta tarde
+q_chitchat	3.878049	¿Qué te hace pensar así
+q_chitchat	3.878049	¿Con qué me puedes ayudar
+q_chitchat	3.878049	¡ Cierra la cremallera!
+q_chitchat	3.878049	¿Cómo puedes ayudarme
+q_chitchat	3.878049	Funciona para mí
+q_chitchat	3.878049	Eres maravillosa.
+q_chitchat	3.878049	¿Puedes cantar una canción
+q_chitchat	3.878049	Te extraño
+q_chitchat	3.878049	¿Cantas
+q_chitchat	3.878049	¿Puedes decir algo más
+q_chitchat	3.878049	¿Tienes mocos
+q_chitchat	3.878049	¿Porqué
+q_chitchat	3.878049	¿Puedes charlar conmigo
+q_chitchat	3.878049	¿Hace cuánto que naciste
+q_chitchat	3.878049	Estoy tan triste
+q_chitchat	3.878049	¿Dónde está tu casa
+q_chitchat	3.878049	¿Quién es más guapa, yo o tú
+q_chitchat	3.878049	¿Humano o robot
+q_chitchat	3.878049	¿Tienes un hermano
+q_chitchat	3.878049	Estoy feliz
+q_chitchat	3.878049	¿Quién es tu equipo favorito
+q_chitchat	3.878049	¿Tienes familia
+q_chitchat	3.878049	¡Eres agradable!
+q_chitchat	3.878049	Hay Google
+q_chitchat	3.878049	Me encanta conseguir San Valentín.
+q_chitchat	3.878049	No entiendo
+q_chitchat	3.878049	¿Eres macho o hembra
+q_chitchat	3.878049	¿Eres mejor que yo
+q_chitchat	3.878049	¿Eres hombre o mujer
+q_chitchat	3.878049	Vuelvo en un minuto
+q_chitchat	3.878049	Amo a mi familia.
+q_chitchat	3.878049	¿No estás alegre
+q_chitchat	7.756098	Eres tonto.
+q_chitchat	3.878049	Eres una cara de mantequilla.
+q_chitchat	3.878049	¿Eres un espía
+q_chitchat	3.878049	¿Eres una mujer
+q_chitchat	7.756098	Creo que eres genial.
+q_chitchat	3.878049	¿Quién es tu jefe
+q_chitchat	3.878049	Necesito un abrazo
+q_chitchat	7.756098	Estás despedido
+q_chitchat	3.878049	Estoy enamorado.
+q_chitchat	3.878049	Dame un alto cinco
+q_chitchat	3.878049	Jajaja
+q_chitchat	3.878049	¿Qué es el amor
+q_faq	47.7	¿Qué es el Enterprise bot template
+q_faq	47.7	¿Qué es el Enterprise bot template
+q_faq	47.7	¿Qué es el Enterprise bot template
+q_faq	47.7	¿Qué es el Enterprise bot template
+q_faq	47.7	¿Qué es el Enterprise bot template
+q_faq	47.7	¿Qué es el Enterprise bot template
+q_faq	47.7	¿Qué es el Enterprise bot template
+q_faq	47.7	¿Qué es el Enterprise bot template
+q_faq	47.7	¿Qué es el Enterprise bot template
+q_faq	47.7	¿Qué es el Enterprise bot template

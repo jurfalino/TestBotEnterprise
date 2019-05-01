@@ -1,0 +1,4 @@
+Utterance	Intents
+perdón	l_general, q_chitchat
+callado	l_general, q_chitchat
+vete	l_general, q_chitchat

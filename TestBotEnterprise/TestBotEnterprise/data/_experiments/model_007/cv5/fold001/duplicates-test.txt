@@ -1,0 +1,2 @@
+Utterance	Intents
+vete	l_general, q_chitchat

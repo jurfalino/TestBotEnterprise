@@ -1,0 +1,122 @@
+{
+    "name": "ctl-testbotenterprisev1",
+    "description": "",
+    "services": [
+        {
+            "type": "abs",
+            "id": "49",
+            "name": "ctl-testbotenterprisev1",
+            "tenantId": "1032f95f-ac8e-4e00-b9f6-47e31f578b31",
+            "subscriptionId": "6e5af7e0-825e-486e-8694-897adf678447",
+            "resourceGroup": "ctl-testbotenterprisev1",
+            "serviceName": "ctl-testbotenterprisev1",
+            "appId": "b5be00be-aed3-4113-b076-dada219054ac"
+        },
+        {
+            "type": "endpoint",
+            "id": "1",
+            "name": "development",
+            "appId": "b5be00be-aed3-4113-b076-dada219054ac",
+            "appPassword": "ADQY7awAaUj7KBV53QPNXQ==!U4LlxNWpe0DJyG4D3FhDahFpnMjd9f1on27Qj6V30zQ=",
+            "endpoint": "http://localhost:3978/api/messages"
+        },
+        {
+            "type": "endpoint",
+            "id": "30",
+            "name": "production",
+            "appId": "b5be00be-aed3-4113-b076-dada219054ac",
+            "appPassword": "chx/j3fxykceNt37V7xweA==!gAB40ozEmBIXnQ04FFOY93yLbRqOVlZDqrCqRlO9S20=",
+            "endpoint": "https://ctl-testbotenterprisev1.azurewebsites.net/api/messages"
+        },
+        {
+            "type": "appInsights",
+            "tenantId": "1032f95f-ac8e-4e00-b9f6-47e31f578b31",
+            "subscriptionId": "6e5af7e0-825e-486e-8694-897adf678447",
+            "resourceGroup": "ctl-testbotenterprisev1",
+            "name": "ctl-testbotenterprisev1",
+            "serviceName": "ctl-testbotenterprisev1",
+            "instrumentationKey": "iMdfZw423JUlbAZAEUWEiw==!OdUDShOP54QXBXjLPtaVmCoc6MguPeBmrBtlXV0zBi/x6UdHEHZyHkYin6CY4AfS",
+            "applicationId": "8dae0b49-85aa-48d7-b199-eaf6f13e0429",
+            "apiKeys": {},
+            "id": "3"
+        },
+        {
+            "type": "blob",
+            "id": "2",
+            "name": "ctltestbotenterprisev1",
+            "serviceName": "ctltestbotenterprisev1",
+            "tenantId": "1032f95f-ac8e-4e00-b9f6-47e31f578b31",
+            "subscriptionId": "6e5af7e0-825e-486e-8694-897adf678447",
+            "resourceGroup": "ctl-testbotenterprisev1",
+            "connectionString": "CZRjTCUr3PZoI0MJ8nwVRQ==!2V4Y+nKFA4lE6xIzWtzCDaD7hx4QvCBUj4L1XjxRQ2jpdT752KsK9SnY5f5kFyi0mStyYTpwnml4YyG05xp7str4O1S3in0FEM/nISPpUZ7hEM57oKg0N9XJ5+BQGfuivJ6fWMnVZRN5RfsgOsbgApBxzwUI1E6YIA+yQnrTZxe7yD1MINx2/mxhzeAC0/dNuFq5QkIngzGEqb2qcKyQ2sPgHASz27CFOYY4/0e1G/nCqgvqiz7oDpo8a25rz0+xos+kLaOtSi8kpTsyHe0WRQ==",
+            "container": "transcripts"
+        },
+        {
+            "type": "cosmosdb",
+            "id": "8",
+            "name": "ctl-testbotenterprisev1",
+            "serviceName": "ctl-testbotenterprisev1",
+            "tenantId": "1032f95f-ac8e-4e00-b9f6-47e31f578b31",
+            "subscriptionId": "6e5af7e0-825e-486e-8694-897adf678447",
+            "resourceGroup": "ctl-testbotenterprisev1",
+            "endpoint": "https://ctl-testbotenterprisev1.documents.azure.com:443/",
+            "key": "+OcVaBZwmi+BAE7wuqlImA==!9T7VIxR4dnoma5TqKv3jjrp0ijgx9dy4eDhbahpBLv/bQ7CuDN4oiChZfdBNyJrgzhBgSZsxF6Ze6J877SN4wzQZsl5+6CFHvDgma0VaXzMVjMDZqHRCAoPsXTpzrVrR",
+            "database": "botstate-db",
+            "collection": "botstate-collection"
+        },
+        {
+            "type": "luis",
+            "name": "ctl-testbotenterprisev1_General",
+            "appId": "45269cc8-5135-49db-861b-764726d044c4",
+            "authoringKey": "AjkqGxqJlERxWru198+jew==!ihhqfrsKqcYCGZVTKKa2TwLbtOEe4+pH1teIbIisU6XNhxI1Aupg9jz07jW6QnHw",
+            "subscriptionKey": "DPPi/YwLevohxsivfkVb6A==!amlbfks4KD25BgQRIgBf0YWuDLymRfAUqDe6LQfM+IH12EH58Luoyurqy29D9EJX",
+            "version": "0.1",
+            "region": "westus",
+            "id": "general"
+        },
+        {
+            "type": "qna",
+            "name": "FAQ",
+            "id": "faq",
+            "kbId": "a243d5a9-6e77-4a2a-a388-6393af13b069",
+            "subscriptionKey": "EvD76Dj8GgpWlNHpg+WGAg==!cCQlnr3eoazVbc+ryoExuu0oYT7wdKo1t7Ru/yMHsl/0mWVx1Hw0813feeEpFatV",
+            "endpointKey": "EtyGCzGx4C+oqo5RjQ6QLg==!MPiW8ytx7ynryRqtBpXlvqG8kN7re8T6XJq62+DQZ1U4V+hUwKWsRwC30UW3htln",
+            "hostname": "https://ctl-testbotenterprisev1-qnahost.azurewebsites.net/qnamaker"
+        },
+        {
+            "type": "qna",
+            "name": "ChitChat",
+            "id": "chitchat",
+            "kbId": "1604a25a-9bda-4ca5-8f99-9929f7e8a311",
+            "subscriptionKey": "8XcY+y2ul4R97EBif5IR+Q==!Z7pk1W/IhPyIHEv7LfhDRJ2b+G+2doSYbYSWLUOwAQuHtZ7uTVWMQjbKvxUp2NM5",
+            "endpointKey": "dl/zj6jiDP9j8uJ3vBstfA==!xmeGPfsCSODz7c/bHTORg3OmfX5stLnowHS/JapofJ1f/unbwKJ1LK/mQw8HDHnt",
+            "hostname": "https://ctl-testbotenterprisev1-qnahost.azurewebsites.net/qnamaker"
+        },
+        {
+            "type": "dispatch",
+            "serviceIds": [
+                "general",
+                "faq",
+                "chitchat"
+            ],
+            "name": "ctl-testbotenterprisev1_Dispatch",
+            "appId": "cc880eba-d550-423d-862c-102c486f56e7",
+            "authoringKey": "bBiqs3zMLVt45ck9LhQmHw==!LBTeShIthuXFzTLTPI8nCYZEE6ojo0/Uiay2pS7oh0kOj4kgQ6RtuAeWf0w28RHb",
+            "subscriptionKey": "2z3C6iQDGJCzdfoKJONFTA==!X2poGOzqt7lKPmlTSKrU014wDsrF1bVTBUP6xddWLLeMdFjdgZffWV9c/woKKHRA",
+            "version": "0.1",
+            "region": "westus",
+            "id": "dispatch"
+        },
+        {
+        "type": "endpoint",
+        "name": "production",
+        "appId": "b5be00be-aed3-4113-b076-dada219054ac",
+        "appPassword": "3x2Oz4l+3FKz40Z3asWoUA==!z6YmSqXduAeXKTAEesqQFzv7XOz+tqM5b3an+OcauXM=",
+        "endpoint": "https://ctl-testbotenterprisev1.azurewebsites.net/api/messages",
+        "id": "201"
+        }
+
+    ],
+    "padlock": "22auK199EwdQr192iNVC1g==!WDBgaaUu/THQXd+4Kshs+TcxINIUFjmnQ4MsSVypbEZCkFDiNVJlJ6Anx2q+XWef",
+    "version": "2.0"
+}

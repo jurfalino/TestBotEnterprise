@@ -1,0 +1,195 @@
+Label	Weight	Text
+l_general	8.888889	seleccione la parte inferior elección
+l_general	8.888889	estar tranquilo ahora
+l_general	8.888889	elegir arriba a la derecha
+l_general	8.888889	ninguno de ellos
+l_general	8.888889	sólo ser
+l_general	8.888889	empezar de más de
+l_general	8.888889	parada ok parada
+l_general	8.888889	seleccionar tercero
+l_general	8.888889	quiero izquierda
+l_general	8.888889	no quiero elegir uno
+l_general	8.888889	necesito servicio al cliente manual
+l_general	8.888889	por favor no hacer nada
+l_general	8.888889	seleccionar cualquiera de ellos
+l_general	8.888889	terminar
+l_general	8.888889	algo de ayuda
+l_general	8.888889	que me puede ayudar
+l_general	8.888889	cancelar que
+l_general	8.888889	quiero parte inferior
+l_general	8.888889	sólo cállate
+l_general	8.888889	cancelar no importa
+l_general	8.888889	apaga
+l_general	8.888889	nada
+l_general	8.888889	seleccionar uno aleatorio
+l_general	8.888889	reiniciarlo
+l_general	8.888889	elegir a cualquiera
+l_general	8.888889	próxima
+l_general	8.888889	quiero tercer uno
+l_general	8.888889	seleccione la tercera
+l_general	8.888889	optar por el segundo
+l_general	8.888889	reiniciar
+l_general	8.888889	me gusta la tercera
+l_general	8.888889	me gusta el arriba a la derecha
+l_general	8.888889	quiero elegir el inferior elección
+l_general	8.888889	seleccione la arriba a la derecha
+l_general	8.888889	¿qué pasa después
+l_general	8.888889	seleccione inferior una
+l_general	8.888889	quiero que el izquierda
+l_general	8.888889	ir a la anterior
+l_general	8.888889	¿podría decirlo de nuevo
+l_general	8.888889	cancelar cancelar
+l_general	8.888889	mostrar más
+l_general	8.888889	lo siento, no lo hagas
+l_general	8.888889	se ven mal, ¿puedes darme otras opciones
+l_general	8.888889	no importa dejar de
+l_general	8.888889	¿qué fue eso de nuevo
+l_general	8.888889	atrás
+l_general	8.888889	ninguno de ellos gracias
+l_general	8.888889	y después de eso
+l_general	8.888889	puedo hablar con una persona
+l_general	8.888889	elegir el cuarto uno
+l_general	8.888889	muéstrame el anterior
+l_general	8.888889	quiero elegir el derecho
+l_general	8.888889	seleccione no. 5
+l_general	8.888889	cómo
+None	48	quiero todos ellos
+None	48	quiero todos ellos
+None	48	quiero todos ellos
+None	48	quiero todos ellos
+None	48	quiero todos ellos
+None	48	quiero todos ellos
+None	48	quiero todos ellos
+None	48	quiero todos ellos
+None	48	quiero todos ellos
+None	48	quiero todos ellos
+q_chitchat	4	¡Fresco!
+q_chitchat	4	Sí, eso es verdad.
+q_chitchat	4	No eres gracioso.
+q_chitchat	4	¿Qué equipos de béisbol te gustan
+q_chitchat	4	Soy ingeniero
+q_chitchat	4	Soy un demócrata
+q_chitchat	4	Eres tan básico
+q_chitchat	4	Eso no era cierto
+q_chitchat	4	¿Qué te hace pensar eso
+q_chitchat	4	Pruebas 1 2 3
+q_chitchat	4	¿Qué edad tienes
+q_chitchat	4	Me encanta Nueva York.
+q_chitchat	4	Quiero comer algo
+q_chitchat	4	¿Cuánto más impresionante puede obtener
+q_chitchat	4	Mi sincero agradecimiento
+q_chitchat	4	¿Qué tan alto puedes saltar
+q_chitchat	4	Eso no tiene sentido
+q_chitchat	4	¿Eres fan de Alexa
+q_chitchat	4	¿De qué estado eres
+q_chitchat	4	¿En dónde vives
+q_chitchat	4	Hay Alexa
+q_chitchat	4	Me siento tan bien
+q_chitchat	4	Me siento triste
+q_chitchat	4	Cara de mantequilla.
+q_chitchat	4	No me interesa en absoluto.
+q_chitchat	4	Ojalá pudiera abrazarte
+q_chitchat	4	¿Eres una persona
+q_chitchat	4	¿Quién te creó
+q_chitchat	4	Hum una melodía
+q_chitchat	4	Caimán posterior
+q_chitchat	4	Quiero que te guste
+q_chitchat	4	¿Dónde está tu casa
+q_chitchat	4	¿Qué opinas sobre AI
+q_chitchat	4	OMG lo siento
+q_chitchat	4	¿Eres lesbiana
+q_chitchat	4	¿Te quieres casar conmigo
+q_chitchat	4	Aquí tienes un beso para ti
+q_chitchat	4	Sólo estoy jugando
+q_chitchat	4	Es un placer
+q_chitchat	4	Qué mal.
+q_chitchat	4	¿Quieres gobernar el mundo
+q_chitchat	4	Estoy solo
+q_chitchat	4	Eres maravillosa.
+q_chitchat	4	¿Cómo me veo hoy
+q_chitchat	4	¡Feliz cumpleaños!
+q_chitchat	4	¿En qué estado estás
+q_chitchat	4	¿Puedes volar
+q_chitchat	4	Ahora estás desempleado
+q_chitchat	4	Me encanta la música.
+q_chitchat	4	No respondes mi pregunta.
+q_chitchat	4	¿Sabes alguna broma
+q_chitchat	4	¿Eres HAL
+q_chitchat	4	Es broma
+q_chitchat	4	¿Qué quieres saber de mí
+q_chitchat	4	Decir una cosa tonta
+q_chitchat	4	Dame una broma
+q_chitchat	4	Falso
+q_chitchat	4	Tu cara es como un panqueque.
+q_chitchat	4	Tan cansado
+q_chitchat	4	No, eso no es cierto
+q_chitchat	4	¿Qué hacías ayer
+q_chitchat	4	Eso fue gracioso
+q_chitchat	4	Buenas noches a ti
+q_chitchat	4	¡Gran!
+q_chitchat	4	¿Qué eres
+q_chitchat	4	¿Puedo abrazarme
+q_chitchat	4	Vuelvo ahora
+q_chitchat	4	¿Qué tan hermosa soy
+q_chitchat	4	¡ Cierra la cremallera!
+q_chitchat	4	Eres mi favorito
+q_chitchat	4	Dime cuánto me amas
+q_chitchat	4	Tengo 7 gatos
+q_chitchat	4	Bingo
+q_chitchat	4	¿Te gusta el béisbol
+q_chitchat	4	¿Quién es más guapa, yo o tú
+q_chitchat	4	¿Qué tan inteligente eres
+q_chitchat	4	Sry
+q_chitchat	4	¿Qué te gusta comer
+q_chitchat	4	¿Dónde debo ir de vacaciones
+q_chitchat	4	¿Se cansa
+q_chitchat	4	¿Qué comes
+q_chitchat	4	¿Conoces a Siri
+q_chitchat	4	¿Eres macho
+q_chitchat	4	Eso no es exacto
+q_chitchat	4	¿Conoces otros robots
+q_chitchat	4	¿Puedes hacerme un sándwich
+q_chitchat	4	¿Eres gay
+q_chitchat	4	Impresionante
+q_chitchat	4	¿Soy una buena persona
+q_chitchat	4	¿Puedes hablarme
+q_chitchat	4	¿Cuál de nosotros es más inteligente
+q_chitchat	4	Ya no está empleado
+q_chitchat	4	Hay Google
+q_chitchat	4	Estoy aquí
+q_chitchat	4	¿Porqué
+q_chitchat	4	¿Me odias
+q_chitchat	4	Funciona para mí
+q_chitchat	4	Estoy cansado de ti
+q_chitchat	4	¿Eres mi amigo imaginario
+q_chitchat	4	¿Está vendiendo mis datos
+q_chitchat	4	¿Qué hay de nuevo
+q_chitchat	4	Buenos días
+q_chitchat	4	¿Eres mi ayudante
+q_chitchat	4	Eres tan poco gracioso.
+q_chitchat	4	¿Cuál es tu animal favorito
+q_chitchat	4	¿Estás con la NSA
+q_chitchat	4	¿No estás alegre
+q_chitchat	4	Di algo estúpido
+q_chitchat	4	Ya no puedes trabajar para mí.
+q_chitchat	8	Lo siento mucho.
+q_chitchat	4	Estoy haciendo eso
+q_chitchat	4	¿eres real o falso
+q_chitchat	4	Pregúntame cualquier cosa.
+q_chitchat	4	Eres tan guay
+q_chitchat	8	¿Eres inteligente
+q_chitchat	4	¿Sabes quién soy
+q_chitchat	4	¿Estás ahí
+q_chitchat	4	¿Quién es usted
+q_faq	40	¿Cómo informo una queja sobre mi factura
+q_faq	40	¿Cómo descargo mi factura
+q_faq	40	¿Cómo solicito acceso a Facturación
+q_faq	40	¿Cómo creo un ticket de facturación
+q_faq	40	¿Cómo puedo obtener mis notas de crédito
+q_faq	40	¿Cómo puedo visualizar mi nota fiscal
+q_faq	40	¿Cómo informo una queja sobre mi factura
+q_faq	40	¿Cómo descargo mi factura
+q_faq	40	¿Cómo solicito acceso a Facturación
+q_faq	40	¿Cómo creo un ticket de facturación
+q_faq	40	¿Cómo puedo obtener mis notas de crédito
+q_faq	40	¿Cómo puedo visualizar mi nota fiscal

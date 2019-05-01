@@ -1,0 +1,106 @@
+{
+  "qnaDocuments": [
+    {
+      "id": 1,
+      "answer": "JU2 La creación de una experiencia conversacional de alta calidad requiere un conjunto fundacional de capacidades. Para ayudarle a tener éxito con la creación de grandes experiencias conversacionales, hemos creado una plantilla **Enterprise bot template**. Esta plantilla reúne todas las mejores prácticas y componentes de apoyo que hemos identificado a través de la construcción de experiencias conversacionales.\n[Learn more](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-enterprise-template-overview?view=azure-bot-service-4.0)",
+      "source": "custom editorial",
+      "questions": [
+        "¿Qué es el Enterprise bot template?",
+        "¿Qué es la plantilla de bot de Enterprise?"
+      ],
+      "metadata": [
+        {
+          "name": "editorial",
+          "value": "template"
+        }
+      ],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "a243d5a9-6e77-4a2a-a388-6393af13b069"
+    },
+    {
+      "id": 2,
+      "answer": "Para poder acceder a las funcionalidades de Billing, debes solicitar a tu Administrador o Administrador de Usuarios de tu compañia, que tu perfil sea modificado y que agregue el rol de \"Billing\" y \"Disputas\"; allí podrás acceder al módulo de facturación y descargar todas las facturas que necesites.&nbsp;",
+      "source": "Editorial",
+      "questions": [
+        "¿Cómo puedo obtener los permisos para acceder a las funcionalidades de Billing?",
+        "¿Cómo solicito acceso a Facturación?",
+        "¿Cómo solicito acceso a Billing?",
+        "¿Cómo solicitar permisos para visualizar facturas?",
+        "¿Cómo accedo a Facturación?",
+        "Acceso a facturación",
+        "Acceso a Billing"
+      ],
+      "metadata": [
+        {
+          "name": "editorial",
+          "value": "finance"
+        }
+      ],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "a243d5a9-6e77-4a2a-a388-6393af13b069"
+    },
+    {
+      "id": 3,
+      "answer": "Para consultar y descargar tus documentos (facturas,notas de\ncrédito,notas de débito, detalle de telefonía, etc) debes ingresar a la solapa\n\"Facturación\" del Portal MyLevel3 LATAM. Esta vista te mostrará todos\nlos documentos emitidos para tu Compañía.  \n\nPara mayor información, puedes descargar el **[Manual\nde Usuario](https://latam.my.level3.com/portal/assets/docs/generalmanual/es/Manual_General.pdf)**, y revisar el apartado \"Facturación\".",
+      "source": "Editorial",
+      "questions": [
+        "¿Cómo descargo mi factura?",
+        "¿Cómo consulto mis últimas facturas?",
+        "¿Cómo obtengo mis facturas históricas?",
+        "¿Cómo obtener el historial de mis facturas?",
+        "¿Cómo consulto mi detalle de consumos?",
+        "¿Cómo consulto el detalle de telefonía?",
+        "¿Cómo puedo obtener mis notas de crédito?",
+        "¿Cómo puedo visualizar mi factura?",
+        "¿Cómo puedo visualizar mi nota fiscal?",
+        "¿Cómo descargar Notas débito?",
+        "No puedo ver mi factura, qué hago? ",
+        "¿Cómo visualizo mi factura?",
+        "¿Como veo mis facturas?",
+        "Cómo puedo ver mis facturas?",
+        "Mis facturas?"
+      ],
+      "metadata": [
+        {
+          "name": "editorial",
+          "value": "finance"
+        }
+      ],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "Update",
+      "kbId": "a243d5a9-6e77-4a2a-a388-6393af13b069"
+    },
+    {
+      "id": 4,
+      "answer": "Para crear una consulta/disputa de facturación, debes ingresar a la\nsolapa **\"**Facturación\",à “Disputas y Consultas”à “Crear Nueva Disputa o\nConsulta\".***   \n\n\n***Para mayor información,\npuedes descargar el **[Manual\nde Usuario](https://latam.my.level3.com/portal/assets/docs/generalmanual/es/Manual_General.pdf)** , y revisar el apartado \"Facturación\" ",
+      "source": "Editorial",
+      "questions": [
+        "¿Cómo creo un ticket de facturación?",
+        "¿Cómo elevo un reclamo de facturación?",
+        "¿Cómo pido que traten un problema con mi facturas?",
+        "¿Cómo informo una queja sobre mi factura?",
+        "Tengo un issue de facturación, qué hago?",
+        "¿Cómo genero un reclamo de facturación?",
+        "¿Cómo genero un reclamo de billing?",
+        "¿Cómo genero una disputa?",
+        "¿Cómo generar una disputa?",
+        "¿Cómo crear una disputa?"
+      ],
+      "metadata": [
+        {
+          "name": "editorial",
+          "value": "finance"
+        }
+      ],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "Update",
+      "kbId": "a243d5a9-6e77-4a2a-a388-6393af13b069"
+    }
+  ]
+}

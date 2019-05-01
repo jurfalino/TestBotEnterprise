@@ -1,0 +1,196 @@
+Label	Weight	Text
+l_general	8.833333	¿hay alguna ayuda
+l_general	8.833333	quiero elegir el derecho
+l_general	8.833333	elegir el cuarto uno
+l_general	8.833333	último paso
+l_general	8.833333	no cállate
+l_general	8.833333	lo que está después de que
+l_general	8.833333	olvídalo
+l_general	8.833333	próxima
+l_general	8.833333	quiero derecho una
+l_general	8.833333	ni uno
+l_general	8.833333	dios cállate
+l_general	8.833333	lo que es más
+l_general	8.833333	cualquier uno está bien
+l_general	8.833333	ayuda
+l_general	8.833333	ir a la siguiente
+l_general	8.833333	quiero cuarto
+l_general	8.833333	ninguno de ellos gracias
+l_general	8.833333	elija el abajo a la izquierda
+l_general	8.833333	detener por favor
+l_general	8.833333	seleccione la derecho una
+l_general	8.833333	todo terminado
+l_general	8.833333	¿qué fue eso de nuevo
+l_general	8.833333	mostrar los próximos 3
+l_general	8.833333	no hagas eso ya
+l_general	8.833333	ninguno
+l_general	8.833333	seleccione la inferior una
+l_general	8.833333	quiero que el derecho una
+l_general	8.833333	está hecho
+l_general	8.833333	yo no oí repetir de nuevo
+l_general	8.833333	¿qué pasa después
+l_general	8.833333	seleccione la tercera
+l_general	8.833333	quiero más
+l_general	8.833333	dame un poco de ayuda
+l_general	8.833333	seleccione no. 5
+l_general	8.833333	claro y empezar de nuevo
+l_general	8.833333	se ven mal, ¿puedes darme otras opciones
+l_general	8.833333	no se calla ahora
+l_general	8.833333	quiero hablar con un humano
+l_general	8.833333	mostrar el anterior
+l_general	8.833333	optar por la segunda opción
+l_general	8.833333	quiero que el inferior elección
+l_general	8.833333	elegir último uno
+l_general	8.833333	qué has dicho
+l_general	8.833333	ni
+l_general	8.833333	quiero elegir el inferior elección
+l_general	8.833333	oh mi dios cállate
+l_general	8.833333	parada de salida
+l_general	8.833333	quiero elegir el izquierda una
+l_general	8.833333	por favor ayuda
+l_general	8.833333	seleccione la parte inferior elección
+l_general	8.833333	tranquilo
+l_general	8.833333	sólo ser
+l_general	8.833333	cállate silencio
+l_general	8.833333	reiniciar
+None	47.7	quiero todos ellos
+None	47.7	quiero todos ellos
+None	47.7	quiero todos ellos
+None	47.7	quiero todos ellos
+None	47.7	quiero todos ellos
+None	47.7	quiero todos ellos
+None	47.7	quiero todos ellos
+None	47.7	quiero todos ellos
+None	47.7	quiero todos ellos
+None	47.7	quiero todos ellos
+q_chitchat	3.909836	Voy a correr
+q_chitchat	3.909836	¿Puedes hacerme un sándwich
+q_chitchat	3.909836	¿Eres una persona
+q_chitchat	3.909836	Estoy tan aburrido
+q_chitchat	3.909836	Chatea conmigo
+q_chitchat	3.909836	A nadie le gusto
+q_chitchat	3.909836	¿Cómo te llamas
+q_chitchat	3.909836	¿Cuántos años tienes
+q_chitchat	3.909836	No es gracioso.
+q_chitchat	3.909836	Hasta que nos volvamos a encontrar
+q_chitchat	3.909836	¿Puedes practicar deportes
+q_chitchat	3.909836	¿Soy guapo
+q_chitchat	3.909836	Decir una cosa tonta
+q_chitchat	3.909836	Vas a estar desempleada pronto.
+q_chitchat	3.909836	Eres tan malo en esto.
+q_chitchat	3.909836	Eres aburrido.
+q_chitchat	3.909836	Cansarse de ti
+q_chitchat	3.909836	Sí, es cierto.
+q_chitchat	3.909836	¿De qué estado eres
+q_chitchat	3.909836	¿Cuál de nosotros es más inteligente
+q_chitchat	3.909836	¿Ser mi amigo
+q_chitchat	3.909836	¿Dónde está tu casa
+q_chitchat	3.909836	¿Soy guapa
+q_chitchat	11.72951	Te quiero.
+q_chitchat	3.909836	Sólo estoy jugando
+q_chitchat	3.909836	¿Cómo estás
+q_chitchat	3.909836	Estás muy lejos.
+q_chitchat	7.819672	Lo siento mucho.
+q_chitchat	3.909836	Estoy haciendo eso
+q_chitchat	3.909836	¿Te gusta mi sombrero
+q_chitchat	3.909836	¿BFFs para siempre
+q_chitchat	3.909836	¿Puedes dormir
+q_chitchat	3.909836	Todo lo que me dijiste era falso.
+q_chitchat	3.909836	Eres tan aburrido
+q_chitchat	3.909836	¿Qué opinas sobre la tecnología
+q_chitchat	3.909836	¿Cuál es tu canción favorita
+q_chitchat	3.909836	Me encanta conseguir San Valentín.
+q_chitchat	3.909836	Te adoro
+q_chitchat	3.909836	¿Quién es usted
+q_chitchat	3.909836	¿Eres pansexual
+q_chitchat	3.909836	No lo entiendo
+q_chitchat	3.909836	Canta una canción
+q_chitchat	3.909836	¿Qué opinas sobre el amor
+q_chitchat	3.909836	Eso es inexacto.
+q_chitchat	3.909836	¿Cuánto me amas
+q_chitchat	3.909836	¿Dónde estás
+q_chitchat	3.909836	Estoy feliz
+q_chitchat	3.909836	Sí, eso es verdad.
+q_chitchat	3.909836	¿Cuál de nosotros es más hermoso
+q_chitchat	3.909836	Eso no tiene sentido
+q_chitchat	3.909836	¿Con qué me puedes ayudar
+q_chitchat	7.819672	Hola
+q_chitchat	3.909836	¿No puedes cambiar tus respuestas
+q_chitchat	3.909836	Es un placer conocerte
+q_chitchat	3.909836	Eres tan estúpido
+q_chitchat	3.909836	¿Dónde se encuentra
+q_chitchat	3.909836	¿Qué tipo de caramelo te gusta
+q_chitchat	3.909836	¿Puedes leer mi mente
+q_chitchat	3.909836	Te enfrentas a una porquería.
+q_chitchat	3.909836	¿Quién es tu papá
+q_chitchat	3.909836	No respondes mi pregunta.
+q_chitchat	3.909836	Dime una broma
+q_chitchat	3.909836	Estoy desanimado
+q_chitchat	3.909836	Eres mi mejor amigo
+q_chitchat	3.909836	Vete a la mierda
+q_chitchat	3.909836	La broma está en ti
+q_chitchat	3.909836	¿Sabes alguna broma
+q_chitchat	7.819672	No es verdad.
+q_chitchat	3.909836	¿Tiene alguna otra respuesta
+q_chitchat	3.909836	Estoy todo destuitado
+q_chitchat	3.909836	¿Cómo me veo hoy
+q_chitchat	3.909836	Ya no puedes trabajar para mí.
+q_chitchat	3.909836	Eso es asombroso.
+q_chitchat	3.909836	¿En qué país estás
+q_chitchat	3.909836	Así es
+q_chitchat	3.909836	¿Porqué
+q_chitchat	3.909836	¿Conoces a otros Chatbots
+q_chitchat	3.909836	Eres maravillosa.
+q_chitchat	3.909836	¿Por qué
+q_chitchat	3.909836	¿Eres heterosexual
+q_chitchat	3.909836	¿Eres hembra
+q_chitchat	3.909836	¿Sabes quién soy
+q_chitchat	3.909836	Eres tan poco gracioso.
+q_chitchat	3.909836	Dame un golpe de puño
+q_chitchat	3.909836	No sabes nada.
+q_chitchat	3.909836	Soy ingeniero
+q_chitchat	3.909836	¿Qué harás después
+q_chitchat	3.909836	Hoy estoy triste
+q_chitchat	3.909836	¿Cómo te llamo
+q_chitchat	3.909836	Buenos días
+q_chitchat	3.909836	¡ Eres un genio!
+q_chitchat	3.909836	¿Qué opinas sobre Alexa
+q_chitchat	3.909836	¿Está vendiendo mis datos
+q_chitchat	3.909836	Quiero pasar el resto de mi vida contigo
+q_chitchat	3.909836	Eso no fue gracioso.
+q_chitchat	3.909836	¿Eres lesbiana
+q_chitchat	3.909836	Estoy de buen humor.
+q_chitchat	3.909836	¿Qué tan hermosa soy
+q_chitchat	3.909836	¿Quién te ha hecho
+q_chitchat	3.909836	Soy un demócrata
+q_chitchat	3.909836	¿Me estás espiando
+q_chitchat	3.909836	Impresionante
+q_chitchat	3.909836	¿Qué tan feliz estás
+q_chitchat	3.909836	Estoy aburrido de mi mente
+q_chitchat	3.909836	Tengo tanta hambre
+q_chitchat	3.909836	No eres divertido
+q_chitchat	3.909836	¿Eres mi ayudante
+q_chitchat	3.909836	Sólo quiero ir a dormir
+q_chitchat	3.909836	¡Chócalas!
+q_chitchat	3.909836	Tienes razón.
+q_chitchat	3.909836	¿Puedes volar
+q_chitchat	3.909836	Eres horrible.
+q_chitchat	3.909836	Hum una melodía
+q_chitchat	3.909836	Me siento triste
+q_chitchat	3.909836	¿Crees que los dragones son geniales
+q_chitchat	3.909836	¿Estás aquí
+q_chitchat	3.909836	¿Hueles
+q_faq	34.07143	¿Cómo pido que traten un problema con mi facturas
+q_faq	34.07143	¿Cómo puedo visualizar mi nota fiscal
+q_faq	34.07143	¿Cómo visualizo mi factura
+q_faq	34.07143	¿Cómo crear una disputa
+q_faq	34.07143	¿Como veo mis facturas
+q_faq	34.07143	Tengo un issue de facturación, qué hago
+q_faq	34.07143	¿Cómo creo un ticket de facturación
+q_faq	34.07143	¿Cómo pido que traten un problema con mi facturas
+q_faq	34.07143	¿Cómo puedo visualizar mi nota fiscal
+q_faq	34.07143	¿Cómo visualizo mi factura
+q_faq	34.07143	¿Cómo crear una disputa
+q_faq	34.07143	¿Como veo mis facturas
+q_faq	34.07143	Tengo un issue de facturación, qué hago
+q_faq	34.07143	¿Cómo creo un ticket de facturación

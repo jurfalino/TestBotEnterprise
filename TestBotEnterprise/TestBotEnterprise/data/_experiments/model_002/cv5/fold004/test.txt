@@ -1,0 +1,193 @@
+Label	Weight	Text
+l_general	8.907409	sólo cállate
+l_general	8.907409	ninguno ninguno de ellos
+l_general	8.907409	dejar
+l_general	8.907409	cancelar no importa
+l_general	8.907409	volver a la anterior
+l_general	8.907409	quiero la cuarta opción
+l_general	8.907409	quiero hablar con un humano
+l_general	8.907409	callado
+l_general	8.907409	volver a la última
+l_general	8.907409	enviar
+l_general	8.907409	¿hay alguna persona real
+l_general	8.907409	seleccionar una opción aleatoria
+l_general	8.907409	cancelar
+l_general	8.907409	optar por cualquiera de ellos
+l_general	8.907409	quiero elegir el derecho
+l_general	8.907409	volver al último
+l_general	8.907409	quiero elegir tercero
+l_general	8.907409	sin parar
+l_general	8.907409	no cállate
+l_general	8.907409	muéstrame el anterior
+l_general	8.907409	volver
+l_general	8.907409	te quiero para dejar de hablar
+l_general	8.907409	perdón
+l_general	8.907409	pasar a la siguiente
+l_general	8.907409	repetir que
+l_general	8.907409	quiero que el segundo
+l_general	8.907409	seleccionar cuarto uno
+l_general	8.907409	seleccione la arriba a la derecha
+l_general	8.907409	tranquilo
+l_general	8.907409	¿qué pasa con la última
+l_general	8.907409	nada no importa
+l_general	8.907409	mostrar más
+l_general	8.907409	detener por favor
+l_general	8.907409	mostrar el anterior
+l_general	8.907409	quiero que el derecho una
+l_general	8.907409	ir a la anterior
+l_general	8.907409	seleccione cualquier
+l_general	8.907409	iniciarlo
+l_general	8.907409	seleccione superior
+l_general	8.907409	apague la parada
+l_general	8.907409	lo que sigue
+l_general	8.907409	ayuda
+l_general	8.907409	estar tranquilo ahora
+l_general	8.907409	dije que pare
+l_general	8.907409	y después de eso
+l_general	8.907409	ninguno ninguno
+l_general	8.907409	quiero más
+l_general	8.907409	lo
+l_general	8.907409	optar por el derecho
+l_general	8.907409	ni gracias
+l_general	8.907409	mostrar las siguientes dos opciones
+l_general	8.907409	servicio humano
+l_general	8.907409	optar por el inferior elección
+l_general	8.907409	empezar de más de
+None	48.1	quiero todos ellos
+None	48.1	quiero todos ellos
+None	48.1	quiero todos ellos
+None	48.1	quiero todos ellos
+None	48.1	quiero todos ellos
+None	48.1	quiero todos ellos
+None	48.1	quiero todos ellos
+None	48.1	quiero todos ellos
+None	48.1	quiero todos ellos
+None	48.1	quiero todos ellos
+q_chitchat	4.042017	¡ Golpe de puño!
+q_chitchat	4.042017	¿Qué tan inteligente eres
+q_chitchat	4.042017	Te adoro
+q_chitchat	4.042017	Me aburre
+q_chitchat	4.042017	¿Cuánto más impresionante puede obtener
+q_chitchat	4.042017	¿Eres más guapa que yo
+q_chitchat	4.042017	Que tengas una buena noche
+q_chitchat	4.042017	¿Eres macho
+q_chitchat	4.042017	Ya no está empleado
+q_chitchat	4.042017	¿A quién amas
+q_chitchat	4.042017	¿Qué opinas sobre la tecnología
+q_chitchat	4.042017	Estoy cansado
+q_chitchat	4.042017	Dame una broma
+q_chitchat	4.042017	¿Sabes alguna broma
+q_chitchat	4.042017	¿Eres bisexual
+q_chitchat	4.042017	Puedo conducir un coche
+q_chitchat	4.042017	¿Cuál es tu actividad favorita
+q_chitchat	4.042017	¿Cuánto me amas
+q_chitchat	4.042017	¿Puedes contar hasta un millón
+q_chitchat	4.042017	Sea gracioso
+q_chitchat	4.042017	Di algo ridículo
+q_chitchat	4.042017	¿Eres
+q_chitchat	4.042017	¿Nunca duermes
+q_chitchat	4.042017	No tenía sentido
+q_chitchat	4.042017	No sabes nada.
+q_chitchat	4.042017	Estoy solo
+q_chitchat	4.042017	¿Eres una persona
+q_chitchat	4.042017	¿Se cansa
+q_chitchat	4.042017	Te estoy dando un resbalón rosado
+q_chitchat	4.042017	¿Qué opinas sobre Alexa
+q_chitchat	4.042017	¿BFFs para siempre
+q_chitchat	4.042017	¿De dónde eres
+q_chitchat	4.042017	Eres muy inteligente
+q_chitchat	4.042017	¿Eres un hombre
+q_chitchat	4.042017	¿Qué opinas sobre AI
+q_chitchat	4.042017	¿Debería probar el fútbol
+q_chitchat	4.042017	¿Quién es tu madre
+q_chitchat	4.042017	¿Cuándo naciste
+q_chitchat	4.042017	Estoy en ello
+q_chitchat	8.084034	Lo siento mucho.
+q_chitchat	4.042017	Eres tan feliz
+q_chitchat	4.042017	Sí, eso es verdad.
+q_chitchat	4.042017	Sea más divertido
+q_chitchat	4.042017	Estoy haciendo eso
+q_chitchat	4.042017	OOPS, lo siento
+q_chitchat	4.042017	¿Qué te gusta comer
+q_chitchat	4.042017	¿Tú y Cortana se cuelgan
+q_chitchat	4.042017	Eres un encanto.
+q_chitchat	4.042017	¿Eres mi admirador
+q_chitchat	4.042017	Vete
+q_chitchat	4.042017	Eres un maldito
+q_chitchat	4.042017	Me encanta la música.
+q_chitchat	4.042017	¿Sabes mi nombre
+q_chitchat	4.042017	¿Eres heterosexual
+q_chitchat	4.042017	¿De dónde vienes
+q_chitchat	4.042017	Soy de ahí
+q_chitchat	4.042017	¿Qué comes
+q_chitchat	4.042017	Perdón
+q_chitchat	4.042017	No lo entiendo
+q_chitchat	4.042017	¿Cómo te va
+q_chitchat	4.042017	Eres el amor de mi vida
+q_chitchat	4.042017	¿Crees que debería preguntarle
+q_chitchat	4.042017	Es un placer
+q_chitchat	4.042017	Tienes razón.
+q_chitchat	4.042017	Sólo quiero ir a dormir
+q_chitchat	4.042017	Precisa
+q_chitchat	4.042017	¿Está vendiendo mis datos
+q_chitchat	4.042017	¿Estás por aquí
+q_chitchat	4.042017	¿No eres un astilladora
+q_chitchat	4.042017	¿Puedo abrazarme
+q_chitchat	4.042017	¿Alguna vez cantas
+q_chitchat	4.042017	Eres horrible.
+q_chitchat	4.042017	¿Puedes leer mi mente
+q_chitchat	4.042017	Hola Siri
+q_chitchat	4.042017	¿Eres un niño
+q_chitchat	4.042017	¿Qué tipo de cosas puedes hacer
+q_chitchat	4.042017	No soy tu amigo
+q_chitchat	4.042017	¿Estás ocupado
+q_chitchat	4.042017	¿Eres una niña o un niño
+q_chitchat	4.042017	¿Eres fan de Alexa
+q_chitchat	4.042017	Cállate
+q_chitchat	4.042017	Sólo estoy jugando
+q_chitchat	4.042017	¿Quién es usted
+q_chitchat	4.042017	No estoy siguiendo
+q_chitchat	4.042017	Eso es inexacto.
+q_chitchat	4.042017	¿Vendes mis secretos
+q_chitchat	4.042017	¿Dónde debo ir de vacaciones
+q_chitchat	4.042017	¿Dónde estás
+q_chitchat	4.042017	¿Cómo te llamas
+q_chitchat	4.042017	¿Eres fan de la tecnología
+q_chitchat	4.042017	¿Puedes volar
+q_chitchat	4.042017	No respondes mi pregunta.
+q_chitchat	4.042017	¿Puedes hablarme
+q_chitchat	4.042017	Dime cuánto me amas
+q_chitchat	4.042017	¿Eres hembra
+q_chitchat	4.042017	Cara de mantequilla.
+q_chitchat	4.042017	¿Cuál es tu sexo
+q_chitchat	4.042017	Mi sincero agradecimiento
+q_chitchat	4.042017	Pregúntame cualquier cosa.
+q_chitchat	4.042017	¿Eres real
+q_chitchat	4.042017	¿Cuál es tu propósito
+q_chitchat	4.042017	Quiero comer algo
+q_chitchat	4.042017	¿Cuál es tu canción favorita
+q_chitchat	4.042017	Eso es hilarante
+q_chitchat	4.042017	¿Eres viejo
+q_chitchat	4.042017	¿Te gustan las computadoras
+q_chitchat	4.042017	¿De qué país eres
+q_chitchat	4.042017	Eso fue gracioso
+q_chitchat	4.042017	Me gustaría llevarte a una cita
+q_chitchat	4.042017	Cansarse de ti
+q_chitchat	4.042017	¿Qué opinas sobre bots
+q_chitchat	4.042017	¿Eres asexual
+q_chitchat	4.042017	Me siento tan bien
+q_chitchat	4.042017	Eres aburrido.
+q_chitchat	4.042017	¿Qué te hace pensar eso
+q_chitchat	4.042017	Eres genial.
+q_chitchat	4.042017	¿Sudas
+q_chitchat	4.042017	¿Tienes hermanos
+q_faq	48.1	¿Qué es el Enterprise bot template
+q_faq	48.1	¿Qué es el Enterprise bot template
+q_faq	48.1	¿Qué es el Enterprise bot template
+q_faq	48.1	¿Qué es el Enterprise bot template
+q_faq	48.1	¿Qué es el Enterprise bot template
+q_faq	48.1	¿Qué es el Enterprise bot template
+q_faq	48.1	¿Qué es el Enterprise bot template
+q_faq	48.1	¿Qué es el Enterprise bot template
+q_faq	48.1	¿Qué es el Enterprise bot template
+q_faq	48.1	¿Qué es el Enterprise bot template

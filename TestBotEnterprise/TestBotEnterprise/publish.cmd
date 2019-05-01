@@ -1,0 +1,1 @@
+az bot publish --resource-group ctl-testbotenterprisev1 -n ctl-testbotenterprisev1 --subscription 6e5af7e0-825e-486e-8694-897adf678447 -v v4 --proj-name "TestBotEnterprise.csproj" 

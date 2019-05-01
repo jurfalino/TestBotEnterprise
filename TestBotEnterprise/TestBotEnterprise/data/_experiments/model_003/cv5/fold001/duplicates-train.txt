@@ -1,0 +1,3 @@
+Utterance	Intents
+lo siento	l_general, q_chitchat
+cállate	l_general, q_chitchat

@@ -1,0 +1,195 @@
+Label	Weight	Text
+l_general	8.870371	claro y empezar de nuevo
+l_general	8.870371	elija el abajo a la izquierda
+l_general	8.870371	enviarlo
+l_general	8.870371	ni gracias
+l_general	8.870371	¿hay alguna persona con la que pueda hablar
+l_general	8.870371	no no cancelar
+l_general	8.870371	volver a
+l_general	8.870371	optar por cualquiera de ellos
+l_general	8.870371	iniciarlo
+l_general	8.870371	vamos a parar
+l_general	8.870371	muéstrame el siguiente
+l_general	8.870371	quiero que el segundo
+l_general	8.870371	volver al último paso
+l_general	8.870371	ni
+l_general	8.870371	parada de salida
+l_general	8.870371	necesito ayuda humana real
+l_general	8.870371	apague la parada
+l_general	8.870371	ni uno
+l_general	8.870371	seleccionar cuarto uno
+l_general	8.870371	final
+l_general	8.870371	pasar a la siguiente
+l_general	8.870371	no no cancelarlo
+l_general	8.870371	simplemente cancelarlo
+l_general	8.870371	¿hay alguna persona real
+l_general	8.870371	ninguno de estos
+l_general	8.870371	no no importa
+l_general	8.870371	lo que es más
+l_general	8.870371	quiero elegir tercero
+l_general	8.870371	decir otra vez por favor
+l_general	8.870371	no hacer nada
+l_general	8.870371	qué has dicho
+l_general	8.870371	volver al último
+l_general	8.870371	¿qué hay de la próxima
+l_general	8.870371	está hecho
+l_general	8.870371	no importa cancelar
+l_general	8.870371	quiero la primera
+l_general	8.870371	tranquilo
+l_general	8.870371	enviar
+l_general	8.870371	tranquilo ahora
+l_general	8.870371	no cancelarlo
+l_general	8.870371	quiero elegir el cuarto
+l_general	8.870371	cancelarlo
+l_general	8.870371	estoy hecho
+l_general	8.870371	no cancelar
+l_general	8.870371	no importa cancelar que
+l_general	8.870371	optar por el derecho
+l_general	8.870371	cualquier ayuda
+l_general	8.870371	ayuda
+l_general	8.870371	quiero más
+l_general	8.870371	ir a los siguientes tres artículos
+l_general	8.870371	volver a la anterior
+l_general	8.870371	optar por uno aleatorio
+l_general	8.870371	ir a la siguiente
+l_general	8.870371	no se calla ahora
+None	47.9	todos ellos
+None	47.9	todos ellos
+None	47.9	todos ellos
+None	47.9	todos ellos
+None	47.9	todos ellos
+None	47.9	todos ellos
+None	47.9	todos ellos
+None	47.9	todos ellos
+None	47.9	todos ellos
+None	47.9	todos ellos
+q_chitchat	3.958678	¿Orinas
+q_chitchat	3.958678	¿Sudas
+q_chitchat	3.958678	Inútil
+q_chitchat	3.958678	¿Qué pasa
+q_chitchat	3.958678	¿Quién te ha hecho
+q_chitchat	3.958678	¿Serás mi mejor amigo
+q_chitchat	3.958678	No sabes nada.
+q_chitchat	3.958678	¿Me veo bien en azul
+q_chitchat	3.958678	¿Quién es tu papá
+q_chitchat	3.958678	Canta una melodía
+q_chitchat	3.958678	Sólo estoy bromeando
+q_chitchat	3.958678	Estoy muy triste
+q_chitchat	3.958678	Creo que eres tan guapa.
+q_chitchat	3.958678	Sigues diciendo lo mismo todo el tiempo
+q_chitchat	3.958678	Eres el mejor
+q_chitchat	3.958678	Buenas tardes a ti
+q_chitchat	3.958678	Noche
+q_chitchat	3.958678	¿Cuál es mi nombre
+q_chitchat	3.958678	Eres un maldito
+q_chitchat	3.958678	Muchas gracias
+q_chitchat	3.958678	¿Qué tan alto puedes contar
+q_chitchat	3.958678	¿Eres fanático de la música Country
+q_chitchat	3.958678	Me gustaría llevarte a una cita
+q_chitchat	11.87603	Te quiero.
+q_chitchat	3.958678	La vida es buena
+q_chitchat	3.958678	Necesito un abrazo
+q_chitchat	3.958678	Soy tu mayor admirador
+q_chitchat	3.958678	Aquí estoy
+q_chitchat	3.958678	Thnx
+q_chitchat	3.958678	¿Puedes dormir
+q_chitchat	3.958678	¿Cómo te llamas
+q_chitchat	3.958678	¿Por qué eres tan aburrido
+q_chitchat	3.958678	Dime una broma
+q_chitchat	3.958678	¿Eres heterosexual
+q_chitchat	3.958678	¿Vendes mis secretos
+q_chitchat	3.958678	Eres divertido
+q_chitchat	3.958678	¿Crees que debería preguntarle
+q_chitchat	3.958678	¿Tienes nombre
+q_chitchat	3.958678	¿Comes
+q_chitchat	3.958678	Trate de tener algún sentido
+q_chitchat	3.958678	¿Qué hiciste ayer
+q_chitchat	3.958678	¿Cómo se llama tu padre
+q_chitchat	3.958678	Estoy furioso
+q_chitchat	3.958678	¿Conoces a Alexa
+q_chitchat	3.958678	Eres un encanto.
+q_chitchat	3.958678	¿Cuál es tu película favorita
+q_chitchat	3.958678	¿Quién es tu creador
+q_chitchat	3.958678	No soy tu amigo
+q_chitchat	3.958678	¿Quién es tu jefe
+q_chitchat	7.917356	Hola
+q_chitchat	3.958678	Heya
+q_chitchat	3.958678	Eres gracioso:)
+q_chitchat	3.958678	¿Qué quieres decir
+q_chitchat	3.958678	¿Eres asexual
+q_chitchat	3.958678	Te ves fea.
+q_chitchat	3.958678	Necesito un beso
+q_chitchat	3.958678	Más tarde
+q_chitchat	3.958678	Adiós
+q_chitchat	3.958678	¿Qué opinas sobre Siri
+q_chitchat	3.958678	Eso es asombroso.
+q_chitchat	3.958678	Chatea conmigo
+q_chitchat	3.958678	Pareces feliz
+q_chitchat	3.958678	Di una broma
+q_chitchat	3.958678	Te desprecio
+q_chitchat	3.958678	Me siento azul
+q_chitchat	3.958678	¿Puedes cantar una canción
+q_chitchat	3.958678	¿Qué opinas sobre Cortana
+q_chitchat	3.958678	Te estoy dando un resbalón rosado
+q_chitchat	3.958678	¿Quién eres
+q_chitchat	3.958678	Mañana
+q_chitchat	3.958678	Creo que me odias.
+q_chitchat	3.958678	¿Por qué
+q_chitchat	3.958678	¿Soy guapo
+q_chitchat	3.958678	Buenas noches
+q_chitchat	3.958678	Honestamente no podría ser más sin interés
+q_chitchat	3.958678	¿Crees en el amor
+q_chitchat	3.958678	¿Intentas dominar el mundo
+q_chitchat	3.958678	OOPS, lo siento
+q_chitchat	3.958678	Me encanta conseguir San Valentín.
+q_chitchat	3.958678	¿Puedes estornudar
+q_chitchat	3.958678	Puedo conducir un coche
+q_chitchat	3.958678	¿Cuántos años tienes
+q_chitchat	3.958678	¿Qué tan feliz estás
+q_chitchat	3.958678	Partirse de risa
+q_chitchat	3.958678	Eres tan malo en esto.
+q_chitchat	3.958678	¿Qué te hace pensar así
+q_chitchat	3.958678	¿Serás mi esposa
+q_chitchat	3.958678	¿Eres Skynet
+q_chitchat	3.958678	Feliz Navidad
+q_chitchat	3.958678	¿Eres humano
+q_chitchat	3.958678	Eso no es gracioso.
+q_chitchat	3.958678	¿Tiene alguna otra respuesta
+q_chitchat	3.958678	Tengo un nuevo corte de pelo
+q_chitchat	3.958678	¿Prefieres rojo o azul
+q_chitchat	3.958678	Espera un segundo
+q_chitchat	3.958678	¿Conoces el significado de la vida
+q_chitchat	3.958678	¿Conociste a Cortana
+q_chitchat	3.958678	¿Eres realmente feliz
+q_chitchat	3.958678	Estoy cansado
+q_chitchat	3.958678	¿No puedes cambiar tus respuestas
+q_chitchat	3.958678	Pésimo
+q_chitchat	3.958678	¿Te gustan las computadoras
+q_chitchat	3.958678	¿Soy guapa
+q_chitchat	3.958678	Vete al diablo
+q_chitchat	3.958678	Cuéntales una broma
+q_chitchat	3.958678	¿Me estás espiando
+q_chitchat	3.958678	Di algo ridículo
+q_chitchat	3.958678	Eso no fue gracioso.
+q_chitchat	3.958678	¿Humano o robot
+q_chitchat	3.958678	Pregúntame algo.
+q_chitchat	3.958678	¿Eres hombre o mujer
+q_chitchat	3.958678	¿Cuál de nosotros es más hermoso
+q_chitchat	3.958678	¿Tienes familia
+q_chitchat	3.958678	No quise decir que
+q_chitchat	3.958678	Di algo
+q_chitchat	3.958678	Estoy hambriento
+q_chitchat	3.958678	Vete
+q_chitchat	3.958678	¿Cuál es tu actividad favorita
+q_faq	39.91666	¿Cómo solicitar permisos para visualizar facturas
+q_faq	39.91666	¿Cómo obtengo mis facturas históricas
+q_faq	39.91666	Acceso a facturación
+q_faq	39.91666	¿Cómo consulto mis últimas facturas
+q_faq	39.91666	¿Cómo consulto mi detalle de consumos
+q_faq	39.91666	¿Cómo visualizo mi factura
+q_faq	39.91666	¿Cómo solicitar permisos para visualizar facturas
+q_faq	39.91666	¿Cómo obtengo mis facturas históricas
+q_faq	39.91666	Acceso a facturación
+q_faq	39.91666	¿Cómo consulto mis últimas facturas
+q_faq	39.91666	¿Cómo consulto mi detalle de consumos
+q_faq	39.91666	¿Cómo visualizo mi factura

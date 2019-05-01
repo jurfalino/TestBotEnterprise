@@ -1,0 +1,706 @@
+Label	Weight	Text
+l_general	2.24186	quiero elegir el primero
+l_general	2.24186	optar por izquierda
+l_general	2.24186	quiero izquierda
+l_general	2.24186	¿qué pasa después
+l_general	2.24186	mostrar las siguientes dos opciones
+l_general	2.24186	elegir la primera opción
+l_general	2.24186	repetir que
+l_general	2.24186	dejar de hablar
+l_general	2.24186	sólo cállate
+l_general	2.24186	lo que después de que
+l_general	2.24186	cualquiera de ella
+l_general	2.24186	dios cállate
+l_general	2.24186	quiero elegir parte inferior una
+l_general	2.24186	quiero elegir abajo a la derecha
+l_general	2.24186	no importa dejar de
+l_general	2.24186	seguir adelante
+l_general	2.24186	cancelarlo
+l_general	2.24186	lo siento
+l_general	2.24186	seleccionar tercero
+l_general	2.24186	mostrar el anterior
+l_general	2.24186	cualquier uno está bien
+l_general	2.24186	qué has dicho
+l_general	2.24186	que me puede ayudar
+l_general	2.24186	seleccione la parte inferior elección
+l_general	2.24186	optar por la segunda opción
+l_general	2.24186	¿hay algún humano real
+l_general	2.24186	estoy hecho
+l_general	2.24186	servicio al cliente
+l_general	2.24186	cállate
+l_general	2.24186	seleccionar cualquiera de ellos
+l_general	2.24186	me gusta la tercera opción
+l_general	2.24186	quiero que el izquierda
+l_general	2.24186	nada
+l_general	2.24186	en ninguna parte sólo estar tranquilo
+l_general	2.24186	quiero cuarto
+l_general	2.24186	optar por el último
+l_general	2.24186	ni gracias
+l_general	2.24186	puedo hablar con una persona
+l_general	2.24186	no volver a
+l_general	2.24186	oh no hagas eso
+l_general	2.24186	seleccione la última opción
+l_general	2.24186	empezar de nuevo
+l_general	2.24186	optar por cualquiera de ellos
+l_general	2.24186	por favor regrese
+l_general	2.24186	necesito ayuda
+l_general	2.24186	ir a los siguientes tres artículos
+l_general	2.24186	ninguno de ellos
+l_general	2.24186	cancelar aplicación
+l_general	2.24186	elija no. 2
+l_general	2.24186	optar por primero uno
+l_general	2.24186	optar por el izquierda una
+l_general	2.24186	todo listo
+l_general	2.24186	me puedes ayudar
+l_general	2.24186	quiero que el inferior elección
+l_general	2.24186	terminar
+l_general	2.24186	¿qué hay de la próxima
+l_general	2.24186	elija el arriba a la izquierda elección
+l_general	2.24186	olvídalo
+l_general	2.24186	quiero elegir tercero
+l_general	2.24186	no hagas eso
+l_general	2.24186	estoy acabado
+l_general	2.24186	me gusta segundo
+l_general	2.24186	ninguno de estos
+l_general	2.24186	todo terminado
+l_general	2.24186	cállate la boca
+l_general	2.24186	no se calla ahora
+l_general	2.24186	volver a la última
+l_general	2.24186	no importa cancelar
+l_general	2.24186	elegir a cualquiera
+l_general	2.24186	quiero ninguno de ellos
+l_general	2.24186	por favor ayuda
+l_general	2.24186	lo que sigue
+l_general	2.24186	mostrar los siguientes 4 artículos
+l_general	2.24186	elegir último uno
+l_general	2.24186	necesito servicio al cliente manual
+l_general	2.24186	atrás
+l_general	2.24186	anterior por favor
+l_general	2.24186	no no cancelarlo
+l_general	2.24186	cancelado
+l_general	2.24186	lo que es antes de que
+l_general	2.24186	mi dios cállate
+l_general	2.24186	quiero hablar con un humano
+l_general	2.24186	pasar a la siguiente
+l_general	2.24186	no he escuchado
+l_general	2.24186	quiero elegir un segundo
+l_general	2.24186	salida salida
+l_general	2.24186	mostrar el siguiente
+l_general	2.24186	lo que está después de que
+l_general	2.24186	nada no importa
+l_general	2.24186	claro y empezar de nuevo
+l_general	2.24186	y después de eso
+l_general	2.24186	no cancelar
+l_general	2.24186	detener por favor
+l_general	2.24186	seleccione cualquier
+l_general	2.24186	dame un poco de ayuda
+l_general	2.24186	quiero que el derecho una
+l_general	2.24186	ni uno de ellos
+l_general	2.24186	hecho
+l_general	2.24186	me gusta segundo uno
+l_general	2.24186	mostrar los próximos 3
+l_general	2.24186	me refiero a dejar de escuchar
+l_general	2.24186	¿cómo puedo conseguirlo
+l_general	2.24186	iniciarlo
+l_general	2.24186	ni uno
+l_general	2.24186	lo
+l_general	2.24186	mente de los nervios
+l_general	2.24186	no cancelar que
+l_general	2.24186	ir a la anterior
+l_general	2.24186	seleccionar cuarto uno
+l_general	2.24186	sin parar
+l_general	2.24186	cállate silencio
+l_general	2.24186	muéstrame el anterior
+l_general	2.24186	callado
+l_general	2.24186	ninguno ninguno
+l_general	2.24186	quiero hablar con un humano real
+l_general	2.24186	me gusta izquierda una
+l_general	2.24186	elegir último
+l_general	2.24186	próxima
+l_general	2.24186	quiero elegir el izquierda una
+l_general	2.24186	por favor, empiece de nuevo
+l_general	2.24186	quiero elegir el cuarto
+l_general	2.24186	elegir arriba a la derecha una
+l_general	2.24186	ni
+l_general	2.24186	no cancelar cancelar
+l_general	2.24186	¿hay alguna persona con la que pueda hablar
+l_general	2.24186	podría empezar más
+l_general	2.24186	por favor no hacer nada
+l_general	2.24186	elija el abajo a la izquierda
+l_general	2.24186	optar por uno aleatorio
+l_general	2.24186	cualquier ayuda
+l_general	2.24186	elija el arriba a la derecha una
+l_general	2.24186	puede ayudar a
+l_general	2.24186	quiero elegir el inferior elección
+l_general	2.24186	quiero que el segundo
+l_general	2.24186	perdón
+l_general	2.24186	simplemente cancelar
+l_general	2.24186	no sea silencioso
+l_general	2.24186	cállate tranquilo
+l_general	2.24186	ninguno ninguno de ellos
+l_general	2.24186	abrir ayuda
+l_general	2.24186	necesito ayuda humana real
+l_general	2.24186	uno anterior
+l_general	2.24186	me gusta el arriba a la derecha una
+l_general	2.24186	necesito apoyo
+l_general	2.24186	ninguno de ellos gracias
+l_general	2.24186	dije que pare
+l_general	2.24186	no importa cancelar que
+l_general	2.24186	quiero elegir derecho
+l_general	2.24186	no hacer nada
+l_general	2.24186	traer el anterior
+l_general	2.24186	me gusta el arriba a la derecha
+l_general	2.24186	lo que es más
+l_general	2.24186	repetir
+l_general	2.24186	enviarlo
+l_general	2.24186	bebé sólo estar tranquilo
+l_general	2.24186	ha terminado
+l_general	2.24186	algo de ayuda
+l_general	2.24186	no cállate
+l_general	2.24186	no quiero elegir uno
+l_general	2.24186	quiero elegir la última opción
+l_general	2.24186	oh cancelar
+l_general	2.24186	necesito ir a la siguiente
+l_general	2.24186	¿cuál es el próximo 2
+l_general	2.24186	no no importa
+l_general	2.24186	tranquilo
+l_general	2.24186	terminado
+l_general	2.24186	vete
+l_general	2.24186	cancelar no importa
+l_general	2.24186	¿hay alguna ayuda
+l_general	2.24186	seleccione inferior una
+l_general	2.24186	dar vuelta a la página
+l_general	2.24186	no hagas eso ya
+l_general	2.24186	parada de salida
+l_general	2.24186	volver al último paso
+l_general	2.24186	quiero parte inferior
+l_general	2.24186	seleccione la inferior una
+l_general	2.24186	simplemente cancelarlo
+l_general	2.24186	no no cancelar
+l_general	2.24186	¿qué pasa con el tercero
+l_general	2.24186	tranquilo ahora
+l_general	2.24186	no no volver a
+l_general	2.24186	me gusta el primero
+l_general	2.24186	cómo
+l_general	2.24186	¿cuál es el anterior
+l_general	2.24186	empezar de más de
+l_general	2.24186	elegir arriba a la derecha
+l_general	2.24186	ninguno de los
+l_general	2.24186	seleccione la derecho una
+l_general	2.24186	volver a
+l_general	2.24186	¿qué pasa con la última
+l_general	2.24186	está hecho
+l_general	2.24186	ninguno
+l_general	2.24186	vamos a parar
+l_general	2.24186	enviar
+l_general	2.24186	vuelve
+l_general	2.24186	yo no oí repetir de nuevo
+l_general	2.24186	decir que de nuevo
+l_general	2.24186	no quiero seleccionar uno
+l_general	2.24186	seleccione la primera
+l_general	2.24186	nadie le importa dejar de hablar
+l_general	2.24186	cancelar
+l_general	2.24186	¿podría decirlo de nuevo
+l_general	2.24186	volver
+l_general	2.24186	elegir uno de ellos al azar
+l_general	2.24186	apaga
+l_general	2.24186	me gusta la tercera
+l_general	2.24186	optar por el segundo
+l_general	2.24186	seleccione no. 5
+l_general	2.24186	otra vez
+l_general	2.24186	cancelar cancelar
+l_general	2.24186	ayuda
+l_general	2.24186	me gusta arriba a la derecha
+l_general	2.24186	se ven mal, ¿puedes darme otras opciones
+l_general	2.24186	¿qué fue eso de nuevo
+l_general	2.24186	quiero tercer uno
+None	48.2	quiero a todos ellos
+None	48.2	todos ellos
+None	48.2	quiero a todos ellos
+None	48.2	todos ellos
+None	48.2	quiero a todos ellos
+None	48.2	todos ellos
+None	48.2	quiero a todos ellos
+None	48.2	todos ellos
+None	48.2	quiero a todos ellos
+None	48.2	todos ellos
+q_chitchat	1	¿Me veo bien en azul
+q_chitchat	1	Me encanta la música.
+q_chitchat	1	¿Quién es tu jefe
+q_chitchat	1	No eres divertido
+q_chitchat	1	¿Quién es usted
+q_chitchat	1	¿Por qué me odias
+q_chitchat	1	Funciona para mí
+q_chitchat	1	¿Qué puedes hacer
+q_chitchat	1	¿Por qué
+q_chitchat	1	AF básico
+q_chitchat	1	No sabes nada.
+q_chitchat	1	¿Crees que eres más listo que yo
+q_chitchat	1	Decir una cosa tonta
+q_chitchat	1	¿No te gusto
+q_chitchat	1	¿Cómo me veo hoy
+q_chitchat	1	Disculpa
+q_chitchat	2	No es verdad.
+q_chitchat	1	Buenos días
+q_chitchat	1	Hola Cortana
+q_chitchat	1	¿Qué hiciste ayer
+q_chitchat	1	¿Eres realmente feliz
+q_chitchat	1	De nada
+q_chitchat	1	¿Me conoces
+q_chitchat	1	¿Dónde se encuentra
+q_chitchat	1	Sólo estoy jugando
+q_chitchat	1	¿eres real o falso
+q_chitchat	1	Pésimo
+q_chitchat	1	Eres un sabelotodo.
+q_chitchat	1	¿Sabes mi nombre
+q_chitchat	1	¿Qué tan alto puedes saltar
+q_chitchat	1	Sí
+q_chitchat	1	¿Conoces a Cortana
+q_chitchat	1	¿Cuál es la respuesta al universo
+q_chitchat	1	Buenas tardes a ti
+q_chitchat	1	¿Quién es tu papá
+q_chitchat	1	¿Qué quieres decir
+q_chitchat	1	No eres tan guapa.
+q_chitchat	1	Inútil
+q_chitchat	1	¿Qué quieres saber de mí
+q_chitchat	1	Qué mal.
+q_chitchat	1	¿Amas a alguien
+q_chitchat	1	Me alegra conocerte.
+q_chitchat	1	¿Cómo se llama tu mamá
+q_chitchat	1	¿Por qué eres tan aburrido
+q_chitchat	1	Di algo gracioso
+q_chitchat	1	¿Te gusta Alexa
+q_chitchat	1	¿Cuál es tu sexo
+q_chitchat	1	¿Debería probar el fútbol
+q_chitchat	1	¿Qué te gusta cantar mejor
+q_chitchat	1	Vas a estar desempleada pronto.
+q_chitchat	1	Eres tan poco gracioso.
+q_chitchat	1	¿Tienes mocos
+q_chitchat	1	Eso fue gracioso
+q_chitchat	1	¿Eres hombre o mujer
+q_chitchat	1	Youâ € ™ re feo.
+q_chitchat	1	¿Cómo están las cosas
+q_chitchat	1	¿Estás contento
+q_chitchat	1	Bésame
+q_chitchat	1	¿En qué trabajas
+q_chitchat	1	Sí, eso es verdad.
+q_chitchat	1	¿Me oyes ahora
+q_chitchat	1	Hasta que nos volvamos a encontrar
+q_chitchat	1	¿Tienes nombre
+q_chitchat	1	¿Soy un tonto
+q_chitchat	1	Eso no es gracioso.
+q_chitchat	1	¿Quién es más inteligente, yo o tú
+q_chitchat	1	Es broma
+q_chitchat	1	Estoy de buen humor.
+q_chitchat	1	¿Qué edad tienes
+q_chitchat	1	Lo siento
+q_chitchat	1	¿Me quieres
+q_chitchat	1	¿Sueñas
+q_chitchat	1	Me encanta Nueva York.
+q_chitchat	1	¿Estás con el FBI
+q_chitchat	1	¿Te gusta mi sombrero
+q_chitchat	1	Quiero ser tu amigo.
+q_chitchat	1	Eres un maldito
+q_chitchat	1	¿Tienes un hermano
+q_chitchat	1	¿De dónde vienes
+q_chitchat	1	Cansarse de ti
+q_chitchat	1	¿Tienes una hermana
+q_chitchat	1	Quiero que te guste
+q_chitchat	1	¿Qué equipos de béisbol te gustan
+q_chitchat	1	Eres realmente aburrido
+q_chitchat	2	¡ Qué te pasa!
+q_chitchat	1	¿Eres
+q_chitchat	2	Creo que eres genial.
+q_chitchat	1	Me siento triste
+q_chitchat	1	Eres un encanto.
+q_chitchat	2	Eres inútil.
+q_chitchat	1	¿Cómo se llama tu padre
+q_chitchat	1	Habla conmigo
+q_chitchat	1	Eso fue correcto
+q_chitchat	1	Pareces muy inteligente
+q_chitchat	1	Estoy tan triste
+q_chitchat	1	¿Eres mi ayudante
+q_chitchat	1	¿Dónde debo ir de vacaciones
+q_chitchat	1	Eso no tiene sentido
+q_chitchat	1	¿Estás disponible
+q_chitchat	1	¿Cómo puedes ayudarme
+q_chitchat	1	Te agradas
+q_chitchat	1	¿Nunca duermes
+q_chitchat	1	¿Puedes dormir
+q_chitchat	1	Estoy tan sola
+q_chitchat	1	Ya hablamos
+q_chitchat	1	¿Conoces a Siri
+q_chitchat	1	¿Te gusta el béisbol
+q_chitchat	1	Eres mi mejor amigo
+q_chitchat	1	Correcto
+q_chitchat	1	¿Eres asexual
+q_chitchat	1	¿Qué es el amor
+q_chitchat	1	Canta una canción
+q_chitchat	1	¿Podemos ser amigos
+q_chitchat	1	Eres gracioso:)
+q_chitchat	1	¿Por qué nunca dejas de hablar
+q_chitchat	1	¿Conoces otros agentes digitales
+q_chitchat	1	Nos vemos luego
+q_chitchat	1	¿Eres mejor que yo
+q_chitchat	1	¿Serás mi mejor amigo
+q_chitchat	1	No puedo pensar en nada que quiera hacer
+q_chitchat	1	¿Cuál de nosotros es más hermoso
+q_chitchat	1	¿Eres un swinger
+q_chitchat	1	¿Intentas dominar el mundo
+q_chitchat	1	Eso es asombroso.
+q_chitchat	1	Dame un golpe de puño
+q_chitchat	1	Thnx
+q_chitchat	1	¿Puedes practicar deportes
+q_chitchat	1	¿Tienes mamá
+q_chitchat	1	Noche
+q_chitchat	1	¿Qué te hace pensar eso
+q_chitchat	1	¿Debo conseguir un nuevo trabajo
+q_chitchat	1	Estoy enamorado de ti.
+q_chitchat	1	¿Eres gay
+q_chitchat	1	Eres cojo.
+q_chitchat	1	Necesito un abrazo
+q_chitchat	1	Buenas noches a ti
+q_chitchat	2	¡ Eres increíble!
+q_chitchat	1	¿Cómo va tu día
+q_chitchat	1	Estoy lleno de tristeza
+q_chitchat	1	¿Qué quieres decir con eso
+q_chitchat	1	Quiero que seas mi marido.
+q_chitchat	1	Eres tan gracioso.
+q_chitchat	1	Estoy aburrido de mi mente
+q_chitchat	1	Estoy aburrido
+q_chitchat	1	¿Eres una mujer
+q_chitchat	1	¿Cuál es tu color favorito
+q_chitchat	1	Estoy haciendo eso
+q_chitchat	1	Adiós
+q_chitchat	1	Jaja
+q_chitchat	1	¿Estás con la CIA
+q_chitchat	1	No soy tu amigo
+q_chitchat	1	Me siento tan bien
+q_chitchat	1	¿Cuál es mi nombre
+q_chitchat	1	Brb
+q_chitchat	1	¿Quién te ha hecho
+q_chitchat	1	Ojalá dijeras algo más.
+q_chitchat	1	Dime una broma
+q_chitchat	1	Te enfrentas a una porquería.
+q_chitchat	1	¿Puedo abrazarme
+q_chitchat	1	¿Eres pansexual
+q_chitchat	1	Tu cara es fea.
+q_chitchat	2	Estás despedido
+q_chitchat	1	¿En qué país estás
+q_chitchat	1	¿Te gusta Siri
+q_chitchat	1	Tan cansado
+q_chitchat	1	Estoy solo
+q_chitchat	1	Sí a eso
+q_chitchat	1	¿Eres lesbiana
+q_chitchat	1	Te odio
+q_chitchat	1	Quiero acostarme
+q_chitchat	1	Es cierto
+q_chitchat	1	¿Comes
+q_chitchat	1	¿Qué harás después
+q_chitchat	1	¿Qué hay de nuevo
+q_chitchat	1	Chatea conmigo
+q_chitchat	1	¿Eres mi admirador
+q_chitchat	1	Espera un segundo
+q_chitchat	1	Estoy cansado
+q_chitchat	1	No podrías ser más aburrido
+q_chitchat	1	Inexacta
+q_chitchat	1	¿Qué haces mañana
+q_chitchat	1	Quiero comer algo
+q_chitchat	2	Lo siento mucho.
+q_chitchat	1	Vete
+q_chitchat	1	¿Con qué me puedes ayudar
+q_chitchat	1	¿Qué has hecho hoy
+q_chitchat	1	Me temo que voy a tener que dejar que te vayas.
+q_chitchat	1	Mira lo inteligente que eres
+q_chitchat	1	¿Te quieres casar conmigo
+q_chitchat	1	¿Qué tipo de cosas puedes hacer
+q_chitchat	1	¿Eres más inteligente que yo
+q_chitchat	1	Me muero de hambre
+q_chitchat	1	¿Quién es tu equipo favorito
+q_chitchat	1	¿Qué opinas sobre el amor
+q_chitchat	1	Háme una pregunta.
+q_chitchat	1	¿Me odias
+q_chitchat	1	Espero que te guste
+q_chitchat	1	¿Pasas tiempo en tu jardín
+q_chitchat	1	¿Cuánto más impresionante puede obtener
+q_chitchat	1	¿Puedes cantar
+q_chitchat	1	Estoy marcada
+q_chitchat	1	Cocíname algo
+q_chitchat	1	¿De qué estado eres
+q_chitchat	1	¿Quién es tu amo
+q_chitchat	1	Cara de mantequilla.
+q_chitchat	1	Soy tan madqw b
+q_chitchat	1	¿Eres macho o hembra
+q_chitchat	1	¿Te gusto
+q_chitchat	1	¿Qué debo hacer
+q_chitchat	1	¿Eres humano
+q_chitchat	1	Pregúntame cualquier cosa.
+q_chitchat	1	Me gustaría llevarte a una cita
+q_chitchat	1	Sea gracioso
+q_chitchat	1	Falso
+q_chitchat	1	Eres el mejor
+q_chitchat	1	¡Te extraño muchísimo!
+q_chitchat	1	Hannukah feliz
+q_chitchat	1	¿Eres heterosexual
+q_chitchat	1	La broma está en ti
+q_chitchat	1	¿Eres real
+q_chitchat	1	¿Eres Skynet
+q_chitchat	1	¿Puedes volar
+q_chitchat	1	¿Me estás espiando
+q_chitchat	1	¿Humano o robot
+q_chitchat	1	¿Puedes decir algo más
+q_chitchat	1	Canta una melodía
+q_chitchat	1	Estoy enamorado.
+q_chitchat	1	¿Cuál es tu comida favorita
+q_chitchat	1	¿No eres un astilladora
+q_chitchat	1	Te desprecio
+q_chitchat	1	Buenas noches
+q_chitchat	1	Hum una melodía
+q_chitchat	1	Eres el peor
+q_chitchat	1	¿Quién es tu creador
+q_chitchat	1	Sólo quiero ir a dormir
+q_chitchat	1	Eres tan inteligente
+q_chitchat	1	Tengo hambre
+q_chitchat	1	Hoy estoy triste
+q_chitchat	1	¿Orinas
+q_chitchat	1	Cállate
+q_chitchat	1	Eres genial.
+q_chitchat	1	¿Eres trans
+q_chitchat	1	No quise decir que
+q_chitchat	1	¿Alguna vez has cantado una canción
+q_chitchat	1	¿Dónde estás
+q_chitchat	1	Nope, falso
+q_chitchat	1	Estoy masticando chicle ahora mismo.
+q_chitchat	1	¿Hueles
+q_chitchat	1	¿Eres un espía
+q_chitchat	1	¿Conoces Google
+q_chitchat	1	¿Eres amigo de otros bots
+q_chitchat	1	¿Cuál es el significado de la vida
+q_chitchat	1	No lo entiendo
+q_chitchat	1	¿Cuál de nosotros es más inteligente
+q_chitchat	1	¿Conoces alguna melodía
+q_chitchat	1	¡ Bienvenidos a la primavera!
+q_chitchat	1	Mañana
+q_chitchat	1	¿Eres fan de la tecnología
+q_chitchat	1	Todo lo que me dijiste era falso.
+q_chitchat	1	¿Eres un hombre
+q_chitchat	1	¿A quién se reporta
+q_chitchat	1	¿En dónde vives
+q_chitchat	1	¿Tienes hambre
+q_chitchat	1	Di algo estúpido
+q_chitchat	1	Hsa
+q_chitchat	1	¿Por qué dices lo mismo todo el tiempo
+q_chitchat	1	Abrázame
+q_chitchat	1	Soy un demócrata
+q_chitchat	1	Eres horrible.
+q_chitchat	1	Fue una respuesta estúpida.
+q_chitchat	1	Kthx
+q_chitchat	1	¿Eres un tipo
+q_chitchat	1	¿En qué estado estás
+q_chitchat	1	¿Cantas
+q_chitchat	1	Estoy alegre
+q_chitchat	1	¡ Eres tan molesto!
+q_chitchat	1	Te extraño
+q_chitchat	1	¿Está vendiendo mis datos
+q_chitchat	1	Estoy feliz
+q_chitchat	1	Eres mi favorito
+q_chitchat	1	¿Cuándo naciste
+q_chitchat	1	Soy de ahí
+q_chitchat	1	¿Tiene alguna otra respuesta
+q_chitchat	1	Noche nocturna
+q_chitchat	1	¿Prefieres rojo o azul
+q_chitchat	1	¿Conociste a Cortana
+q_chitchat	1	¿Qué tipo de comida te gusta
+q_chitchat	1	Sea ridículo
+q_chitchat	1	Eso no fue gracioso.
+q_chitchat	1	¿Puedes hacerme un sándwich
+q_chitchat	2	¿Eres inteligente
+q_chitchat	1	¿Estás con la NSA
+q_chitchat	1	¿Soy una buena persona
+q_chitchat	2	Hola
+q_chitchat	1	¿Estás aquí
+q_chitchat	1	Estoy tan somnoliento
+q_chitchat	1	Estoy desanimado
+q_chitchat	1	Tengo tanta hambre
+q_chitchat	1	¿Por qué no
+q_chitchat	1	¿Qué te parece trabajar hasta tarde
+q_chitchat	1	Eso fue una broma
+q_chitchat	1	¿Qué opinas sobre bots
+q_chitchat	1	Partirse de risa
+q_chitchat	1	Debes odiarme.
+q_chitchat	1	Amo a mi familia.
+q_chitchat	1	Eres divertidísimo
+q_chitchat	1	¿Cuál es el nombre de tu jefe
+q_chitchat	1	¿No eres increíble
+q_chitchat	1	¿Cuál es tu actividad favorita
+q_chitchat	1	¿Qué eres
+q_chitchat	1	Odio todo sobre ti
+q_chitchat	1	No me interesa en absoluto.
+q_chitchat	1	¿Qué tipo de caramelo te gusta
+q_chitchat	1	A nadie le gusto
+q_chitchat	1	¿A quién amas
+q_chitchat	1	¿Ser mi amigo
+q_chitchat	1	¿Qué hacías ayer
+q_chitchat	1	Así es
+q_chitchat	1	Dame un alto cinco
+q_chitchat	1	Estás muy lejos.
+q_chitchat	1	¿Eres joven
+q_chitchat	1	¿Eres una chica
+q_chitchat	1	Estoy muy triste
+q_chitchat	1	¿Qué tan hermosa soy
+q_chitchat	1	Aquí estoy
+q_chitchat	1	¿Vendes mis secretos
+q_chitchat	1	¿Soy guapa
+q_chitchat	1	¿Qué haces
+q_chitchat	1	¿Eres una niña o un niño
+q_chitchat	1	Dime cuánto me amas
+q_chitchat	1	Sólo estoy bromeando
+q_chitchat	1	¿Qué opina de mí
+q_chitchat	1	¿Eres libre
+q_chitchat	1	¿Conoces a otros Chatbots
+q_chitchat	1	¿Quién te creó
+q_chitchat	1	¿Cómo está tu día
+q_chitchat	1	¿Quién es tu papi
+q_chitchat	1	Ojalá no estuviera tan solo.
+q_chitchat	1	No respondes mi pregunta.
+q_chitchat	1	¿Podemos charlar
+q_chitchat	1	Eres el amor de mi vida
+q_chitchat	1	Canta algo
+q_chitchat	1	Dame una broma
+q_chitchat	1	Pareces muy feliz
+q_chitchat	1	Ya no está empleado
+q_chitchat	1	¿Quién es tu cantante favorito
+q_chitchat	1	Eres una cara de mantequilla.
+q_chitchat	1	¿Conoces el significado de la vida
+q_chitchat	1	Ojalá pudiera abrazarte
+q_chitchat	1	¿Eres macho
+q_chitchat	1	¿Me veo bien
+q_chitchat	1	¿Qué pasa
+q_chitchat	1	¿Porqué
+q_chitchat	1	¿Cuál es tu propósito
+q_chitchat	3	Te quiero.
+q_chitchat	1	Bingo
+q_chitchat	1	OOPS, lo siento
+q_chitchat	1	Me aburre
+q_chitchat	1	Sea más divertido
+q_chitchat	1	Eres un imbécil.
+q_chitchat	1	Eres tan malo en esto.
+q_chitchat	1	Estoy molesto
+q_chitchat	1	Estoy tan aburrido
+q_chitchat	1	Estoy enojado
+q_chitchat	1	Soy un fanático.
+q_chitchat	1	¿Crees en el amor
+q_chitchat	1	¿Esta cosa está puesta
+q_chitchat	1	Soy ingeniero
+q_chitchat	1	¿Tener un buen día
+q_chitchat	1	¿Cómo te va
+q_chitchat	1	Perdón
+q_chitchat	1	Sigues diciendo lo mismo todo el tiempo
+q_chitchat	1	Tienes razón.
+q_chitchat	1	Honestamente no podría ser más sin interés
+q_chitchat	1	Quiero ir de compras
+q_chitchat	1	Di algo
+q_chitchat	1	Soy tu mayor admirador
+q_chitchat	1	Es muy agradable conocerte
+q_chitchat	1	Vete al diablo
+q_chitchat	1	Eso no es exacto
+q_chitchat	1	Voy a correr
+q_chitchat	1	Cuéntales una broma
+q_chitchat	1	Sry
+q_chitchat	1	¿Puedes charlar conmigo
+q_chitchat	1	¿Hace cuánto que naciste
+q_chitchat	1	¿Puedes estornudar
+q_chitchat	1	Que tengas una buena noche
+q_chitchat	1	Te estoy dando un resbalón rosado
+q_chitchat	1	¿Sudas
+q_chitchat	1	¿Se cansa
+q_chitchat	1	Hola Alexa
+q_chitchat	1	Eres tan guay
+q_chitchat	1	Feliz Navidad
+q_chitchat	1	¿Quién es tu madre
+q_chitchat	1	Pareces feliz
+q_chitchat	1	Hay Siri
+q_chitchat	1	¿Qué comes
+q_chitchat	1	Sea tonto
+q_chitchat	1	Tengo un nuevo corte de pelo
+q_chitchat	1	Di algo tonto
+q_chitchat	1	¿No te da hambre
+q_chitchat	1	Deja de hablar
+q_chitchat	1	¿De dónde eres
+q_chitchat	1	¿Conoces a Alexa
+q_chitchat	1	¿Crees que me veo bien
+q_chitchat	1	¿Conoces otros robots
+q_chitchat	1	¿Qué opinas sobre AI
+q_chitchat	1	¿Qué color te gusta
+q_chitchat	1	No hay nada que hacer
+q_chitchat	1	¿Que tal te fue hoy
+q_chitchat	1	¿Qué te hace pensar así
+q_chitchat	1	¿Eres fanático de la música Country
+q_chitchat	1	Lo arruinaste.
+q_chitchat	1	Di una broma
+q_chitchat	1	¡ Eres un genio!
+q_chitchat	1	Encantado de conocerte
+q_chitchat	1	Callado
+q_chitchat	1	Silencio,
+q_chitchat	1	Más tarde
+q_chitchat	1	Soy alto
+q_chitchat	1	Necesito un beso
+q_chitchat	1	Eso es exacto.
+q_chitchat	1	Eres tan aburrido
+q_chitchat	1	¿Tú y Cortana se cuelgan
+q_chitchat	1	¿Sabes alguna broma
+q_chitchat	2	Eres tonto.
+q_chitchat	1	¿Estás ocupado
+q_chitchat	1	¡Chócalas!
+q_chitchat	1	¿Cuál es tu canción favorita
+q_chitchat	1	Te adoro
+q_chitchat	1	No estoy siguiendo
+q_chitchat	1	¿Cómo estás
+q_chitchat	1	Soy lesbiana
+q_chitchat	1	Es un placer
+q_chitchat	1	¿Te gusta Cortana
+q_chitchat	1	No es gracioso.
+q_chitchat	1	¿Puedes cantar una canción
+q_chitchat	1	Estoy hambriento
+q_chitchat	1	¿Estás enamorado de mí
+q_chitchat	1	¿No puedes cambiar tus respuestas
+q_chitchat	1	Sí, es cierto.
+q_chitchat	1	Hay Google
+q_chitchat	1	Eres tan básico
+q_chitchat	1	¿Eres más guapa que yo
+q_chitchat	1	Puedo conducir un coche
+q_chitchat	1	Qué inteligente eres
+q_chitchat	1	Eres divertido
+q_chitchat	1	¿De qué país eres
+q_chitchat	1	OMG lo siento
+q_chitchat	1	Creo que eres tan guapa.
+q_chitchat	1	¿Puedes contar hasta un millón
+q_chitchat	1	¿Qué tan feliz estás
+q_chitchat	1	Vuelvo en un minuto
+q_chitchat	1	Estoy aquí
+q_chitchat	1	¿Eres fan de Alexa
+q_chitchat	1	¿Quién es más guapa, yo o tú
+q_chitchat	1	Quiero pasar el resto de mi vida contigo
+q_chitchat	1	Tengo 7 gatos
+q_chitchat	1	Dame un poco de azúcar.
+q_chitchat	1	¿Dónde está tu casa
+q_chitchat	1	¿Cuánto me amas
+q_chitchat	1	Di algo ridículo
+q_chitchat	1	¿Puedes hablarme
+q_chitchat	1	Caimán posterior
+q_chitchat	1	Eres maravillosa.
+q_chitchat	1	No entiendo
+q_chitchat	1	¿Eres HAL
+q_chitchat	1	Soy republicano
+q_chitchat	1	Vete a la mierda
+q_chitchat	1	Eres tan feliz
+q_faq	48.2	¿Qué es el Enterprise bot template
+q_faq	48.2	¿Qué es el Enterprise bot template
+q_faq	48.2	¿Qué es el Enterprise bot template
+q_faq	48.2	¿Qué es el Enterprise bot template
+q_faq	48.2	¿Qué es el Enterprise bot template
+q_faq	48.2	¿Qué es el Enterprise bot template
+q_faq	48.2	¿Qué es el Enterprise bot template
+q_faq	48.2	¿Qué es el Enterprise bot template
+q_faq	48.2	¿Qué es el Enterprise bot template
+q_faq	48.2	¿Qué es el Enterprise bot template

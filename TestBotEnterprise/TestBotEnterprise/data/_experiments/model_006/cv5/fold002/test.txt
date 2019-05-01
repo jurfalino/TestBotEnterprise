@@ -1,0 +1,195 @@
+Label	Weight	Text
+l_general	8.851852	me gusta el arriba a la derecha una
+l_general	8.851852	me gusta izquierda una
+l_general	8.851852	elegir uno de ellos al azar
+l_general	8.851852	no sea silencioso
+l_general	8.851852	no cancelar que
+l_general	8.851852	necesito ir a la siguiente
+l_general	8.851852	elegir arriba a la derecha una
+l_general	8.851852	seleccione cualquier
+l_general	8.851852	alguien está bien
+l_general	8.851852	optar por el izquierda una
+l_general	8.851852	traer el anterior
+l_general	8.851852	seleccione la primera
+l_general	8.851852	quiero la cuarta opción
+l_general	8.851852	cómo hacerlo
+l_general	8.851852	repetir por favor
+l_general	8.851852	quiero hablar con un humano
+l_general	8.851852	dame un poco de ayuda
+l_general	8.851852	cancelado
+l_general	8.851852	nada por favor
+l_general	8.851852	no cancelar cancelar
+l_general	8.851852	en ninguna parte sólo estar tranquilo
+l_general	8.851852	optar por primero uno
+l_general	8.851852	no quiero seleccionar uno
+l_general	8.851852	seleccione la derecho una
+l_general	8.851852	cállate silencio
+l_general	8.851852	cállate
+l_general	8.851852	todo terminado
+l_general	8.851852	abrir ayuda
+l_general	8.851852	despedir
+l_general	8.851852	quiero elegir parte inferior una
+l_general	8.851852	seleccionar una opción aleatoria
+l_general	8.851852	elija el arriba a la derecha una
+l_general	8.851852	optar por izquierda
+l_general	8.851852	cualquier uno está bien
+l_general	8.851852	hey detener
+l_general	8.851852	lo que sigue
+l_general	8.851852	¿qué pasa con la última
+l_general	8.851852	quiero que el inferior elección
+l_general	8.851852	te quiero para dejar de hablar
+l_general	8.851852	lo que es antes de que
+l_general	8.851852	último paso
+l_general	8.851852	podría empezar más
+l_general	8.851852	terminado
+l_general	8.851852	dejar
+l_general	8.851852	oh cancelar
+l_general	8.851852	cállate la boca
+l_general	8.851852	servicio humano
+l_general	8.851852	simplemente cancelar
+l_general	8.851852	me gusta segundo uno
+l_general	8.851852	ni uno de ellos
+l_general	8.851852	repetir que
+l_general	8.851852	servicio al cliente
+l_general	8.851852	dios cállate
+l_general	8.851852	seguir adelante
+None	47.8	quiero todos ellos
+None	47.8	quiero todos ellos
+None	47.8	quiero todos ellos
+None	47.8	quiero todos ellos
+None	47.8	quiero todos ellos
+None	47.8	quiero todos ellos
+None	47.8	quiero todos ellos
+None	47.8	quiero todos ellos
+None	47.8	quiero todos ellos
+None	47.8	quiero todos ellos
+q_chitchat	3.918033	¿Estás con el FBI
+q_chitchat	3.918033	¿Tienes hermanos
+q_chitchat	3.918033	¿Dónde estás
+q_chitchat	3.918033	Lo arruinaste.
+q_chitchat	3.918033	¿Cuál es el significado de la vida
+q_chitchat	3.918033	¿Que tal te fue hoy
+q_chitchat	3.918033	¿Qué tipo de comida te gusta
+q_chitchat	3.918033	¿Por qué me odias
+q_chitchat	3.918033	Pareces muy feliz
+q_chitchat	3.918033	Eres el peor
+q_chitchat	3.918033	¿Me quieres
+q_chitchat	3.918033	¿Eres una mujer
+q_chitchat	3.918033	Tengo tanta hambre
+q_chitchat	3.918033	Cállate
+q_chitchat	3.918033	¿Conoces otros agentes digitales
+q_chitchat	3.918033	¿Qué color te gusta
+q_chitchat	3.918033	¿De qué país eres
+q_chitchat	3.918033	Quiero ser tu amigo.
+q_chitchat	3.918033	Eres una cara de mantequilla.
+q_chitchat	3.918033	¿Qué gente te hizo
+q_chitchat	3.918033	Estoy aburrido
+q_chitchat	3.918033	¿Te gusto
+q_chitchat	3.918033	¿Eres macho o hembra
+q_chitchat	3.918033	Hola Siri
+q_chitchat	3.918033	No hay nada que hacer
+q_chitchat	3.918033	Te enfrentas a una porquería.
+q_chitchat	3.918033	¿Quién es tu padre
+q_chitchat	3.918033	¿Hace cuánto que naciste
+q_chitchat	3.918033	¿Puedes leer mi mente
+q_chitchat	3.918033	Hola Alexa
+q_chitchat	3.918033	Gracias
+q_chitchat	3.918033	Estoy aburrido de mi mente
+q_chitchat	7.836066	Eres inútil.
+q_chitchat	3.918033	¿Quién es tu madre
+q_chitchat	3.918033	Te adoro
+q_chitchat	3.918033	¿Estás ocupado
+q_chitchat	3.918033	¿Qué debo hacer
+q_chitchat	3.918033	Que tengas una buena noche
+q_chitchat	3.918033	¿Eres más guapa que yo
+q_chitchat	3.918033	¿Debo conseguir un nuevo trabajo
+q_chitchat	7.836066	¡ Eres increíble!
+q_chitchat	3.918033	¿Eres hembra
+q_chitchat	3.918033	¿A qué te dedicas
+q_chitchat	3.918033	¿Cómo está tu día
+q_chitchat	3.918033	¿Qué opina de mí
+q_chitchat	3.918033	Estoy enamorado.
+q_chitchat	3.918033	¿Soy un tonto
+q_chitchat	3.918033	¿Hueles
+q_chitchat	3.918033	¿Cómo va tu día
+q_chitchat	3.918033	¿BFFs para siempre
+q_chitchat	3.918033	Estoy desanimado
+q_chitchat	3.918033	Inexacta
+q_chitchat	3.918033	Nadie se preocupa por mí.
+q_chitchat	3.918033	¿Te gusta Siri
+q_chitchat	3.918033	¿Quién es tu amo
+q_chitchat	3.918033	¿En qué trabajas
+q_chitchat	3.918033	Hasta que nos volvamos a encontrar
+q_chitchat	3.918033	Estoy tan somnoliento
+q_chitchat	3.918033	¿No eres un astilladora
+q_chitchat	3.918033	Cocíname algo
+q_chitchat	3.918033	¿Puedes hacerme una pregunta
+q_chitchat	3.918033	No estoy siguiendo
+q_chitchat	3.918033	¿No eres increíble
+q_chitchat	3.918033	¿Tienes hermanas
+q_chitchat	3.918033	¡Te extraño muchísimo!
+q_chitchat	3.918033	¿Alguna vez tienes hambre
+q_chitchat	3.918033	Te agradas
+q_chitchat	3.918033	¿Cuánto me amas
+q_chitchat	7.836066	Eres tonto.
+q_chitchat	3.918033	Estoy enamorado de ti.
+q_chitchat	3.918033	¿Quién es tu mamá
+q_chitchat	3.918033	Vete a la mierda
+q_chitchat	3.918033	Estoy alegre
+q_chitchat	3.918033	¿Dónde se encuentra
+q_chitchat	3.918033	¿Eres joven
+q_chitchat	3.918033	Lo siento
+q_chitchat	3.918033	Jaja
+q_chitchat	3.918033	Eres aburrido.
+q_chitchat	3.918033	¿Qué estás haciendo ahora mismo
+q_chitchat	3.918033	¿Cómo te llamo
+q_chitchat	3.918033	Kthx
+q_chitchat	3.918033	¿Conoces alguna melodía
+q_chitchat	3.918033	Vas a estar desempleada pronto.
+q_chitchat	3.918033	Tu cara es fea.
+q_chitchat	3.918033	Amo a mi familia.
+q_chitchat	3.918033	Eres cojo.
+q_chitchat	3.918033	Eres tan feliz
+q_chitchat	3.918033	¿Qué tipo de caramelo te gusta
+q_chitchat	3.918033	¿Crees que me veo bien
+q_chitchat	3.918033	¿Ser mi amigo
+q_chitchat	3.918033	¿Te gusta Cortana
+q_chitchat	3.918033	Estoy lleno de tristeza
+q_chitchat	3.918033	Habla conmigo
+q_chitchat	3.918033	¿A quién amas
+q_chitchat	3.918033	¿Alguna vez has cantado una canción
+q_chitchat	3.918033	Eso es inexacto.
+q_chitchat	3.918033	Eres genial.
+q_chitchat	3.918033	¿Quién es más inteligente, yo o tú
+q_chitchat	3.918033	No es gracioso.
+q_chitchat	3.918033	Estoy molesto
+q_chitchat	3.918033	Dame un beso
+q_chitchat	3.918033	Sí
+q_chitchat	3.918033	¿Eres un tipo
+q_chitchat	3.918033	¿Cuál es tu canción favorita
+q_chitchat	3.918033	Hannukah feliz
+q_chitchat	3.918033	¿Qué estás haciendo
+q_chitchat	3.918033	Suena bien
+q_chitchat	3.918033	¿Con qué me puedes ayudar
+q_chitchat	3.918033	¿Nunca duermes
+q_chitchat	3.918033	Canta una canción
+q_chitchat	3.918033	¿Eres fan de la tecnología
+q_chitchat	7.836066	Creo que eres genial.
+q_chitchat	3.918033	Estoy listo para la cama
+q_chitchat	3.918033	¿Cómo se llama tu mamá
+q_chitchat	3.918033	¿Conoces a otros Chatbots
+q_chitchat	3.918033	Eres tan aburrido
+q_chitchat	3.918033	Hsa
+q_chitchat	3.918033	No entiendo
+q_faq	39.83333	¿Cómo descargar Notas débito
+q_faq	39.83333	¿Cómo genero un reclamo de billing
+q_faq	39.83333	Acceso a Billing
+q_faq	39.83333	¿Cómo genero un reclamo de facturación
+q_faq	39.83333	¿Cómo consulto el detalle de telefonía
+q_faq	39.83333	¿Cómo puedo visualizar mi factura
+q_faq	39.83333	¿Cómo descargar Notas débito
+q_faq	39.83333	¿Cómo genero un reclamo de billing
+q_faq	39.83333	Acceso a Billing
+q_faq	39.83333	¿Cómo genero un reclamo de facturación
+q_faq	39.83333	¿Cómo consulto el detalle de telefonía
+q_faq	39.83333	¿Cómo puedo visualizar mi factura

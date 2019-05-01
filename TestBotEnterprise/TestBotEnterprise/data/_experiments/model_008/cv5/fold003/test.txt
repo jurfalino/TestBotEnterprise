@@ -1,0 +1,196 @@
+Label	Weight	Text
+l_general	8.907408	elegir último
+l_general	8.907408	seleccione superior
+l_general	8.907408	vamos a parar
+l_general	8.907408	seguir adelante
+l_general	8.907408	quiero parte inferior
+l_general	8.907408	ha terminado
+l_general	8.907408	por favor ayuda
+l_general	8.907408	quiero elegir el izquierda una
+l_general	8.907408	seleccionar tercero
+l_general	8.907408	que me puede ayudar
+l_general	8.907408	elija no. 2
+l_general	8.907408	pasar a la siguiente
+l_general	8.907408	quiero derecho una
+l_general	8.907408	elegir arriba a la derecha
+l_general	8.907408	quiero tercer uno
+l_general	8.907408	ni gracias
+l_general	8.907408	oh no hagas eso
+l_general	8.907408	me gusta la tercera
+l_general	8.907408	abrir ayuda
+l_general	8.907408	¿qué pasa con el tercero
+l_general	8.907408	lo
+l_general	8.907408	apaga
+l_general	8.907408	necesito ayuda
+l_general	8.907408	cancelar
+l_general	8.907408	todo listo
+l_general	8.907408	elegir el cuarto uno
+l_general	8.907408	no no no no dejar de hablar
+l_general	8.907408	claro y empezar de nuevo
+l_general	8.907408	otra vez
+l_general	8.907408	me gusta la tercera opción
+l_general	8.907408	optar por uno aleatorio
+l_general	8.907408	servicio al cliente
+l_general	8.907408	optar por el inferior elección
+l_general	8.907408	sólo ser
+l_general	8.907408	despedir
+l_general	8.907408	no importa dejar de
+l_general	8.907408	sólo cállate
+l_general	8.907408	tranquilo
+l_general	8.907408	traer el anterior
+l_general	8.907408	yo no oí repetir de nuevo
+l_general	8.907408	¿qué pasa con la última
+l_general	8.907408	nada por favor
+l_general	8.907408	mostrar el anterior
+l_general	8.907408	quiero ninguno de ellos
+l_general	8.907408	elegir arriba a la derecha una
+l_general	8.907408	¿hay alguna persona con la que pueda hablar
+l_general	8.907408	no quiero elegir uno
+l_general	8.907408	necesito servicio al cliente manual
+l_general	8.907408	callado
+l_general	8.907408	simplemente cancelarlo
+l_general	8.907408	quiero que el derecho una
+l_general	8.907408	dar vuelta a la página
+l_general	8.907408	ninguno de ellos gracias
+l_general	8.907408	alguien está bien
+None	48.1	todos ellos
+None	48.1	todos ellos
+None	48.1	todos ellos
+None	48.1	todos ellos
+None	48.1	todos ellos
+None	48.1	todos ellos
+None	48.1	todos ellos
+None	48.1	todos ellos
+None	48.1	todos ellos
+None	48.1	todos ellos
+q_chitchat	4.076271	¿No te da hambre
+q_chitchat	4.076271	Te estoy dando un resbalón rosado
+q_chitchat	4.076271	¡ Bienvenidos a la primavera!
+q_chitchat	4.076271	Eres aburrido.
+q_chitchat	4.076271	Tu cara es como un panqueque.
+q_chitchat	4.076271	No entiendo
+q_chitchat	4.076271	Honestamente no podría ser más sin interés
+q_chitchat	4.076271	¿Podemos charlar
+q_chitchat	4.076271	Estoy hambriento
+q_chitchat	4.076271	¿Estás con la CIA
+q_chitchat	4.076271	¿En qué trabajas
+q_chitchat	4.076271	Estoy aburrido
+q_chitchat	4.076271	¿Qué te gusta comer
+q_chitchat	4.076271	¿Me quieres
+q_chitchat	4.076271	Eres mi mejor amigo
+q_chitchat	4.076271	Tengo hambre
+q_chitchat	4.076271	¿Qué opinas de mí
+q_chitchat	4.076271	¿Puedo abrazarme
+q_chitchat	4.076271	¡Calla!
+q_chitchat	4.076271	Más tarde
+q_chitchat	4.076271	Es un placer
+q_chitchat	4.076271	¿Soy un tonto
+q_chitchat	4.076271	Quiero pasar el resto de mi vida contigo
+q_chitchat	4.076271	Eres horrible.
+q_chitchat	4.076271	¿Estás aquí
+q_chitchat	4.076271	¿Puedes decir algo más
+q_chitchat	4.076271	¿Alguna vez has cantado una canción
+q_chitchat	4.076271	¿Qué estás haciendo
+q_chitchat	4.076271	Eres un imbécil.
+q_chitchat	4.076271	Mañana
+q_chitchat	4.076271	¿Me conoces
+q_chitchat	4.076271	¿Eres fan de Alexa
+q_chitchat	4.076271	Aquí tienes un beso para ti
+q_chitchat	4.076271	Nadie se preocupa por mí.
+q_chitchat	4.076271	¿Cómo me veo hoy
+q_chitchat	4.076271	A nadie le gusto
+q_chitchat	4.076271	Soy tan madqw b
+q_chitchat	4.076271	¿Quién es tu jefe
+q_chitchat	4.076271	Hola Siri
+q_chitchat	4.076271	¿Por qué crees eso
+q_chitchat	4.076271	¿Cuál de nosotros es más inteligente
+q_chitchat	4.076271	No eres tan guapa.
+q_chitchat	4.076271	¿Quién te ha hecho
+q_chitchat	4.076271	¡Chócalas!
+q_chitchat	4.076271	¿Cómo puedes ayudarme
+q_chitchat	8.152542	No es verdad.
+q_chitchat	4.076271	¿Eres pansexual
+q_chitchat	4.076271	Estoy haciendo eso
+q_chitchat	4.076271	No eres divertido
+q_chitchat	4.076271	¿Qué color te gusta
+q_chitchat	4.076271	¿De qué estado eres
+q_chitchat	4.076271	Tan cansado
+q_chitchat	4.076271	¿Qué opinas sobre AI
+q_chitchat	4.076271	Quiero ir de compras
+q_chitchat	4.076271	¿Qué tipo de caramelo te gusta
+q_chitchat	4.076271	¿Estás ocupado
+q_chitchat	4.076271	Quiero casarme contigo.
+q_chitchat	4.076271	Dime una broma
+q_chitchat	4.076271	Di algo estúpido
+q_chitchat	4.076271	¿Crees que los dragones son geniales
+q_chitchat	4.076271	¿Qué haces mañana
+q_chitchat	4.076271	¿Tienes hermanas
+q_chitchat	4.076271	¿Quién es tu madre
+q_chitchat	4.076271	Buenas tardes a ti
+q_chitchat	4.076271	¿Eres real
+q_chitchat	4.076271	¿Eres más inteligente que yo
+q_chitchat	4.076271	¿Puedes volar
+q_chitchat	4.076271	No tenía sentido
+q_chitchat	4.076271	Soy republicano
+q_chitchat	4.076271	¿Sabes quién soy
+q_chitchat	4.076271	¿Eres mejor que yo
+q_chitchat	4.076271	¿Tienes hambre
+q_chitchat	4.076271	Ojalá pudiera abrazarte
+q_chitchat	4.076271	Debes odiarme.
+q_chitchat	4.076271	¿Quieres gobernar el mundo
+q_chitchat	4.076271	¿Crees que me veo bien
+q_chitchat	4.076271	Eso es asombroso.
+q_chitchat	4.076271	Dame un poco de azúcar.
+q_chitchat	4.076271	La vida es buena
+q_chitchat	4.076271	Vuelvo ahora
+q_chitchat	4.076271	¿Tienes mocos
+q_chitchat	4.076271	¿Conoces a otros Chatbots
+q_chitchat	4.076271	¿Eres trans
+q_chitchat	4.076271	Abrázame
+q_chitchat	4.076271	Estoy en ello
+q_chitchat	4.076271	¿Cuándo naciste
+q_chitchat	4.076271	Soy ingeniero
+q_chitchat	4.076271	¿Qué opinas sobre el amor
+q_chitchat	4.076271	Di algo gracioso
+q_chitchat	4.076271	Estás muy lejos.
+q_chitchat	4.076271	¿Me veo bien en azul
+q_chitchat	4.076271	¿Cómo están las cosas
+q_chitchat	4.076271	Te odio
+q_chitchat	4.076271	Cansarse de ti
+q_chitchat	4.076271	¿En dónde vives
+q_chitchat	4.076271	¿Qué opinas sobre bots
+q_chitchat	4.076271	Eres el peor
+q_chitchat	4.076271	¿Comes
+q_chitchat	4.076271	Correcto
+q_chitchat	4.076271	¿Cuál es tu sexo
+q_chitchat	4.076271	¿Me oyes ahora
+q_chitchat	4.076271	Aquí estoy
+q_chitchat	4.076271	Gracias
+q_chitchat	4.076271	¿Cómo te va
+q_chitchat	4.076271	¿Podemos ser amigos
+q_chitchat	4.076271	Eso fue gracioso
+q_chitchat	4.076271	¿Puedes hacerme un sándwich
+q_chitchat	4.076271	¿Cuánto me amas
+q_chitchat	4.076271	Mi sincero agradecimiento
+q_chitchat	4.076271	Eres muy inteligente
+q_chitchat	4.076271	Me muero de hambre
+q_chitchat	4.076271	Di algo
+q_chitchat	4.076271	¿Pasas tiempo en tu jardín
+q_chitchat	4.076271	¿Qué tan feliz estás
+q_chitchat	4.076271	¿Me veo bien
+q_chitchat	4.076271	¡ Cierra la cremallera!
+q_chitchat	4.076271	Cocíname algo
+q_faq	34.35714	¿Cómo accedo a Facturación
+q_faq	34.35714	¿Cómo solicitar permisos para visualizar facturas
+q_faq	34.35714	¿Cómo consulto mi detalle de consumos
+q_faq	34.35714	¿Cómo obtengo mis facturas históricas
+q_faq	34.35714	¿Cómo puedo obtener los permisos para acceder a las funcionalidades de Billing
+q_faq	34.35714	¿Cómo visualizo mi factura
+q_faq	34.35714	¿Cómo solicito acceso a Billing
+q_faq	34.35714	¿Cómo accedo a Facturación
+q_faq	34.35714	¿Cómo solicitar permisos para visualizar facturas
+q_faq	34.35714	¿Cómo consulto mi detalle de consumos
+q_faq	34.35714	¿Cómo obtengo mis facturas históricas
+q_faq	34.35714	¿Cómo puedo obtener los permisos para acceder a las funcionalidades de Billing
+q_faq	34.35714	¿Cómo visualizo mi factura
+q_faq	34.35714	¿Cómo solicito acceso a Billing

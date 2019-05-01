@@ -1,0 +1,195 @@
+Label	Weight	Text
+l_general	8.888889	está hecho
+l_general	8.888889	parada ok parada
+l_general	8.888889	optar por el izquierda una
+l_general	8.888889	quiero elegir un segundo
+l_general	8.888889	no cállate
+l_general	8.888889	empezar de nuevo
+l_general	8.888889	dejar de hablar
+l_general	8.888889	por favor regrese
+l_general	8.888889	no se calla ahora
+l_general	8.888889	cancelar no importa
+l_general	8.888889	lo que después de que
+l_general	8.888889	servicio humano
+l_general	8.888889	contacte con el servicio al cliente
+l_general	8.888889	despedir
+l_general	8.888889	cállate silencio
+l_general	8.888889	muéstrame el siguiente
+l_general	8.888889	enviar
+l_general	8.888889	quiero ninguno de ellos
+l_general	8.888889	quiero elegir el cuarto
+l_general	8.888889	tranquilo ahora
+l_general	8.888889	quiero elegir tercero
+l_general	8.888889	bebé sólo estar tranquilo
+l_general	8.888889	cancelar que
+l_general	8.888889	necesito ayuda humana real
+l_general	8.888889	seguir adelante
+l_general	8.888889	ni gracias
+l_general	8.888889	seleccione la primera
+l_general	8.888889	cancelarlo
+l_general	8.888889	por favor ayuda
+l_general	8.888889	me gusta el primero
+l_general	8.888889	volver a la última
+l_general	8.888889	estoy hecho
+l_general	8.888889	quiero parte inferior
+l_general	8.888889	ni
+l_general	8.888889	quiero que el inferior elección
+l_general	8.888889	apaga
+l_general	8.888889	quiero elegir derecho
+l_general	8.888889	cancelar cancelar
+l_general	8.888889	cállate tranquilo
+l_general	8.888889	atrás
+l_general	8.888889	seleccione la tercera
+l_general	8.888889	lo que es antes de que
+l_general	8.888889	ninguno ninguno
+l_general	8.888889	optar por el segundo
+l_general	8.888889	optar por el inferior elección
+l_general	8.888889	contactar con el soporte
+l_general	8.888889	oh mi dios cállate
+l_general	8.888889	mostrar el anterior
+l_general	8.888889	lo que es más
+l_general	8.888889	cállate la boca
+l_general	8.888889	ayuda
+l_general	8.888889	cualquier ayuda
+l_general	8.888889	ninguno
+l_general	8.888889	todo terminado
+None	48	todos ellos
+None	48	todos ellos
+None	48	todos ellos
+None	48	todos ellos
+None	48	todos ellos
+None	48	todos ellos
+None	48	todos ellos
+None	48	todos ellos
+None	48	todos ellos
+None	48	todos ellos
+q_chitchat	4	Mañana
+q_chitchat	4	Quiero ser tu amigo.
+q_chitchat	4	Quiero que te guste
+q_chitchat	4	¿Eres bisexual
+q_chitchat	4	Eres el mejor
+q_chitchat	4	¿Qué te gusta comer
+q_chitchat	4	¿Quién es tu creador
+q_chitchat	4	¿Eres fanático de la música Country
+q_chitchat	4	¿Cuándo te callas
+q_chitchat	4	¿No puedes cambiar tus respuestas
+q_chitchat	4	¿Cuál es tu película favorita
+q_chitchat	4	¿Cuál es tu animal favorito
+q_chitchat	4	¿No eres un astilladora
+q_chitchat	4	Me muero de hambre
+q_chitchat	4	¿Cuál es mi nombre
+q_chitchat	4	¿Qué te gusta cantar mejor
+q_chitchat	4	Funciona para mí
+q_chitchat	4	¿Cuál es tu color favorito
+q_chitchat	4	¿Por qué eres tan aburrido
+q_chitchat	4	¿Eres HAL
+q_chitchat	4	Quiero casarme contigo.
+q_chitchat	4	¿Eres más inteligente que yo
+q_chitchat	4	¿Cómo puedes ayudarme
+q_chitchat	4	Todo lo que me dijiste era falso.
+q_chitchat	4	Quiero comer algo
+q_chitchat	4	Aquí tienes un beso para ti
+q_chitchat	4	¿Conoces alguna melodía
+q_chitchat	4	Brb
+q_chitchat	4	¿Conociste a Cortana
+q_chitchat	4	Eres un maldito
+q_chitchat	4	¿Qué opinas sobre la tecnología
+q_chitchat	4	¿Qué opinas sobre AI
+q_chitchat	4	¿Cómo va tu día
+q_chitchat	4	¿Qué haces
+q_chitchat	4	ROFL
+q_chitchat	4	Silencio,
+q_chitchat	4	¡Calla!
+q_chitchat	4	Di algo ridículo
+q_chitchat	4	¿Puedes contar hasta un millón
+q_chitchat	4	¿Hace cuánto que naciste
+q_chitchat	4	¡Te extraño muchísimo!
+q_chitchat	4	¿Conoces Google
+q_chitchat	4	¿Crees que eres más listo que yo
+q_chitchat	4	¿Cómo se llama tu mamá
+q_chitchat	4	¿Cuántos años tienes
+q_chitchat	4	Estoy enojado
+q_chitchat	4	¿A quién amas
+q_chitchat	4	No lo entiendo
+q_chitchat	4	¿Soy guapo
+q_chitchat	4	¿Qué estás haciendo ahora mismo
+q_chitchat	12	Te quiero.
+q_chitchat	4	Soy un fanático.
+q_chitchat	4	¿Debo conseguir un nuevo trabajo
+q_chitchat	4	Decir una cosa tonta
+q_chitchat	4	¿Puedes leer mi mente
+q_chitchat	4	Quiero pasar el resto de mi vida contigo
+q_chitchat	4	¿Eres mi amigo
+q_chitchat	4	Cállate
+q_chitchat	4	Estoy cansado
+q_chitchat	4	Sí, es cierto.
+q_chitchat	4	Estoy tan sola
+q_chitchat	4	Me alegra conocerte.
+q_chitchat	4	Eso es asombroso.
+q_chitchat	4	¿Eres un swinger
+q_chitchat	4	¿Eres mi ayudante
+q_chitchat	4	Eres cojo.
+q_chitchat	4	¡Eres agradable!
+q_chitchat	4	Es broma
+q_chitchat	4	Estoy tan somnoliento
+q_chitchat	4	Buenas noches a ti
+q_chitchat	4	¿Qué quieres decir
+q_chitchat	4	¿Qué harás después
+q_chitchat	4	Mi sincero agradecimiento
+q_chitchat	4	¿Quién es tu cantante favorito
+q_chitchat	4	¿Cuánto me amas
+q_chitchat	4	Necesito un abrazo
+q_chitchat	4	¿De qué estado eres
+q_chitchat	4	Eres una cara de mantequilla.
+q_chitchat	4	Deja de hablar
+q_chitchat	4	¿Sabes alguna broma
+q_chitchat	4	Eres gracioso:)
+q_chitchat	4	¿Qué estás haciendo
+q_chitchat	4	¿Puedes cantar una canción
+q_chitchat	4	¿Tienes hermanas
+q_chitchat	4	Vete
+q_chitchat	4	La broma está en ti
+q_chitchat	4	Eres mi mejor amigo
+q_chitchat	4	Estoy aquí
+q_chitchat	4	¿Me quieres
+q_chitchat	4	¿Te gusta Alexa
+q_chitchat	4	¿Quién es tu papá
+q_chitchat	4	¿Cantas
+q_chitchat	4	Eres maravillosa.
+q_chitchat	4	Estoy listo para la cama
+q_chitchat	4	¿Conoces el significado de la vida
+q_chitchat	4	¿Qué edad tienes
+q_chitchat	4	Hay Google
+q_chitchat	4	¿Eres amigo de otros bots
+q_chitchat	4	¿Por qué
+q_chitchat	4	Dame un beso
+q_chitchat	4	¿Eres un niño
+q_chitchat	4	¿No estás alegre
+q_chitchat	4	Tengo tanta hambre
+q_chitchat	4	¿Cuál es la respuesta al universo
+q_chitchat	4	Eso no es gracioso.
+q_chitchat	4	¿Quién eres
+q_chitchat	4	¿Eres realmente feliz
+q_chitchat	4	Sea más divertido
+q_chitchat	4	Pareces muy inteligente
+q_chitchat	4	Es un placer conocerte
+q_chitchat	4	Estoy aburrido
+q_chitchat	4	¿Quieres gobernar el mundo
+q_chitchat	4	Te enfrentas a una porquería.
+q_chitchat	4	Soy tan madqw b
+q_chitchat	4	¿Podemos charlar
+q_chitchat	4	¿Eres heterosexual
+q_chitchat	4	¿Quién te creó
+q_chitchat	4	Pruebas
+q_faq	40	¿Cómo obtener el historial de mis facturas
+q_faq	40	¿Cómo consulto el detalle de telefonía
+q_faq	40	¿Cómo crear una disputa
+q_faq	40	¿Cómo solicito acceso a Facturación
+q_faq	40	¿Cómo consulto mis últimas facturas
+q_faq	40	¿Cómo elevo un reclamo de facturación
+q_faq	40	¿Cómo obtener el historial de mis facturas
+q_faq	40	¿Cómo consulto el detalle de telefonía
+q_faq	40	¿Cómo crear una disputa
+q_faq	40	¿Cómo solicito acceso a Facturación
+q_faq	40	¿Cómo consulto mis últimas facturas
+q_faq	40	¿Cómo elevo un reclamo de facturación

@@ -1,0 +1,2 @@
+Utterance	Intents
+cállate	l_general, q_chitchat

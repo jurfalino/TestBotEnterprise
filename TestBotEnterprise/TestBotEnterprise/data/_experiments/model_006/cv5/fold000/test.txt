@@ -1,0 +1,195 @@
+Label	Weight	Text
+l_general	8.888889	terminado con
+l_general	8.888889	contactar con el soporte
+l_general	8.888889	por favor regrese
+l_general	8.888889	¿cuál es el anterior
+l_general	8.888889	quiero hablar con un humano real
+l_general	8.888889	olvídalo
+l_general	8.888889	¿cómo puedo conseguirlo
+l_general	8.888889	oh no hagas eso
+l_general	8.888889	lo que después de que
+l_general	8.888889	estoy acabado
+l_general	8.888889	puede ayudar a
+l_general	8.888889	quiero que el derecho una
+l_general	8.888889	dije que pare
+l_general	8.888889	quiero ninguno de ellos
+l_general	8.888889	ha terminado
+l_general	8.888889	optar por derecho una
+l_general	8.888889	quiero elegir un segundo
+l_general	8.888889	mostrar los siguientes 4 artículos
+l_general	8.888889	contacte con el servicio al cliente
+l_general	8.888889	empezar de nuevo
+l_general	8.888889	dar vuelta a la página
+l_general	8.888889	me gusta la tercera opción
+l_general	8.888889	seleccione superior
+l_general	8.888889	quiero elegir abajo a la derecha
+l_general	8.888889	salida salida
+l_general	8.888889	elegir último uno
+l_general	8.888889	no he escuchado
+l_general	8.888889	mente de los nervios
+l_general	8.888889	elija no. 2
+l_general	8.888889	cancelar
+l_general	8.888889	repetir
+l_general	8.888889	no hagas eso
+l_general	8.888889	detener por favor
+l_general	8.888889	oh mi dios cállate
+l_general	8.888889	nada no importa
+l_general	8.888889	optar por el inferior elección
+l_general	8.888889	elija el arriba a la izquierda elección
+l_general	8.888889	ninguno
+l_general	8.888889	nadie le importa dejar de hablar
+l_general	8.888889	¿hay alguna ayuda
+l_general	8.888889	me puedes ayudar
+l_general	8.888889	¿hay algún humano real
+l_general	8.888889	mostrar el siguiente
+l_general	8.888889	me gusta el parte inferior una
+l_general	8.888889	lo que antes de que
+l_general	8.888889	bebé sólo estar tranquilo
+l_general	8.888889	dejar de hablar
+l_general	8.888889	mostrar las siguientes dos opciones
+l_general	8.888889	me gusta arriba a la derecha
+l_general	8.888889	mostrar los próximos 3
+l_general	8.888889	quiero derecho una
+l_general	8.888889	uno anterior
+l_general	8.888889	otra vez
+l_general	8.888889	elegir último
+None	48	quiero a todos ellos
+None	48	quiero a todos ellos
+None	48	quiero a todos ellos
+None	48	quiero a todos ellos
+None	48	quiero a todos ellos
+None	48	quiero a todos ellos
+None	48	quiero a todos ellos
+None	48	quiero a todos ellos
+None	48	quiero a todos ellos
+None	48	quiero a todos ellos
+q_chitchat	4	Estoy tan sola
+q_chitchat	4	¿Cantas
+q_chitchat	4	¿Qué es el amor
+q_chitchat	4	Eres muy inteligente
+q_chitchat	4	¿Puedes practicar deportes
+q_chitchat	4	Bésame
+q_chitchat	4	¿Cómo se llama tu jefe
+q_chitchat	4	¿Eres amigo de otros bots
+q_chitchat	4	Sí, es verdad.
+q_chitchat	4	¿Qué opinas sobre el amor
+q_chitchat	4	Vuelvo en un minuto
+q_chitchat	4	Estoy masticando chicle ahora mismo.
+q_chitchat	4	¿Eres libre
+q_chitchat	4	¿Eres mejor que yo
+q_chitchat	4	¿No te gusto
+q_chitchat	4	Abrázame
+q_chitchat	4	Encantado de conocerte
+q_chitchat	4	Correcto
+q_chitchat	4	Dame un alto cinco
+q_chitchat	4	¿Cómo te va
+q_chitchat	4	¿Cuál es el nombre de tu jefe
+q_chitchat	4	¡Chócalas!
+q_chitchat	4	Hay Siri
+q_chitchat	4	¿Pasas tiempo en tu jardín
+q_chitchat	4	¿Eres real
+q_chitchat	4	¡Feliz Halloween!
+q_chitchat	4	¿Alguna vez cantas
+q_chitchat	4	¡ Eres un genio!
+q_chitchat	4	Estoy rompiendo
+q_chitchat	4	¿Qué quieres decir con eso
+q_chitchat	4	¿En qué país estás
+q_chitchat	4	¿Debería probar el fútbol
+q_chitchat	4	¿Tienes mamá
+q_chitchat	4	¿Eres un robot
+q_chitchat	4	Estoy de buen humor.
+q_chitchat	4	¡Calla!
+q_chitchat	4	¿Tienes mocos
+q_chitchat	4	Debes odiarme.
+q_chitchat	4	¿Quién es tu equipo favorito
+q_chitchat	4	Eso es hilarante
+q_chitchat	4	Hay
+q_chitchat	4	Me aburre
+q_chitchat	4	¿Cómo puedes ayudarme
+q_chitchat	4	Ojalá dijeras algo más.
+q_chitchat	4	¿Qué te gusta cantar mejor
+q_chitchat	4	¿De dónde vienes
+q_chitchat	4	¿No te da hambre
+q_chitchat	4	¿Tienes una hermana
+q_chitchat	4	Odio todo sobre ti
+q_chitchat	4	Precisa
+q_chitchat	4	ROFL
+q_chitchat	4	¿Esta cosa está puesta
+q_chitchat	4	Eso es exacto.
+q_chitchat	4	Sólo quiero ir a dormir
+q_chitchat	4	¿Crees que los dragones son geniales
+q_chitchat	4	Ojalá no estuviera tan solo.
+q_chitchat	4	¿Estás contento
+q_chitchat	4	¿Cuál es la respuesta al universo
+q_chitchat	8	No es verdad.
+q_chitchat	4	No eres tan guapa.
+q_chitchat	8	Estás despedido
+q_chitchat	4	Estoy enojado
+q_chitchat	4	Háme una pregunta.
+q_chitchat	4	Soy un fanático.
+q_chitchat	4	Estoy tan triste
+q_chitchat	4	¿Qué puedes hacer
+q_chitchat	4	Perdón
+q_chitchat	4	Eres tan inteligente
+q_chitchat	4	¿Eres la singularidad
+q_chitchat	4	Eres un imbécil.
+q_chitchat	4	Deja de hablar
+q_chitchat	4	¿Eres
+q_chitchat	4	¿Te gusta mi sombrero
+q_chitchat	4	Eso fue una broma
+q_chitchat	4	Sea ridículo
+q_chitchat	4	¡Eres agradable!
+q_chitchat	4	¿Conoces alguna canción
+q_chitchat	4	¿Tienes papá
+q_chitchat	4	¿Eres viejo
+q_chitchat	4	Sea más divertido
+q_chitchat	4	Voy a correr
+q_chitchat	4	¿Cuál es tu propósito
+q_chitchat	4	¿Eres mi amigo
+q_chitchat	4	¿A quién se reporta
+q_chitchat	4	No puedo pensar en nada que quiera hacer
+q_chitchat	4	¿Eres mi admirador
+q_chitchat	4	¿Estás con la CIA
+q_chitchat	4	Qué inteligente eres
+q_chitchat	4	Eso no tenía sentido
+q_chitchat	4	Eres un estúpido
+q_chitchat	4	¿Sueñas
+q_chitchat	4	¿Quién es tu papi
+q_chitchat	4	¿Qué opinas de mí
+q_chitchat	4	¿Me conoces
+q_chitchat	4	Eres un sabelotodo.
+q_chitchat	4	¿Qué tipo de cosas puedes hacer
+q_chitchat	4	¿Qué haces
+q_chitchat	4	Pruebas
+q_chitchat	4	Sí, es cierto.
+q_chitchat	4	¿Eres pansexual
+q_chitchat	4	¡ Eres tan molesto!
+q_chitchat	4	Eres el amor de mi vida
+q_chitchat	4	¿Sabes mi nombre
+q_chitchat	4	¿Por qué dices lo mismo todo el tiempo
+q_chitchat	4	Cansarse de ti
+q_chitchat	4	Ya hablamos
+q_chitchat	4	¡ Golpe de puño!
+q_chitchat	4	Quiero pasar el resto de mi vida contigo
+q_chitchat	4	¿Puedes cantar
+q_chitchat	4	Eres tan gracioso.
+q_chitchat	4	Soy tan madqw b
+q_chitchat	4	¿Eres más inteligente que yo
+q_chitchat	4	¿Quién soy yo
+q_chitchat	4	¿Cuándo naciste
+q_chitchat	4	No lo entiendo
+q_chitchat	4	Estoy todo destuitado
+q_chitchat	4	Nos vemos luego
+q_chitchat	4	Es un placer conocerte
+q_faq	40	¿Qué es el Enterprise bot template
+q_faq	40	¿Qué es la plantilla de bot de Enterprise
+q_faq	40	¿Cómo solicito acceso a Billing
+q_faq	40	¿Cómo crear una disputa
+q_faq	40	¿Cómo accedo a Facturación
+q_faq	40	¿Cómo obtener el historial de mis facturas
+q_faq	40	¿Qué es el Enterprise bot template
+q_faq	40	¿Qué es la plantilla de bot de Enterprise
+q_faq	40	¿Cómo solicito acceso a Billing
+q_faq	40	¿Cómo crear una disputa
+q_faq	40	¿Cómo accedo a Facturación
+q_faq	40	¿Cómo obtener el historial de mis facturas
